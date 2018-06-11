@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <item>
+<title>[COLOR yellow][B] Documentales: Peliculas..[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de+Misterios+y+Conspiraciones&sp=EgIQA0IECAESAA%253D%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://t2.kn3.net/taringa/C/F/F/5/C/D/bunnyontopofcake/7A6.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
+
+<item>
 <title>Peliculas Ciencia ficcion</title>
                         <thumbnail>https://i.imgur.com/8Glc58b.jpg</thumbnail>
 			                  <fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
