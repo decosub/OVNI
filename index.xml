@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title>"[COLOR lime]O.V.N.I.[/COLOR]...Bien venido a otros mundos"
+<title>"[COLOR lime]Peliculas de Culto[/COLOR]...Bien venido a otros mundos"
+</title>
+<thumbnail>https://i.imgur.com/9i2C5KQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/ORnutJ2.jpg</fanart>
+<link></link>
+<externallink></externallink>
+</item>
+
+<item>
+<title>"[COLOR lime]Series de Culto[/COLOR]...Bien venido a otros mundos"
 </title>
 <thumbnail>https://i.imgur.com/9i2C5KQ.jpg</thumbnail>
 <fanart>https://i.imgur.com/ORnutJ2.jpg</fanart>
@@ -21,7 +30,7 @@
 
 
 <item>
-<title>"[COLOR lime]Entra en nuevos mundos[/COLOR]
+<title>"[COLOR lime]Misterios[/COLOR]
 </title>
 <thumbnail>https://i.imgur.com/9i2C5KQ.jpg</thumbnail>
 <fanart>https://i.imgur.com/ORnutJ2.jpg</fanart>
