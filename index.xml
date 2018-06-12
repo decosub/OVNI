@@ -3,7 +3,7 @@
 
 <items>
 <item>
-<title>[COLOR white] Si tienes Problemas de Reproducción LÉEME [/COLOR]</title>
+<title>[COLOR white] Si tienes Problemas de Reproducción LÉEME:[/COLOR][COLOR lime] Agradecimiento especial a @Tecobt  [/COLOR]</title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
@@ -65,7 +65,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 import requests,xbmcgui,xbmc, re,time, xbmcaddon
 def GetLSProData(page_data,Cookie_Jar,m):
  
- text=takeInputFortext('[COLOR yellow] Agora/[/COLOR] [COLOR white]Buscar Documental[/COLOR]')
+ text=takeInputFortext('[COLOR lime]O.V.N.I.: [/COLOR] [COLOR blue]Buscar Documental[/COLOR]')
  url = 'https://www.youtube.com/results?search_query=Documental' + text.replace(' ', '+')
  req = requests.get(url)
  list1 = re.findall('yt-lockup-c.+?a\shref=".watch.v=([^"]+)".+?\s\stitle="([^"]+)"\s', req.text)
@@ -83,7 +83,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
  return list1
  
 def takeInputFortext(txt):
- addon = xbmcaddon.Addon('plugin.video.Agora')
+ addon = xbmcaddon.Addon('plugin.video.ovni')
  addon_version = addon.getAddonInfo('version')
  profile = xbmc.translatePath(addon.getAddonInfo('profile').decode('utf-8'))
  
@@ -118,10 +118,6 @@ class InputWindow(xbmcgui.WindowDialog):
 </item>
 
 
-
-
-
-
 <item>
 <title>[COLOR white] Documentos TV [/COLOR]</title>
 <link>http://ignorame</link>
@@ -140,7 +136,6 @@ class InputWindow(xbmcgui.WindowDialog):
 </item>
 
 
-
 <item>
 <title>[COLOR white] Redes TVE [/COLOR]</title>
 <link>ignore</link>
@@ -148,9 +143,6 @@ class InputWindow(xbmcgui.WindowDialog):
 <thumbnail>https://imagecdn.acast.com/redes/redes-157-el-aprendizaje-social-y-emocional-las-habilidades-para-la-vida/image.jpg?w=500&h=500</thumbnail>
 <fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
 </item>
-
- 
-
 
 <item>
 <title>[COLOR white] Cuarto Milenio [/COLOR]</title>
@@ -169,60 +161,6 @@ class InputWindow(xbmcgui.WindowDialog):
 <fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
 </item>
 
-
-
-<item>
-<title>[COLOR white] Documentales Infantiles [/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales%20infantiles%20en%20espa%c3%b1ol&search_type=playlist</jsonrpc>
-<thumbnail>https://4.bp.blogspot.com/-QXYGpoUNKYQ/WalhzdpxStI/AAAAAAAAFmE/a6vKgOjbcbonQ_baLJCfEFGaNZN1ZTCCgCLcBGAs/s1600/david%2Bpintor.jpg</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
-</item>
-
-
-
-
-
-
-<item>
-<title>[COLOR white] Documentales de Historia [/COLOR]</title>
-<link>nolink</link>
-<externallink>https://bit.ly/2rUaDbt</externallink>
-<thumbnail>http://canalhistoria.es/wp-content/uploads/2016/07/39244054_Historia_Logo_2015_RGB_Black_type-1.png</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
-</item>
-
-
-
-
-<item>
-<title>[COLOR white] Documentales Bélicos [/COLOR]</title>
-<link>nolink</link>
-<externallink>https://bit.ly/2rPPuAc</externallink>
-<thumbnail>http://mundosinguerras-cv.org/images/conflicto.jpg</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLOR white] Documentales y Biografías [/COLOR]</title>
-<link>nolink</link>
-<externallink>https://bit.ly/2wSNBYo</externallink>
-<thumbnail>https://i0.wp.com/cambiopolitico.com/wp-content/uploads/2013/03/biografias.jpg?fit=500%2C500&ssl=1</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
-</item>
-
-
-
-<item>
-<title>[COLOR white] Documentales de Ciencias y Tecnología [/COLOR]</title>
-<link>nolink</link>
-<externallink>https://bit.ly/2rY6kMG</externallink>
-<thumbnail>https://4.bp.blogspot.com/-lk5Yi68CocA/WDvDIx4hQeI/AAAAAAAAeJk/xhaCwNItuKU-kZjO8pf30hYJlqnWcMkMQCLcB/s1600/Tecnologia%2BRobotica.png</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
-</item>
-
-
 <item>
 <title>[COLOR white] Documentales del Universo [/COLOR]</title>
 <link>nolink</link>
@@ -230,26 +168,6 @@ class InputWindow(xbmcgui.WindowDialog):
 <thumbnail>http://codigooculto.com/wp-content/uploads/2017/07/tumblr_ng1pb57AJA1t9tak1o1_500.jpg</thumbnail>
 <fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
 </item>
-
-
-<item>
-<title>[COLOR white] Documentales de Naturaleza [/COLOR]</title>
-<link>nolink</link>
-<externallink>https://bit.ly/2k9AybX</externallink>
-<thumbnail>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFRa7_8AiVwHLUNwBfrRk7ReNkCFnRjMgXGeOFRlrh6Ah0P2NX</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
-</item>
-
-
-
-<item>
-<title>[COLOR white] Documentales de Religiones [/COLOR]</title>
-<link>nolink</link>
-<externallink>https://bit.ly/2k85Jo3</externallink>
-<thumbnail>https://pm1.narvii.com/6504/e76bc014f333578b04f6447151949244d36ef2c3_hq.jpg</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
-</item>
-
 
 <item>
 <title>[COLOR white] Documentales de Ovnis y Ufología [/COLOR]</title>
@@ -268,18 +186,6 @@ class InputWindow(xbmcgui.WindowDialog):
 <fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
 </item>
 
-
-
-
-<item>
-<title>[COLOR white] Documentales Sociales [/COLOR]</title>
-<link>nolink</link>
-<externallink>https://bit.ly/2Lb7AVg</externallink>
-<thumbnail>https://www.porescribir.com/wp-content/uploads/2018/02/SOCIEDAD.jpg</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
-</item>
-
-
 <item>
 <title>[COLOR white][B] Documentales: 3D [/B][/COLOR]</title>
 <link>http://ignorame</link>
@@ -287,20 +193,6 @@ class InputWindow(xbmcgui.WindowDialog):
 <thumbnail>https://res.cloudinary.com/teepublic/image/private/s--xDcbBKqD--/t_Preview/b_rgb:262c3a,c_limit,f_jpg,h_630,q_90,w_630/v1473212810/production/designs/669901_1.jpg</thumbnail>
 <fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart> 
 </item>
-
-
-
-
-
-<item>
-<title>[COLOR yellow] Documentales: Mas de 2400 Documentales Variados[/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/channel/UCWoopXUOjEGk9aOU4I71nhQ/playlist/PL7Gl77owRvTsI-JSfh9WPf-2N2Ujmh1Da/</jsonrpc>
-<thumbnail>https://1.bp.blogspot.com/-yrAzWMWuRFw/VtmSI7hXISI/AAAAAAAAAgY/KnFOA3UFVD4/s1600/12803033_827599300699787_3252258708545373766_n.png</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
-</item>
-
-
 
 
 <items>
