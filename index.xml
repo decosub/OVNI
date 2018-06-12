@@ -195,7 +195,6 @@ class InputWindow(xbmcgui.WindowDialog):
 </item>
 
 
-<items>
 <item>
 <title>[COLOR white] Informacion sobre Agora[/COLOR]</title>
 <link>$doregex[openDialog]</link>
