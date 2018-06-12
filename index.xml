@@ -195,28 +195,16 @@ class InputWindow(xbmcgui.WindowDialog):
 </item>
 
 
-<item>
-<title>[COLOR white] Informacion sobre Agora[/COLOR]</title>
-<link>$doregex[openDialog]</link>
-<regex>
-<name>openDialog</name>
-<expres><![CDATA[#$pyFunction
-import xbmcaddon
-import xbmcgui
-def GetLSProData(page_data,Cookie_Jar,m):
+if mode==None:
+    addon_log("getSources")
+    getSources()
+    xbmcplugin.endOfDirectory(int(sys.argv[1]))
     __addon__ = xbmcaddon.Addon()
-    __addonname__ = __addon__.getAddonInfo('name')     
-    line1 = "Addon Agora"
-
-    line2 = "Comparte Aprende Enseña"
-
-    line3 = "Addon Totalmente Gratuito Basado en Youtube" 
+    __addonname__ = __addon__.getAddonInfo('name')
+ 
+    line1 = "         [B][COLOR lime]Todo el Contenido de Addon Procede de YouTube [/COLOR][/B]"
+    line2 = "                     [B][COLOR lime]Bienvenidos a Nuevos Mundos... [/COLOR][/B]"
+    line3 = "         [B][COLOR lime]Abre Los Ojos y Decubre Otra Realidad....     [COLOR lime](V:0.1) [/COLOR][/B]"
+	
+	
     xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
-    return "https://bit.ly/2L6XnJD"
-]]></expres>
-<page></page>
-<cookieJar></cookieJar>
-</regex>
-<thumbnail>http://millingtonlibrary.info/wp-content/uploads/2015/02/Info-I-Logo.png</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
-</item>
