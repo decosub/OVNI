@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  <items>
 <item>
-<title>[COLOR white] Si tienes Problemas de Reproducción LÉEME [/COLOR]</title>
+<title>[COLOR lime][B] Si Tienes Problema Leeme [/B][/COLOR]</title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
@@ -17,7 +17,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
     line3 = "3º También puedes instalar el YouTube Mod de Catoal que deja esas opciones activadas y que esta en la fuente de Catoal" 
     xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
-    return "https://bit.ly/2MmFZAZ"
+    return "https://bit.ly/2LHZAuA"
 ]]></expres>
 <page></page>
 <cookieJar></cookieJar>
