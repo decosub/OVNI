@@ -19,7 +19,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
     line3 = "3º También puedes instalar el YouTube Mod de Catoal que deja esas opciones activadas y que esta en la fuente de Catoal" 
     xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
-    return "https://bit.ly/2L6XnJD"
+    return "https://bit.ly/2JP1rjR"
 ]]></expres>
 <page></page>
 <cookieJar></cookieJar>
