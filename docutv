@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
-<title>[COLOR white][COLOR  red]  [/COLOR] Documentos TV [/COLOR]</title>
+<title>[COLOR lime][B] Documentos TV [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentos+tv+ovni+search_type=playlist</jsonrpc>
 <thumbnail>http://img.irtve.es/css/division/tve/catalunya/documentostv2016/i/logo.png</thumbnail>
@@ -101,12 +101,22 @@
 </item>
 
 <item>
-<title>Mundo desconocido</title>
-<thumbnail>https://i.imgur.com/Budqryq.jpg</thumbnail>
-<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
-<link>https://www.youtube.com/watch?v=-4Yhi14WGpI&list=UUnOAynBmYKA1neozHQNF0mA</link>
-<externallink>https://www.youtube.com/watch?v=-4Yhi14WGpI&list=UUnOAynBmYKA1neozHQNF0mA</externallink>
+<title>[COLOR lime][B] Mundo desconocido[/B][/COLOR]</title>
+                        <thumbnail>https://i.imgur.com/8Glc58b.jpg</thumbnail>
+			                  <fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+<link>$doregex[makelist]</link>
+<regex>
+            <name>makelist</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist.param1]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist.param2]</link>
+                        <thumbnail>https://i.imgur.com/8Glc58b.jpg</thumbnail>
+			<fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
+            ]]></listrepeat>
+            <expres>data-video-title="(.*?)".*?\n.*?\n.*?\n.*?\n.*?&lt;a href="\/watch\?v=(.*?)&amp;</expres>
+            <page>https://www.youtube.com/watch?v=-4Yhi14WGpI&amp;list=UUnOAynBmYKA1neozHQNF0mA</page>
+             <cookieJar></cookieJar>
+</regex>
 </item>
-
 
 
