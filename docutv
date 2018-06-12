@@ -3,7 +3,15 @@
 <item>
 <title>[COLOR lime][B] Mundos Desconocidos [/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=mundos+decosnocidos+search_type=playlist</jsonrpc>
+<urlsolve>https://www.youtube.com/watch?v=JqVEL2YbZP4&list=UU6ffFUtT43XHlccQbyWsNHA</urlsolve>
+<thumbnail>http://img.irtve.es/css/division/tve/catalunya/documentostv2016/i/logo.png</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B] Mundos Desconocidos 2 [/B][/COLOR]</title>
+<link>ignore</link>
+<urlsolve>https://www.youtube.com/watch?v=dAraWhqQbOk&list=UUnOAynBmYKA1neozHQNF0mA</urlsolve>
 <thumbnail>http://img.irtve.es/css/division/tve/catalunya/documentostv2016/i/logo.png</thumbnail>
 <fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
 </item>
