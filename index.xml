@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
 <item>
+  <fanart>https://i.imgur.com/GzcC8m8.jpg</fanart> 
   <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail>
 <title>[COLOR lime][B] Documentos TV [/B][/COLOR]</title>
 <link>http://ignorame</link>
@@ -11,7 +12,8 @@
 
 
 <item>
-   <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail> 
+  <fanart>https://i.imgur.com/GzcC8m8.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail>
 <title>[COLOR lime][B] Discovery Max [/B][/COLOR]</title>
 <link>http://ignorame</link>
 <externallink>https://bit.ly/2rUwIaK</externallink>
@@ -21,7 +23,8 @@
 
 
 <item>
-    <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail> 
+  <fanart>https://i.imgur.com/GzcC8m8.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail> 
 <title>[COLOR lime][B] Redes TVE [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=eduard+punset+redes+ovni&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
@@ -40,7 +43,8 @@
 
 
 <item>
-    <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail> 
+  <fanart>https://i.imgur.com/GzcC8m8.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail>
 <title>[COLOR lime][B] Canales en Directo[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2LwA1gP</externallink>
@@ -58,7 +62,8 @@
 </item>
 
 <item>
-    <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail> 
+  <fanart>https://i.imgur.com/GzcC8m8.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail>
 <title>[COLOR lime][B] Documentales de Ovnis y Ufología [/B][/COLOR]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2sWBPHg</externallink>
@@ -68,7 +73,8 @@
  
 
 <item>
-    <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail> 
+  <fanart>https://i.imgur.com/GzcC8m8.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail>
 <title>[COLOR lime][B] Documentales de Misterios y Conspiraciones [/B][/COLOR]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2JuoEZj</externallink>
@@ -77,7 +83,8 @@
 </item>
 
 <item>
-    <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail> 
+  <fanart>https://i.imgur.com/GzcC8m8.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail>
 <title>[COLOR lime][B] Documentales: 3d [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales%203d%20espa%c3%b1ol&search_type=playlist</jsonrpc>
@@ -87,7 +94,8 @@
 
 
 <item>
-    <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail> 
+  <fanart>https://i.imgur.com/GzcC8m8.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail>
 <title>[COLOR lime][B] Series de Culto  [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales%203d%20espa%c3%b1ol&search_type=playlist</jsonrpc>
@@ -97,7 +105,8 @@
 
 
 <item>
-    <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail> 
+  <fanart>https://i.imgur.com/GzcC8m8.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail>
 <title>[COLOR lime][B] Peliculas  [/B][/COLOR]</title>
 <link>ignore</link>
 <externallink>https://bit.ly/2HJQomJ</externallink>
