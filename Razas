@@ -61,7 +61,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>[COLOR lime][B] Pleyadianos (Las Pléyades)[/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Pleyadianos+extraterrestres&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Pleyadianos&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.pinimg.com/originals/10/76/70/107670e992817e3ecfe349abe103c2b0.jpg</thumbnail>
 <fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
 </item>
@@ -70,7 +70,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>[COLOR lime][B] Andromedanos[/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Andromedanos+extraterrestres&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Andromedanos&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i1.sndcdn.com/avatars-000109087465-2uqbx8-t500x500.jpg</thumbnail>
 <fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
 </item>
