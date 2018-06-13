@@ -1,6 +1,6 @@
 <items>
 <item>
-<title>[COLOR gold][B] Si tienes Problemas de Reproducción LÉEME[/B] [/COLOR]</title>
+<title>[COLOR yellow][B] Si tienes Problemas de Reproducción LÉEME[/B] [/COLOR]</title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
@@ -58,7 +58,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR gold][B] Canales Especializados de YouTube[/B] [/COLOR]</title>
+<title>[COLOR yellow][B] Canales Especializados de YouTube[/B] [/COLOR]</title>
 <link>nolink</link>
 </item>
 
