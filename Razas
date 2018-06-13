@@ -1,5 +1,32 @@
+<items>
 <item>
-<title>[COLOR yellow][B] Anunnaki (Nibiru) [/B][/COLOR]</title>
+<title>[COLOR lime][B] Si tienes Problemas de Reproducción LÉEME[B] [/COLOR]</title>
+<link>$doregex[openDialog]</link>
+<regex>
+<name>openDialog</name>
+<expres><![CDATA[#$pyFunction
+import xbmcaddon
+import xbmcgui
+def GetLSProData(page_data,Cookie_Jar,m):
+    __addon__ = xbmcaddon.Addon()
+    __addonname__ = __addon__.getAddonInfo('name')     
+    line1 = "1º Menú de configuración del Addon de YouTube "
+
+    line2 = "2º En ajustes de Youtube, la pestaña MPEG-DASH Activar Usar mpeg-dash y habilitar Proxy MPEG-DASH"
+
+    line3 = "3º También puedes instalar el YouTube Mod de Catoal que deja esas opciones activadas y que esta en la fuente de Catoal" 
+    xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
+    return "https://bit.ly/2MmFZAZ"
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://cdn.memegenerator.es/descargar/1011243</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B] Anunnaki (Nibiru) [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+de+UNIVERSO&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>http://codigooculto.com/wp-content/uploads/2017/07/tumblr_ng1pb57AJA1t9tak1o1_500.jpg</thumbnail>
@@ -7,7 +34,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B] Reptilianos[/B][/COLOR]</title>
+<title>[COLOR lime][B] Reptilianos[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+de+El+Cosmos+Carl+Sagan&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i1.sndcdn.com/artworks-000028046082-ebsad2-t500x500.jpg</thumbnail>
@@ -15,7 +42,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B] Grises Altos o Blancos (Orión)[/B][/COLOR]</title>
+<title>[COLOR lime][B]] Grises Altos o Blancos (Orión)[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=el+universo+de+stephen+hawking&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.pinimg.com/originals/fa/02/18/fa0218cadb461d5a1475f37652967a57.jpg</thumbnail>
@@ -24,7 +51,7 @@
 
 
 <item>
-<title>[COLOR yellow][B] Sirianos (Sirio A)[/B][/COLOR]</title>
+<title>[COLOR lime][B] Sirianos (Sirio A)[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Grandes+Misterios+Del+Universo+con+Morgan+Freeman&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i1.sndcdn.com/artworks-000205315115-8w0a2v-t500x500.jpg</thumbnail>
@@ -33,7 +60,7 @@
 
 
 <item>
-<title>[COLOR yellow][B] Pleyadianos (Las Pléyades)[/B][/COLOR]</title>
+<title>[COLOR lime][B] Pleyadianos (Las Pléyades)[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de+viajes+espaciales&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.pinimg.com/originals/10/76/70/107670e992817e3ecfe349abe103c2b0.jpg</thumbnail>
@@ -42,7 +69,7 @@
 
 
 <item>
-<title>[COLOR yellow][B] Andromedanos[/B][/COLOR]</title>
+<title>[COLOR lime][B] Andromedanos[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de+NASA&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i1.sndcdn.com/avatars-000109087465-2uqbx8-t500x500.jpg</thumbnail>
@@ -52,7 +79,7 @@
 
 
 <item>
-<title>[COLOR yellow][B] Veganos (Lyra)[/B][/COLOR]</title>
+<title>[COLOR lime][B] Veganos (Lyra)[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de+Universos+Paralelos&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://t1.kn3.net/taringa/0/7/C/A/9/4/koRnerJD/08E.jpg</thumbnail>
@@ -62,7 +89,7 @@
 
 
 <item>
-<title>[COLOR yellow][B] Telosianos [/B][/COLOR]</title>
+<title>[COLOR lime][B] Telosianos [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de+Universo+inexplicable+con+Neil+deGrasse+Tyson+Isaac&search_type=playlist</jsonrpc>
 <thumbnail>http://axxon.com.ar/noticias/imagenes/2014/0123-materiafaltante.jpg</thumbnail>
