@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
-<item>
-  <fanart>https://i.imgur.com/GzcC8m8.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail>
-<title>[COLOR lime][B] Series de Culto  [/B][/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales%203d%20espa%c3%b1ol&search_type=playlist</jsonrpc>
-<thumbnail>https://res.cloudinary.com/teepublic/image/private/s--xDcbBKqD--/t_Preview/b_rgb:262c3a,c_limit,f_jpg,h_630,q_90,w_630/v1473212810/production/designs/669901_1.jpg</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
-</item>
 
 
 <item>
@@ -17,6 +8,17 @@
 <title>[COLOR lime][B] Peliculas  [/B][/COLOR]</title>
 <link>ignore</link>
 <externallink>https://bit.ly/2HJQomJ</externallink>
+<thumbnail>https://res.cloudinary.com/teepublic/image/private/s--xDcbBKqD--/t_Preview/b_rgb:262c3a,c_limit,f_jpg,h_630,q_90,w_630/v1473212810/production/designs/669901_1.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
+
+
+<item>
+  <fanart>https://i.imgur.com/GzcC8m8.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail>
+<title>[COLOR lime][B] Series de Culto  [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales%203d%20espa%c3%b1ol&search_type=playlist</jsonrpc>
 <thumbnail>https://res.cloudinary.com/teepublic/image/private/s--xDcbBKqD--/t_Preview/b_rgb:262c3a,c_limit,f_jpg,h_630,q_90,w_630/v1473212810/production/designs/669901_1.jpg</thumbnail>
 <fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
 </item>
