@@ -94,7 +94,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
   <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail> 
 <title>[COLOR lime][B] Atraviesa lo Desconocido [/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Buscando+Documentales+alienigenas+caso abierto&list=PLmQ8A_lK0Lz_qqbIyCBpNQTvCa8phE5h6&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=buscando+Documentales+alienigenas+caso+abierto&list=PLmQ8A_lK0Lz_qqbIyCBpNQTvCa8phE5h6&search_type=playlist</jsonrpc>
 <thumbnail>https://imagecdn.acast.com/redes/redes-157-el-aprendizaje-social-y-emocional-las-habilidades-para-la-vida/image.jpg?w=500&h=500</thumbnail>
 <fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
 </item
