@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR yellow][B] Documentales: El Universo [/B][/COLOR]</title>
+<title>[COLOR lime][B] Documentales: El Universo [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+de+UNIVERSO&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>http://codigooculto.com/wp-content/uploads/2017/07/tumblr_ng1pb57AJA1t9tak1o1_500.jpg</thumbnail>
@@ -10,7 +10,7 @@
 
 
 <item>
-<title>[COLOR yellow][B] Documentales: El Cosmos Carl Sagan[/B][/COLOR]</title>
+<title>[COLOR lime][B] Documentales: El Cosmos Carl Sagan[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+de+El+Cosmos+Carl+Sagan&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i1.sndcdn.com/artworks-000028046082-ebsad2-t500x500.jpg</thumbnail>
@@ -18,7 +18,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B] Documentales: El Universo decSteve Hawking[/B][/COLOR]</title>
+<title>[COLOR lime][B] Documentales: El Universo decSteve Hawking[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=el+universo+de+stephen+hawking&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.pinimg.com/originals/fa/02/18/fa0218cadb461d5a1475f37652967a57.jpg</thumbnail>
@@ -27,7 +27,7 @@
 
 
 <item>
-<title>[COLOR yellow][B] Documentales: Grandes Misterios Del Universo con Morgan Freeman[/B][/COLOR]</title>
+<title>[COLOR lime][B] Documentales: Grandes Misterios Del Universo con Morgan Freeman[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Grandes+Misterios+Del+Universo+con+Morgan+Freeman&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i1.sndcdn.com/artworks-000205315115-8w0a2v-t500x500.jpg</thumbnail>
@@ -36,7 +36,7 @@
 
 
 <item>
-<title>[COLOR yellow][B] Documentales: Viajes Espaciales[/B][/COLOR]</title>
+<title>[COLOR lime][B] Documentales: Viajes Espaciales[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de+viajes+espaciales&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.pinimg.com/originals/10/76/70/107670e992817e3ecfe349abe103c2b0.jpg</thumbnail>
@@ -45,7 +45,7 @@
 
 
 <item>
-<title>[COLOR yellow][B] Documentales: NASA[/B][/COLOR]</title>
+<title>[COLOR lime][B] Documentales: NASA[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de+NASA&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i1.sndcdn.com/avatars-000109087465-2uqbx8-t500x500.jpg</thumbnail>
