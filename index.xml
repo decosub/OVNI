@@ -68,7 +68,7 @@
 
 <items>
 <item>
-<title>[COLOR gold][B] Agradecimientos [/B][/COLOR]</title>
+<title>[COLOR yellow][B] Agradecimientos [/B][/COLOR]</title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
