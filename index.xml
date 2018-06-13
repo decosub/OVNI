@@ -84,7 +84,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
     line3 = "A Todos los desarrolladores por sus creaciones y los youtubers que dan a concer nuestro trabajo para que llegue a todo el mundo" 
     xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
-    return "https://bit.ly/2LHZAuA"
+    return "https://bit.ly/2JP1rjR"
 ]]></expres>
 <page></page>
 <cookieJar></cookieJar>
