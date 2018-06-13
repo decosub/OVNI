@@ -26,7 +26,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR lime][B] Peliculas</title>
+<title>[COLOR lime][B] Peliculas</title>[/B] [/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=peliculas+de+ciencia+ficcion&sp=EgIQA0IECAESAA%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://t2.kn3.net/taringa/C/F/F/5/C/D/bunnyontopofcake/7A6.jpg</thumbnail>
@@ -34,7 +34,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>Peliculas Ciencia ficcion[/B][/COLOR]</title>
+<title>[COLOR lime][B] Peliculas Ciencia ficcion[/B][/COLOR]</title>
                         <thumbnail>https://i.imgur.com/8Glc58b.jpg</thumbnail>
 			                  <fanart>https://i.imgur.com/pstbeAJ.jpg</fanart>
 <link>$doregex[makelist]</link>
