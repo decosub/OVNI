@@ -59,7 +59,10 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>[COLOR lime][B] Canales Especializados de YouTube[/B] [/COLOR]</title>
-<link>$doregex[openDialog]</link>
+<link>nolink</link>
+</item>
+
+
 
 
 <item>
