@@ -118,7 +118,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
     <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail> 
-<title>[COLOR lime][B] Cuarto Milenio y Milenio 3[/B][/COLOR]</title>
+<title>[COLOR yellow][B] Cuarto Milenio y Milenio 3[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=cuarto+milenio+ovni+extraterrestre&search_type=playlist</jsonrpc>
 <thumbnail>https://direct.rhapsody.com/imageserver/images/Alb.108399856/500x500.jpg</thumbnail>
