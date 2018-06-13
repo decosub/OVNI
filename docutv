@@ -96,7 +96,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[COLOR lime][B] Alienigenas Caso Abierto [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=uC9jgMZAAaM&list=PLmQ8A_lK0Lz_qqbIyCBpNQTvCa8phE5h6&search_type=playlist</jsonrpc>
-<jsonrpc>plugin://plugin.video.youtube/kodion/watch?v=uC9jgMZAAaM&list=PLmQ8A_lK0Lz_qqbIyCBpNQTvCa8phE5h6</jsonrpc>
 <thumbnail>https://imagecdn.acast.com/redes/redes-157-el-aprendizaje-social-y-emocional-las-habilidades-para-la-vida/image.jpg?w=500&h=500</thumbnail>
 <fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
 </item
@@ -119,7 +118,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow][B] Cazadores Misterios Alienigenas[/B][/COLOR]</title>
+<title>[COLOR lime][B] Cazadores Misterios Alienigenas[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Cazadores+Misterios+Alienigenas+CANAL+HISTORIA&search_type=playlist</jsonrpc>
 <thumbnail>https://i.pinimg.com/originals/d7/58/ab/d758abbcea51a0e50cc4a8b23f4dc5be.gif</thumbnail>
@@ -149,9 +148,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
     <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail> 
-<title>[COLOR yellow][B] Extraterrestres?[/B][/COLOR]</title>
+<title>[COLOR lime][B] Extraterrestres?[/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=k4gq7PBbDjo&list&sp=PLmQ8A_lK0Lz__cWGtFfRG1Yz5qWkaatEH</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=k4gq7PBbDjo&list=PLmQ8A_lK0Lz__cWGtFfRG1Yz5qWkaatEH</jsonrpc>
 <thumbnail>https://direct.rhapsody.com/imageserver/images/Alb.108399856/500x500.jpg</thumbnail>
 <fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
 </item>
