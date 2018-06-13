@@ -109,9 +109,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
   <fanart>https://i.imgur.com/GzcC8m8.jpg</fanart> 
   <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail> 
-<title>[COLOR yellow][B] Atraviesa lo Desconocido [/B][/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Y1LaLKHgDqU&index=1&list=UUnpy6aaJeb29DZJ8bsCgRiQ</jsonrpc>
+<title>[COLOR lime][B] Atraviesa lo Desconocido [/B][/COLOR]</title>
+<link>ignore</link>https://www.youtube.com
+<jsonrpc>plugin://plugin.video.youtube/kodion/watch?v=xmP0FTJ7ebc&amp;list=PLagzEjuKqarpKgW9OnWdJgyQOeol3OWG6</jsonrpc>
 <thumbnail>https://imagecdn.acast.com/redes/redes-157-el-aprendizaje-social-y-emocional-las-habilidades-para-la-vida/image.jpg?w=500&h=500</thumbnail>
 <fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
 </item
