@@ -1,6 +1,6 @@
 <items>
 <item>
-<title>[COLOR lime][B] Si tienes Problemas de Reproducción LÉEME[/B] [/COLOR]</title>
+<title>[COLOR gold][B] Si tienes Problemas de Reproducción LÉEME[/B] [/COLOR]</title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
@@ -28,7 +28,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow][B] Secrets of The Universe Live Stream Spark (Subtitulado) [/B][/COLOR]</title>
+<title>[COLOR lime][B] Secrets of The Universe Live Stream Spark (Subtitulado) [/B][/COLOR]</title>
 <urlsolve>https://www.youtube.com/watch?v=jyzIv_uLiXs</urlsolve>
 <thumbnail>https://i.pinimg.com/originals/2a/2e/b8/2a2eb8fd66a4df06afe41ed0b1c54529.jpg</thumbnail>
 <fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
@@ -36,7 +36,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow][B] NASA TV Public-Education (Subtitulado)[/B][/COLOR]</title>
+<title>[COLOR lime][B] NASA TV Public-Education (Subtitulado)[/B][/COLOR]</title>
 <urlsolve>https://www.youtube.com/watch?v=wwMDvPCGeE0</urlsolve>
 <thumbnail>https://pbs.twimg.com/profile_images/991065825116393472/Gbysy5gd.jpg</thumbnail>
 <fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
@@ -44,21 +44,21 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR yellow][B] NASA TV Media (Subtitulado)[/B][/COLOR]</title>
+<title>[COLOR lime][B] NASA TV Media (Subtitulado)[/B][/COLOR]</title>
 <urlsolve>https://www.youtube.com/watch?v=P11y8N22Rq0</urlsolve>
 <thumbnail>https://srv.latostadora.com/designall.dll/nasa_emblem_ultra-vintage--i:1413856059511413850;w:520;m:1;b:FFFFFF.jpg</thumbnail>
 <fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR yellow][B] Earth from space : Time Lapse Collection - Images from astronauts on the ISS[/B][/COLOR]</title>
+<title>[COLOR lime][B] Earth from space : Time Lapse Collection - Images from astronauts on the ISS[/B][/COLOR]</title>
 <urlsolve>https://www.youtube.com/watch?v=qyEzsAy4qeU</urlsolve>
 <thumbnail>http://es-visiontimes.com/wp-content/uploads/2014/03/contaminacion-espacio-6.jpg</thumbnail>
 <fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B] Canales Especializados de YouTube[/B] [/COLOR]</title>
+<title>[COLOR gold][B] Canales Especializados de YouTube[/B] [/COLOR]</title>
 <link>nolink</link>
 </item>
 
