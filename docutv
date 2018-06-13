@@ -139,7 +139,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
     <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail> 
 <title>[COLOR lime][B] Extraterrestres?[/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=k4gq7PBbDjo&list&sp=PLmQ8A_lK0Lz__cWGtFfRG1Yz5qWkaatEH&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/v=k4gq7PBbDjo&list&sp=PLmQ8A_lK0Lz__cWGtFfRG1Yz5qWkaatEH</jsonrpc>
 <thumbnail>https://direct.rhapsody.com/imageserver/images/Alb.108399856/500x500.jpg</thumbnail>
 <fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
 </item>
