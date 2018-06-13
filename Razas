@@ -1,6 +1,5 @@
-<items>
 <item>
-<title>[COLOR lime][B] Si tienes Problemas de Reproducción LÉEME[B] [/COLOR]</title>
+<title>[COLOR lime][B] Si tienes Problemas de Reproducción LÉEME[/B] [/COLOR]</title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
