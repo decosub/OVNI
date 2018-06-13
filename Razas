@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR lime][B] Si tienes Problemas de Reproducción LÉEME[/B] [/COLOR]</title>
+<title>[COLOR yellow][B] Si tienes Problemas de Reproducción LÉEME[/B] [/COLOR]</title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
@@ -112,7 +112,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR lime][B] Posibles Planetas que  [/B][/COLOR]</title>
+<title>[COLOR lime][B] Posibles Planetas con Vida Extraterrestre  [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=planetas+extraterrestre+español&search_type=playlist</jsonrpc>
 <thumbnail>http://axxon.com.ar/noticias/imagenes/2014/0123-materiafaltante.jpg</thumbnail>
