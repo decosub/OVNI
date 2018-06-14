@@ -59,10 +59,18 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR yellow][B] Proyecto S.E.T.I[/B][/COLOR]</title>
+<title>[COLOR lime][B] El Lenguaje de los Extraterrestres[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=el+lenguaje+de+los+extraterrestres&sp=EgQYAiABQgQIABIA</jsonrpc>
+<thumbnail>http://oxlackinvestigaciones.com/wp-content/uploads/2017/02/m4-1.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR lime][B] Proyecto S.E.T.I[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=proyecto+seti&sp=EgQYAiABQgQIABIA</jsonrpc>
 <thumbnail>http://oxlackinvestigaciones.com/wp-content/uploads/2017/02/m4-1.jpg</thumbnail>
 <fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
 </item>
-
