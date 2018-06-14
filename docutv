@@ -68,6 +68,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>[COLOR lime][B] Ovnis y Ufología [/B][/COLOR]</title>
+ <fanart>https://i.imgur.com/GzcC8m8.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail> 
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+de+ovnis&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.pinimg.com/originals/93/2e/d5/932ed557347d80b825ca0f98cd2e0cb3.jpg</thumbnail>
@@ -78,6 +80,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>[COLOR lime][B] Alienigenas Ancestrales[/B][/COLOR]</title>
+ <fanart>https://i.imgur.com/GzcC8m8.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail> 
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+de+alienigenas+ancestrales&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://lh5.googleusercontent.com/-2qv6tbFhXgI/TYaT19rLXwI/AAAAAAAAALA/rF_nqGJuVZI/s1600/alienigenas+ancestrales+la+mision.jpg</thumbnail>
@@ -102,6 +106,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>[COLOR lime][B] Creacionismo Alienígena[/B][/COLOR]</title>
+ <fanart>https://i.imgur.com/GzcC8m8.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail> 
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Creacionismo%20Alien%c3%adgena&search_type=playlist</jsonrpc>
 <thumbnail>https://oldcivilizations.files.wordpress.com/2012/01/annunakis-dioses-sumerios_-copia.jpg</thumbnail>
@@ -112,6 +118,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
 <title>[COLOR lime][B] Cazadores Misterios Alienigenas[/B][/COLOR]</title>
+ <fanart>https://i.imgur.com/GzcC8m8.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail> 
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Cazadores+Misterios+Alienigenas+CANAL+HISTORIA&search_type=playlist</jsonrpc>
 <thumbnail>https://i.pinimg.com/originals/d7/58/ab/d758abbcea51a0e50cc4a8b23f4dc5be.gif</thumbnail>
@@ -120,7 +128,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-    <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail> 
+ <fanart>https://i.imgur.com/GzcC8m8.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail> 
 <title>[COLOR lime][B] Cuarto Milenio y Milenio 3[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=cuarto+milenio+ovni+extraterrestre&search_type=playlist</jsonrpc>
@@ -130,8 +139,9 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-    <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail> 
 <title>[COLOR lime][B] Expedientes X (Russos)[/B][/COLOR]</title>
+ <fanart>https://i.imgur.com/GzcC8m8.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail> 
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=expedientes+x+rusos&sp=CAISBhABGAIgAUIECAESAA%253D%253D</jsonrpc>
 <thumbnail>https://direct.rhapsody.com/imageserver/images/Alb.108399856/500x500.jpg</thumbnail>
@@ -139,12 +149,19 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-    <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail> 
 <title>[COLOR lime][B] N.A.S.A Archivos Desclasificados)[/B][/COLOR]</title>
+ <fanart>https://i.imgur.com/GzcC8m8.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail> 
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=<item>
     <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail> 
+    <fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
+
+<item>
 <title>[COLOR lime][B] Expedientes X (Russos)[/B][/COLOR]</title>
+ <fanart>https://i.imgur.com/GzcC8m8.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail> 
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=expedientes+x+rusos&sp=CAISBhABGAIgAUIECAESAA%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://direct.rhapsody.com/imageserver/images/Alb.108399856/500x500.jpg</thumbnail>
