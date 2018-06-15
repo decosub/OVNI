@@ -50,7 +50,7 @@
 <title>[COLOR lime][B] Extra...[/B][/COLOR]</title>
 <link>ignore</link>
 <externallink>https://bit.ly/2JRxJKQ</externallink>
-  <fanart>https://i.imgur.com/KSqh8PI.jpg</fanart> 
+  <fanart>https://i.imgur.com/lhIMM9W.jpg</fanart> 
   <thumbnail>https://i.imgur.com/F7CjsgM.jpg</thumbnail> 
 </item>
 
@@ -86,7 +86,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <cookieJar></cookieJar>
 </regex>
 <thumbnail>https://i.imgur.com/xeFZ8DI.jpg</thumbnail>
-<fanart>https://i.imgur.com/xeFZ8DI.jpg</fanart>
+<fanart>https://i.imgur.com/T4cZSZ4.jpg</fanart>
 </item>
 
 
