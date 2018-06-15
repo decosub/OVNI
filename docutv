@@ -151,7 +151,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR lime][B] Misteriosos Alienigena [/B][/COLOR]</title>
+<title>[COLOR lime][B] Misterios Alienigena [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=misterios+alienigena+o+extraterrestre+castellano&sp=EgQQARgCQgQIABIA&search_type=playlist</jsonrpc>
 <thumbnail>https://i.pinimg.com/originals/14/16/f7/1416f7e10c8830a2f5f827ff569c048a.jpg</thumbnail>
