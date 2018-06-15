@@ -28,7 +28,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
     <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail> 
-<title>[COLOR lime][B] Conoce el Universo [/B][/COLOR]</title>
+<title>[COLOR lime][B] Conoce el Universo (Documentales Sobre el Universo) [/B][/COLOR]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2HHLdDX</externallink>
 <thumbnail>http://codigooculto.com/wp-content/uploads/2017/07/tumblr_ng1pb57AJA1t9tak1o1_500.jpg</thumbnail>
@@ -67,7 +67,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR lime][B] Ovnis y Ufología [/B][/COLOR]</title>
+<title>[COLOR lime][B] Ovnis y Ufología Documentales [/B][/COLOR]</title>
  <fanart>https://i.imgur.com/GzcC8m8.jpg</fanart> 
   <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail> 
 <link>ignore</link>
