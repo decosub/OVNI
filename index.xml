@@ -6,7 +6,7 @@
 <title>[COLOR lime][B] Peliculas [/B][/COLOR]</title>
 <link>ignore</link>
 <externallink>https://www.ivoox.com/24357157</externallink>
-  <fanart>https://i.imgur.com/l69DnyO.jpg</fanart> 
+  <fanart>https://i.imgur.com/3e1t4Pk.jpg</fanart> 
   <thumbnail>https://i.imgur.com/lM3h9CF.png</thumbnail>
 </item>
 
@@ -15,8 +15,8 @@
 <title>[COLOR lime][B] Series [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales%203d%20espa%c3%b1ol&search_type=playlist</jsonrpc>
-  <fanart>https://i.imgur.com/l69DnyO.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/hicLJoD.jpg</thumbnail>
+  <fanart>https://i.imgur.com/hicLJoD.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/v8RODoh.jpg</thumbnail>
 </item>
 
 
@@ -25,7 +25,7 @@
 <title>[COLOR lime][B] Los Mejores Documentales[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2LHZAuA</externallink>
-  <fanart>https://i.imgur.com/KSqh8PI.jpg</fanart> 
+  <fanart>https://i.imgur.com/sQotdvh.jpg</fanart> 
   <thumbnail>https://i.imgur.com/l69DnyO.jpg</thumbnail>
 </item>
 
@@ -33,7 +33,7 @@
 <title>[COLOR lime][B] Canales en Directo y tematicos[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2MmFZAZ</externallink>
-  <fanart>https://i.imgur.com/KSqh8PI.jpg</fanart> 
+  <fanart>https://i.imgur.com/JBctCu1.jpg</fanart> 
   <thumbnail>https://i.imgur.com/vJycQ2U.jpg</thumbnail>
 </item>
 
@@ -42,8 +42,8 @@
 <title>[COLOR lime][B] Razas Conocidas de Seres Extraterrestres[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2JP3TH6</externallink>
-  <fanart>https://i.imgur.com/KSqh8PI.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/GQ8QGGb.jpg</thumbnail>
+  <fanart>https://i.imgur.com/GQ8QGGb.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/OxN5RyN.jpg</thumbnail>
 </item>
 
 <item>
@@ -51,15 +51,15 @@
 <link>ignore</link>
 <externallink>https://bit.ly/2JRxJKQ</externallink>
   <fanart>https://i.imgur.com/KSqh8PI.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/OxN5RyN.jpg</thumbnail> 
+  <thumbnail>https://i.imgur.com/F7CjsgM.jpg</thumbnail> 
 </item>
 
 <item>
 <title>[COLOR lime][B] Ultimas Noticias de Ufologia...!!![/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ultimas+noticias+sobre+ovnis+y+extraterrestres&sp=CAJCBAgBEgA%253D</jsonrpc>
-<thumbnail>https://i.imgur.com/CGA9dL7.jpg</thumbnail>
-  <fanart>https://i.imgur.com/KSqh8PI.jpg</fanart> 
+<thumbnail>https://i.imgur.com/AXN5xgE.jpg</thumbnail>
+  <fanart>https://i.imgur.com/CGA9dL7.jpg</fanart> 
 </item>
 
 
