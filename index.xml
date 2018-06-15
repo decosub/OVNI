@@ -3,7 +3,7 @@
 
 
 <item>
-  <fanart>https://i.imgur.com/GzcC8m8.jpg</fanart> 
+  <fanart>https://i.imgur.com/ORnutJ2.jpg</fanart> 
   <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail>
 <title>[COLOR lime][B] Peliculas [/B][/COLOR]</title>
 <link>ignore</link>
@@ -14,7 +14,7 @@
 
 
 <item>
-  <fanart>https://i.imgur.com/GzcC8m8.jpg</fanart> 
+   <fanart>https://i.imgur.com/ORnutJ2.jpg</fanart> 
   <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail>
 <title>[COLOR lime][B] Series de Culto  [/B][/COLOR]</title>
 <link>ignore</link>
@@ -26,7 +26,7 @@
 
 
 <item>
-  <fanart>https://i.imgur.com/GzcC8m8.jpg</fanart> 
+  <fanart>https://i.imgur.com/ORnutJ2.jpg</fanart> 
   <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail>
 <title>[COLOR lime][B] Los Mejores Documentales[/B][/COLOR]</title>
 <link>nolink</link>
@@ -36,7 +36,7 @@
 </item>
 
 <item>
-  <fanart>https://i.imgur.com/GzcC8m8.jpg</fanart> 
+  <fanart>https://i.imgur.com/ORnutJ2.jpg</fanart> 
   <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail>
 <title>[COLOR lime][B] Canales en Directo y tematicos[/B][/COLOR]</title>
 <link>nolink</link>
@@ -46,7 +46,7 @@
 </item>
 
 <item>
-  <fanart>https://i.imgur.com/GzcC8m8.jpg</fanart> 
+  <fanart>https://i.imgur.com/ORnutJ2.jpg</fanart> 
   <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail>
 <title>[COLOR lime][B] Razas Conocidas de Seres Extraterrestres[/B][/COLOR]</title>
 <link>nolink</link>
@@ -56,7 +56,7 @@
 </item>
 
 <item>
-  <fanart>https://i.imgur.com/GzcC8m8.jpg</fanart> 
+  <fanart>https://i.imgur.com/ORnutJ2.jpg</fanart> 
   <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail> 
 <title>[COLOR lime][B] Extra...[/B][/COLOR]</title>
 <link>ignore</link>
@@ -66,7 +66,7 @@
 </item>
 
 <item>
-  <fanart>https://i.imgur.com/GzcC8m8.jpg</fanart> 
+  <fanart>https://i.imgur.com/ORnutJ2.jpg</fanart> 
   <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail> 
 <title>[COLOR lime][B] Ultimas Noticias de Ufologia...!!![/B][/COLOR]</title>
 <link>ignore</link>
@@ -76,8 +76,6 @@
 </item>
 
 
-
-<items>
 <item>
 <title>[COLOR yellow][B] Agradecimientos [/B][/COLOR]</title>
 <link>$doregex[openDialog]</link>
@@ -100,8 +98,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <page></page>
 <cookieJar></cookieJar>
 </regex>
-<thumbnail>https://cdn.memegenerator.es/descargar/1011243</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+<thumbnail>https://i.imgur.com/9Zb772e.jpg</thumbnail>
+<fanart>https://i.imgur.com/9Zb772e.jpg</fanart>
 </item>
 
 
