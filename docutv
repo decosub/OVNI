@@ -37,16 +37,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 <item>
   <fanart>https://i.imgur.com/GzcC8m8.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail>
-<title>[COLOR lime][B] Documentales de Misterios y Conspiraciones Alienigenas [/B][/COLOR]</title>
-<link>nolink</link>
-<externallink>https://bit.ly/2JuoEZj</externallink>
-<thumbnail>https://t2.kn3.net/taringa/C/F/F/5/C/D/bunnyontopofcake/7A6.jpg</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
-</item>
-
-<item>
-  <fanart>https://i.imgur.com/GzcC8m8.jpg</fanart> 
   <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail> 
 <title>[COLOR lime][B] Conferencias Ufologia[/B][/COLOR]</title>
 <link>ignore</link>
@@ -88,11 +78,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
 </item>
 
-
-
-
-
-
 <item>
   <fanart>https://i.imgur.com/GzcC8m8.jpg</fanart> 
   <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail> 
@@ -113,7 +98,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>https://oldcivilizations.files.wordpress.com/2012/01/annunakis-dioses-sumerios_-copia.jpg</thumbnail>
 <fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
 </item>
-
 
 
 <item>
@@ -174,5 +158,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
 </item>
 
-
+<item>
+<title>[COLOR lime][B] Sociedades Secretas Alienigenas[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de+Sociedades+Secretas+alienigenas+extraterrestres&search_type=playlist</jsonrpc>
+<thumbnail>http://4.bp.blogspot.com/_Imvw6uPq08s/TDovvsHFRYI/AAAAAAAACQI/ooFafEttDDk/s1600/La+Radio+Liberada+-+JPN+-+El+Templo+de+Salom%C3%B3n+copia.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
 
