@@ -26,14 +26,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
 </item>
 
-<item>
-    <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail> 
-<title>[COLOR lime][B] Conoce el Universo (Documentales Sobre el Universo) [/B][/COLOR]</title>
-<link>nolink</link>
-<externallink>https://bit.ly/2HHLdDX</externallink>
-<thumbnail>http://codigooculto.com/wp-content/uploads/2017/07/tumblr_ng1pb57AJA1t9tak1o1_500.jpg</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
-</item>
 
 <item>
   <fanart>https://i.imgur.com/GzcC8m8.jpg</fanart> 
@@ -101,7 +93,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 
 <item>
-<title>[COLOR lime][B] Cazadores Misterios Alienigenas[/B][/COLOR]</title>
+<title>[COLOR lime][B] Misterios Alienigenas[/B][/COLOR]</title>
  <fanart>https://i.imgur.com/GzcC8m8.jpg</fanart> 
   <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail> 
 <link>ignore</link>
@@ -151,14 +143,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR lime][B] Misterios Alienigena [/B][/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=misterios+alienigena+o+extraterrestre+castellano&sp=EgQQARgCQgQIABIA&search_type=playlist</jsonrpc>
-<thumbnail>https://i.pinimg.com/originals/14/16/f7/1416f7e10c8830a2f5f827ff569c048a.jpg</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
-</item>
-
-<item>
 <title>[COLOR lime][B] Sociedades Secretas Alienigenas[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de+Sociedades+Secretas+alienigenas+extraterrestres&search_type=playlist</jsonrpc>
@@ -166,3 +150,12 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
 </item>
 
+
+<item>
+    <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail> 
+<title>[COLOR lime][B] Conoce el Universo (Documentales Sobre el Universo) [/B][/COLOR]</title>
+<link>nolink</link>
+<externallink>https://bit.ly/2HHLdDX</externallink>
+<thumbnail>http://codigooculto.com/wp-content/uploads/2017/07/tumblr_ng1pb57AJA1t9tak1o1_500.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+</item>
