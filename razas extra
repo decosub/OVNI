@@ -87,3 +87,21 @@ https://www.youtube.com/results?search_query=civilizaciones+extraterrestres&sp=C
 <thumbnail>https://i.imgur.com/vC8jyvX.jpg</thumbnail>
 <fanart>https://i.imgur.com/zZ4oAhw.jpg</fanart>
 </item>
+
+<item>
+<title>[COLOR lime][B] Portales Dimensionales[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+portales+dimensionales&sp=CAJCBAgBEgA%253D</jsonrpc>
+<thumbnail>https://i.imgur.com/oItiHci.jpg</thumbnail>
+<fanart>https://i.imgur.com/zZ4oAhw.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B] Implantes Alienigenas[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=implantes+extraterrestres+en+humanos&sp=EgIYAkIECAESAA%253D%253D</jsonrpc>
+<thumbnail>https://i.imgur.com/SUYuHhA.jpg</thumbnail>
+<fanart>https://i.imgur.com/zZ4oAhw.jpg</fanart>
+</item>
+
+
