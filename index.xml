@@ -143,8 +143,8 @@ class InputWindow(xbmcgui.WindowDialog):
 <title>[COLOR lime][B] Extra...[/B][/COLOR]</title>
 <link>ignore</link>
 <externallink>https://bit.ly/2JRxJKQ</externallink>
-  <fanart>https://i.imgur.com/E8uXRkT.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/brPKXPt.jpg</thumbnail> 
+  <fanart>https://i.imgur.com/brPKXPt.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/vLz2bnt.jpg</thumbnail> 
  <info>Extra:Tipos de naves alienigenas ,lugares de avistamientos, Proyecto SETI, Implantes ,lenguaje, civilizaciones y mucho mas contenido perfectamente ordenado</info>
 </item>
 
@@ -152,7 +152,7 @@ class InputWindow(xbmcgui.WindowDialog):
 <title>[COLOR lime][B] Ultimas Noticias...!!![/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ultimas+noticias+sobre+ovnis+y+extraterrestres&sp=CAJCBAgBEgA%253D</jsonrpc>
-<thumbnail>https://i.imgur.com/vLz2bnt.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/YkHKWrT.jpg</thumbnail>
   <fanart>https://i.imgur.com/CGA9dL7.jpg</fanart> 
  <info>Ultimas Noticias: Que esta pasando? En este preciso instante en algun lugar de nuestro planeta seguro hay alguna noticia nueva de nuestro interes. A que esperas para estar al dia.</info>
 </item>
