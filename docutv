@@ -96,7 +96,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
 </item>
 
-
+<item>
+<title>[COLOR lime][B] AREA 51[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=area+51+español+documentales&sp=CAISBBABGAJCBAgAEgA%253D</jsonrpc>
+<thumbnail>https://i.imgur.com/HEyd5MU.jpg</thumbnail>
+<fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
+</item>
 <item>
 <title>[COLOR lime][B] Cuarto Milenio y Milenio 3[/B][/COLOR]</title>
 <link>ignore</link>
@@ -111,14 +117,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=expedientes+x+rusos&sp=CAISBhABGAIgAUIECAESAA%253D%253D</jsonrpc>
 <thumbnail>https://i.imgur.com/wIbi9Y1.png</thumbnail>
-<fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B] Area 51 [/B][/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=area+51+español+documentales&sp=CAISBBABGAJCBAgAEgA%253D</jsonrpc>
-<thumbnail>https://i.imgur.com/HEyd5MU.jpg</thumbnail>
 <fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
 </item>
 
