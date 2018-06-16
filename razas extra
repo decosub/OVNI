@@ -104,4 +104,18 @@ https://www.youtube.com/results?search_query=civilizaciones+extraterrestres&sp=C
 <fanart>https://i.imgur.com/zZ4oAhw.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR lime][B] Implantes Alienigenas[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=implantes+extraterrestres+en+humanos&sp=EgIYAkIECAESAA%253D%253D</jsonrpc>
+<thumbnail>https://i.imgur.com/SUYuHhA.jpg</thumbnail>
+<fanart>https://i.imgur.com/zZ4oAhw.jpg</fanart>
+</item>
 
+<item>
+<title>[COLOR lime][B] Profecias Alienigenas[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=profecias+predicciones+alienigenas+extraterrestres&sp=EgIYAkIECAESAA%253D%253D</jsonrpc>
+<thumbnail>https://i.imgur.com/NRMirSi.jpg</thumbnail>
+<fanart>https://i.imgur.com/zZ4oAhw.jpg</fanart>
+</item>
