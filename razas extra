@@ -111,3 +111,12 @@ https://www.youtube.com/results?search_query=civilizaciones+extraterrestres&sp=C
 <thumbnail>https://i.imgur.com/NRMirSi.jpg</thumbnail>
 <fanart>https://i.imgur.com/zZ4oAhw.jpg</fanart>
 </item>
+
+
+<item>
+<title>[COLOR lime][B] AREA 51[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=area+51+español+documentales&sp=CAISBBABGAJCBAgAEgA%253D</jsonrpc>
+<thumbnail>https://i.imgur.com/HEyd5MU.jpg</thumbnail>
+<fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
+</item>
