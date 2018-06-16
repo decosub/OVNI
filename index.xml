@@ -3,7 +3,7 @@
 
 
 <item>
-<title>[COLOR yellow][B] Busca Tu Documental Sobre tu tema Favorito [/B][/COLOR]</title>
+<title>[COLOR yellow][B] Busca Tu Documental... [/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <thumbnail>https://i.imgur.com/m7tzbN1.png</thumbnail>
 <fanart>https://i.imgur.com/gylVcAH.jpg</fanart>
@@ -149,12 +149,12 @@ class InputWindow(xbmcgui.WindowDialog):
 </item>
 
 <item>
-<title>[COLOR lime][B] Ultimas Noticias de Ufologia...!!![/B][/COLOR]</title>
+<title>[COLOR lime][B] Ultimas Noticias...!!![/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ultimas+noticias+sobre+ovnis+y+extraterrestres&sp=CAJCBAgBEgA%253D</jsonrpc>
 <thumbnail>https://i.imgur.com/vLz2bnt.jpg</thumbnail>
   <fanart>https://i.imgur.com/CGA9dL7.jpg</fanart> 
- <info>Ultimas Noticias: Que esta pasando? En este preciso instante en algun lugar de nuestro planeta seguro hay noticias nuevas de nuestro interes. A que esperas para estar al dia aqui.</info>
+ <info>Ultimas Noticias: Que esta pasando? En este preciso instante en algun lugar de nuestro planeta seguro hay alguna noticia nueva de nuestro interes. A que esperas para estar al dia.</info>
 </item>
 
 
@@ -169,11 +169,11 @@ import xbmcgui
 def GetLSProData(page_data,Cookie_Jar,m):
     __addon__ = xbmcaddon.Addon()
     __addonname__ = __addon__.getAddonInfo('name')     
-    line1 = "A todos los usuarios que haceis grande Kodi y YouTube "
+    line1 = "A todos los usuarios que haceis grande Kodi."
 
-    line2 = "A Pepe, Carles, Anabel del Grupo Catoal ( @catoalkodi )"
+    line2 = "A Pepe, Carles, Anabel del Grupo Catoal ( @catoalkodi )."
 
-    line3 = "A Todos los desarrolladores por sus creaciones y los youtubers que dan a concer nuestro trabajo para que llegue a todo el mundo" 
+    line3 = "A Todos los desarrolladores por sus creaciones y los youtubers por compartir su trabajo con todo el mundo." 
     xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
     return "https://bit.ly/2JP1rjR"
 ]]></expres>
