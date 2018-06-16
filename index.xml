@@ -97,7 +97,7 @@ class InputWindow(xbmcgui.WindowDialog):
 <externallink>https://www.ivoox.com/24357157</externallink>
   <fanart>https://i.imgur.com/3e1t4Pk.jpg</fanart> 
   <thumbnail>https://i.imgur.com/lM3h9CF.png</thumbnail>
-    <info>Peliculas de ciencia ficcion y de culto al genero alienigena... Palomitas y a disfrutar...</info>
+    <info>[COLOR lime][B]Peliculas de ciencia ficcion y de culto al genero alienigena... Palomitas y a disfrutar...[/B][/COLOR</info>
 </item>
 
 
@@ -107,7 +107,7 @@ class InputWindow(xbmcgui.WindowDialog):
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales%203d%20espa%c3%b1ol&search_type=playlist</jsonrpc>
   <fanart>https://i.imgur.com/hicLJoD.jpg</fanart> 
   <thumbnail>https://i.imgur.com/v8RODoh.jpg</thumbnail>
- <info>Peliculas de ciencia ficcion y de culto al genero alienigena de todas las epocas y sagas... Palomitas y a disfrutar...</info>
+ <info>[COLOR lime][B]Serie de todos los tiempos de ciencia ficcion y otros mundos.... Palomitas y a disfrutar...[/B][/COLOR</info>
 </item>
 
 
@@ -118,7 +118,7 @@ class InputWindow(xbmcgui.WindowDialog):
 <externallink>https://bit.ly/2LHZAuA</externallink>
   <fanart>https://i.imgur.com/brPKXPt.jpg</fanart> 
   <thumbnail>https://i.imgur.com/l69DnyO.jpg</thumbnail>
-  <info>Documentales de calidad ordenados por contenido para mentes inquietas...</info>
+ <info>[COLOR lime][B]Documentales de calidad ordenados por contenido para mentes inquietas...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -127,7 +127,7 @@ class InputWindow(xbmcgui.WindowDialog):
 <externallink>https://bit.ly/2MmFZAZ</externallink>
   <fanart>https://i.imgur.com/JBctCu1.jpg</fanart> 
   <thumbnail>https://i.imgur.com/vJycQ2U.jpg</thumbnail>
-   <info>Canales On-line y Canales Youtuber de difusion y actualizados a diario...</info>
+ <info>[COLOR lime][B]Canales On-line y Canales Youtuber de difusion y actualizados a diario...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -137,7 +137,7 @@ class InputWindow(xbmcgui.WindowDialog):
 <externallink>https://bit.ly/2JP3TH6</externallink>
   <fanart>https://i.imgur.com/GQ8QGGb.jpg</fanart> 
   <thumbnail>https://i.imgur.com/OxN5RyN.jpg</thumbnail>
-    <info>Que Sabemos de las distintas razas de alienigenas que nos visitan..? Salgamos de dudas...</info>
+ <info>[COLOR lime][B]Que Sabemos de las distintas razas de alienigenas que nos visitan..? Salgamos de dudas...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -146,7 +146,7 @@ class InputWindow(xbmcgui.WindowDialog):
 <externallink>https://bit.ly/2JRxJKQ</externallink>
   <fanart>https://i.imgur.com/1USBajz.jpg</fanart> 
   <thumbnail>https://i.imgur.com/vLz2bnt.jpg</thumbnail> 
- <info>Extra:Tipos de naves alienigenas ,lugares de avistamientos, Proyecto SETI, Implantes ,lenguaje, civilizaciones y mucho mas contenido perfectamente ordenado</info>
+ <info>[COLOR lime][B]Extra:Tipos de naves alienigenas ,lugares de avistamientos, Proyecto SETI, Implantes ,lenguaje, civilizaciones y mucho mas contenido perfectamente ordenado[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -155,7 +155,7 @@ class InputWindow(xbmcgui.WindowDialog):
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ultimas+noticias+sobre+ovnis+y+extraterrestres&sp=CAJCBAgBEgA%253D</jsonrpc>
 <thumbnail>https://i.imgur.com/YkHKWrT.jpg</thumbnail>
   <fanart>https://i.imgur.com/CGA9dL7.jpg</fanart> 
- <info>Ultimas Noticias: Que esta pasando? En este preciso instante en algun lugar de nuestro planeta seguro hay alguna noticia nueva de nuestro interes. A que esperas para estar al dia.</info>
+  <info>[COLOR lime][B]Ultimas Noticias: Que esta pasando? En este preciso instante en algun lugar de nuestro planeta seguro hay alguna noticia nueva de nuestro interes. A que esperas para estar al dia.[/B][/COLOR]</title></info>
 </item>
 
 
@@ -183,6 +183,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
 <thumbnail>https://i.imgur.com/xeFZ8DI.jpg</thumbnail>
 <fanart>https://i.imgur.com/xeFZ8DI.jpg</fanart>
+  <info>[COLOR lime][B]Especial Agradecimiento a los Grandes Maestros.[/B][/COLOR]</title></info> 
 </item>
 
 
