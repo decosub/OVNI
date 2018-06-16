@@ -97,7 +97,7 @@ class InputWindow(xbmcgui.WindowDialog):
 <externallink>https://www.ivoox.com/24357157</externallink>
   <fanart>https://i.imgur.com/3e1t4Pk.jpg</fanart> 
   <thumbnail>https://i.imgur.com/lM3h9CF.png</thumbnail>
-    <info>[COLOR lime][B]Peliculas de ciencia ficcion y de culto al genero alienigena... Palomitas y a disfrutar...[/B][/COLOR</info>
+    <info>[COLOR lime][B]Peliculas de ciencia ficcion y de culto al genero alienigena... Palomitas y a disfrutar...[/B][/COLOR]</info>
 </item>
 
 
@@ -107,7 +107,7 @@ class InputWindow(xbmcgui.WindowDialog):
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales%203d%20espa%c3%b1ol&search_type=playlist</jsonrpc>
   <fanart>https://i.imgur.com/hicLJoD.jpg</fanart> 
   <thumbnail>https://i.imgur.com/v8RODoh.jpg</thumbnail>
- <info>[COLOR lime][B]Serie de todos los tiempos de ciencia ficcion y otros mundos.... Palomitas y a disfrutar...[/B][/COLOR</info>
+ <info>[COLOR lime][B]Serie de todos los tiempos de ciencia ficcion y otros mundos.... Palomitas y a disfrutar...[/B][/COLOR]</info>
 </item>
 
 
