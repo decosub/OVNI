@@ -32,15 +32,15 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>[COLOR white] Buscador de Documentales [/COLOR]</title>
 <link>$doregex[makelist]</link>
-<thumbnail>https://pbs.twimg.com/profile_images/887800080052432900/AibeE5p1_400x400.jpg</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+<thumbnail>https://i.imgur.com/m7tzbN1.png</thumbnail>
+<fanart>https://i.imgur.com/gylVcAH.jpg</fanart>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<title>[COLOR yellow] Agora [/COLOR][COLOR white][makelist.param2][/COLOR]</title>
+<title>[COLOR lime] O.V.N.I: [/COLOR][COLOR white][makelist.param2][/COLOR]</title>
 <link>$doregex[resolve]</link>
-<thumbnail>https://crunchbase-production-res.cloudinary.com/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1426784194/d2eqf0hi7vsemxowflgd.png</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+<thumbnail>https://i.imgur.com/m7tzbN1.png</thumbnail>
+<fanart>https://i.imgur.com/gylVcAH.jpg</fanart>
 ]]></listrepeat>
 <expres>u'(.+?)', u'(.+?)'</expres>
 <page>$doregex[search]</page>
