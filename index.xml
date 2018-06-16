@@ -3,10 +3,11 @@
 
 
 <item>
-<title>[COLOR yellow][B] Busca Tu Documental... [/B][/COLOR]</title>
+<title>[COLOR yellow][B] Buscador[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <thumbnail>https://i.imgur.com/m7tzbN1.png</thumbnail>
 <fanart>https://i.imgur.com/gylVcAH.jpg</fanart>
+ <info>Buscador de Youtube donde podras encontrar todo el contenido relacionado con el mundo Alienigena</info>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
