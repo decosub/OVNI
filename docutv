@@ -112,7 +112,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[COLOR lime][B] N.A.S.A Archivos Desclasificados[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=nasa+archivos+desclasificados+discovery&sp=EgIYAkIECAESAA%253D%253D<item>
-    <thumbnail>https://i.imgur.com/1GPA49Q.jpg</thumbnail> 
+<thumbnail>https://i.imgur.com/1GPA49Q.jpg</thumbnail>
    <fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
 </item>
 
@@ -128,14 +128,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[COLOR lime][B] Sociedades Secretas Alienigenas[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de+Sociedades+Secretas+alienigenas+extraterrestres&search_type=playlist</jsonrpc>
-<thumbnail>https://i.imgur.com/jLiGP4J.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/zZ4oAhw.jpg</thumbnail>
 <fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
 </item>
 
 
 <item>
-    <thumbnail>https://i.imgur.com/GzcC8m8.jpg</thumbnail> 
-<title>[COLOR lime][B] Conoce el Universo (Documentales Sobre el Universo) [/B][/COLOR]</title>
+    <title>[COLOR lime][B] Conoce el Universo (Documentales Sobre el Universo) [/B][/COLOR]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2HHLdDX</externallink>
 <thumbnail>https://i.imgur.com/FIbldZ6.jpg</thumbnail>
