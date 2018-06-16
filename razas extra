@@ -40,7 +40,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
 https://www.youtube.com/results?search_query=civilizaciones+extraterrestres&sp=CAISBBgCIAFCBAgBEgA%253D
 <item>
-<title>[COLOR lime][B] Tipos de Naves Estraterrestres [/B][/COLOR]</title>
+<title>[COLOR lime][B] Tipos de Naves Extraterrestres [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=tipos+de+naves+espaciales+extraterrestre&sp=CAJCBAgBEgA%253D</jsonrpc>
 <thumbnail>https://i.imgur.com/evyTVNE.png</thumbnail>
