@@ -104,7 +104,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[COLOR lime][B] Expedientes X (Rusos)[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=expedientes+x+rusos&sp=CAISBhABGAIgAUIECAESAA%253D%253D</jsonrpc>
-<thumbnailhttps://i.imgur.com/wIbi9Y1.png</thumbnail>
+<thumbnail>https://i.imgur.com/wIbi9Y1.png</thumbnail>
 <fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
 </item>
 
