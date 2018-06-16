@@ -130,13 +130,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR lime][B] Sociedades Secretas Alienigenas[/B][/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de+Sociedades+Secretas+alienigenas+extraterrestres&search_type=playlist</jsonrpc>
-<thumbnail>https://i.imgur.com/zZ4oAhw.jpg</thumbnail>
-<fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
-</item>
 
 
 <item>
