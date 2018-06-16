@@ -24,6 +24,8 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </regex>
 <thumbnail>https://i.imgur.com/M5QwElJ.jpg</thumbnail>
 <fanart>https://i.imgur.com/4QbrsYR.jpg</fanart>
+
+<info>[COLOR lime][B] Importante leer para el buen fincionamiento del Addon.[/B][/COLOR]</info>
 </item>
 
 
