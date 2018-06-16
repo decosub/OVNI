@@ -111,9 +111,17 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <item>
 <title>[COLOR lime][B] N.A.S.A Archivos Desclasificados[/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=nasa+archivos+desclasificados+discovery&sp=EgIYAkIECAESAA%253D%253D<item>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=nasa+archivos+desclasificados+discovery&sp=EgIYAkIECAESAA%253D%253D
 <thumbnail>https://i.imgur.com/1GPA49Q.jpg</thumbnail>
    <fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B] AREA 51[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=arera+51&sp=CAISBBABGAJCBAgBEgA%253D</jsonrpc>
+<thumbnail>https://i.imgur.com/HEyd5MU.jpg</thumbnail>
+<fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
 </item>
 
 <item>
