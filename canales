@@ -30,7 +30,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <title>[COLOR yellow][B] Canales en directo necesario tener URLResolver...[/B] [/COLOR]</title>
 <link>Nolink</link>
 
-<thumbnail>https://i.imgur.com/gylVcAH.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
 <fanart>https://i.imgur.com/cMYzVG4.jpg</fanart>
 </item>
 
@@ -139,89 +139,4 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR yellow][B] Busca Tu Documental Sobre tu tema Favorito [/B][/COLOR]</title>
-<link>$doregex[makelist]</link>
-<thumbnail>https://i.imgur.com/m7tzbN1.png</thumbnail>
-<fanart>https://i.imgur.com/gylVcAH.jpg</fanart>
-<regex>
-<name>makelist</name>
-<listrepeat><![CDATA[
-<title>[COLOR lime] O.V.N.I: [/COLOR][COLOR white][makelist.param2][/COLOR]</title>
-<link>$doregex[resolve]</link>
-<thumbnail>https://i.imgur.com/m7tzbN1.png</thumbnail>
-<fanart>https://i.imgur.com/gylVcAH.jpg</fanart>
-]]></listrepeat>
-<expres>u'(.+?)', u'(.+?)'</expres>
-<page>$doregex[search]</page>
-</regex>
- 
-<regex>
-<name>resolve</name>
-<expres><![CDATA[#$pyFunction
-import urlresolver
-def GetLSProData(page_data,Cookie_Jar,m):
- url = 'https://www.youtube.com/watch?v=[makelist.param1]'
- streamLink = urlresolver.resolve(url)
- return streamLink
-]]></expres>
-<page></page>
-</regex>
- 
-<regex>
-<name>search</name>
-<expres><![CDATA[#$pyFunction
-import requests,xbmcgui,xbmc, re,time, xbmcaddon
-def GetLSProData(page_data,Cookie_Jar,m):
- 
- text=takeInputFortext('[COLOR yellow] O.V.N.I[/COLOR] [COLOR white]Buscar Canal[/COLOR]')
- url = 'https://www.youtube.com/results?search_query=canal+ovnis+ufo' + text.replace(' ', '+')
- req = requests.get(url)
- list1 = re.findall('yt-lockup-c.+?a\shref=".watch.v=([^"]+)".+?\s\stitle="([^"]+)"\s', req.text)
- 
- count = 50
- while count > 1:
-   try:
-     url = 'https://www.youtube.com' + re.findall('a href="([^"]+)".+<\/a>\n <\/div>', req.text)[0]
-   except:
-     return list1
-   req = requests.get(url)
-   list2 = re.findall('yt-lockup-c.+?a\shref=".watch.v=([^"]+)".+?\s\stitle="([^"]+)"\s', req.text)
-   list1 = list1 + list2
-   count = count - 1
- return list1
- 
-def takeInputFortext(txt):
- addon = xbmcaddon.Addon('plugin.video.ovni')
- addon_version = addon.getAddonInfo('version')
- profile = xbmc.translatePath(addon.getAddonInfo('profile').decode('utf-8'))
- 
- solver = InputWindow( txt=txt)
- solution = solver.get()
- return solution
- 
-class InputWindow(xbmcgui.WindowDialog):
-    def __init__(self, *args, **kwargs):
-       
-        self.txt = kwargs.get('txt','')
- 
-        xbmcgui.WindowXMLDialog.__init__(self)
-        #self.addControl(self.txt)
-        path = xbmcaddon.Addon().getAddonInfo('path')
-        self.kbd = xbmc.Keyboard()
-        self.kbd.setHeading( self.txt)
- 
-    def get(self):
-        self.show()
-        time.sleep(2)
-        self.kbd.doModal()
-        if (self.kbd.isConfirmed()):
-            text = self.kbd.getText()
-            self.close()
-            return text
-        self.close()
-        return False
-]]></expres>
-<page></page>
-</regex>
-</item>
+
