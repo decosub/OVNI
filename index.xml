@@ -115,7 +115,7 @@ class InputWindow(xbmcgui.WindowDialog):
 <title>[COLOR lime][B] Los Mejores Documentales[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2LHZAuA</externallink>
-  <fanart>https://i.imgur.com/sQotdvh.jpg</fanart> 
+  <fanart>https://i.imgur.com/brPKXPt.jpg</fanart> 
   <thumbnail>https://i.imgur.com/l69DnyO.jpg</thumbnail>
   <info>Documentales de calidad ordenados por contenido para mentes inquietas...</info>
 </item>
@@ -143,7 +143,7 @@ class InputWindow(xbmcgui.WindowDialog):
 <title>[COLOR lime][B] Extra...[/B][/COLOR]</title>
 <link>ignore</link>
 <externallink>https://bit.ly/2JRxJKQ</externallink>
-  <fanart>https://i.imgur.com/brPKXPt.jpg</fanart> 
+  <fanart>https://i.imgur.com/1USBajz.jpg</fanart> 
   <thumbnail>https://i.imgur.com/vLz2bnt.jpg</thumbnail> 
  <info>Extra:Tipos de naves alienigenas ,lugares de avistamientos, Proyecto SETI, Implantes ,lenguaje, civilizaciones y mucho mas contenido perfectamente ordenado</info>
 </item>
