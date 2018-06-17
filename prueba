@@ -3,7 +3,7 @@
 <item>
 <title>[COLOR lime][B] Niños de las Estrellas[/B][/COLOR]</title>
 <link>ignore</link>
-
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=niños+de+las+estrellas+alienigenas&sp=CAASBBABGAJCBAgAEgA%253D</jsonrpc>
 <thumbnail>https://i.imgur.com/C5Ztvkb.jpg</thumbnail>
 <fanart>https://i.imgur.com/zZ4oAhw.jpg</fanart>
 </item>
@@ -12,10 +12,10 @@
 <item>
 <title>[COLOR lime][B] Area 51[/B][/COLOR]</title>
 <link>ignore</link>
-
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+area+51español&sp=CAJCBAgBEgA%253D</jsonrpc>
 <thumbnail>https://i.imgur.com/HEyd5MU.jpg</thumbnail>
 <fanart>https://i.imgur.com/zZ4oAhw.jpg</fanart>
 </item>
 
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+area+51español&sp=CAJCBAgBEgA%253D&search_type=playlist</jsonrpc>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=niños+de+las+estrellas+alienigenas&sp=CAASBBABGAJCBAgAEgA%253D&search_type=playlist</jsonrpc>
+
+
