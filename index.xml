@@ -55,7 +55,7 @@
 <externallink>https://bit.ly/2JRxJKQ</externallink>
   <fanart>https://i.imgur.com/1USBajz.jpg</fanart> 
   <thumbnail>https://i.imgur.com/vLz2bnt.jpg</thumbnail> 
- <info>[COLOR lime][B ]Tipos de naves alienigenas ,lugares de avistamientos, Proyecto SETI, lenguaje, civilizaciones y mucho mas contenido perfectamente ordenado[/B][/COLOR]</title></info>
+ <info>[COLOR lime][B]Tipos de naves alienigenas ,lugares de avistamientos, Proyecto SETI, lenguaje, civilizaciones y mucho mas contenido perfectamente ordenado[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -64,7 +64,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ultimas+noticias+sobre+ovnis+y+extraterrestres&sp=CAJCBAgBEgA%253D</jsonrpc>
 <thumbnail>https://i.imgur.com/YkHKWrT.jpg</thumbnail>
   <fanart>https://i.imgur.com/CGA9dL7.jpg</fanart> 
-  <info>[COLOR lime][B] Ultimas Noticias: Que esta pasando? En este preciso instante en algun lugar de nuestro planeta seguro hay alguna noticia nueva de nuestro interes. A que esperas para estar al dia.[/B][/COLOR]</title></info>
+  <info>[COLOR lime][B]Ultimas Noticias: Que esta pasando? En este preciso instante en algun lugar de nuestro planeta seguro hay alguna noticia nueva de nuestro interes. A que esperas para estar al dia.[/B][/COLOR]</title></info>
 </item>
 
 
@@ -119,7 +119,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <thumbnail>https://i.imgur.com/4QbrsYR.jpg</thumbnail>
 <fanart>https://i.imgur.com/4QbrsYR.jpg</fanart>
 
-<info>[COLOR lime][B] Importante leer para el buen fincionamiento del Addon.[/B][/COLOR]</info>
+<info>[COLOR lime][B]Importante leer para el buen fincionamiento del Addon.[/B][/COLOR]</info>
 </item>
 
 
