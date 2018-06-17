@@ -7,3 +7,12 @@
 <thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
 <fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
 </item
+
+<item>
+<title>[COLOR lime][B] Grises Altos o Blancos (Orión)[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=grises+extraterrestres&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://i.pinimg.com/originals/fa/02/18/fa0218cadb461d5a1475f37652967a57.jpg</thumbnail>
+<fanart>https://i.imgur.com/GQ8QGGb.jpg</fanart>
+</item>
+
