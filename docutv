@@ -111,6 +111,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
 </item>
 
+<item>
+<title>[COLOR lime][B] Area 51[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+area+51español&sp=CAJCBAgBEgA%253D</jsonrpc>
+<thumbnail>https://i.imgur.com/HEyd5MU.jpg</thumbnail>
+<fanart>https://i.imgur.com/zZ4oAhw.jpg</fanart>
+</item>
 
 <item>
 <title>[COLOR lime][B] Expedientes X (Rusos)[/B][/COLOR]</title>
