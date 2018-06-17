@@ -105,11 +105,11 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR lime][B] Cuarto Milenio y Milenio 3[/B][/COLOR]</title>
+<title>[COLOR lime][B] Area 51[/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=cuarto+milenio+ovni+extraterrestre&search_type=playlist</jsonrpc>
-<thumbnail>https://i.imgur.com/nRJhriB.jpg</thumbnail>
-<fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ocumentales+area+51español&sp=CAJCBAgBEgA%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/HEyd5MU.jpg</thumbnail>
+<fanart>https://i.imgur.com/zZ4oAhw.jpg</fanart>
 </item>
 
 <item>
