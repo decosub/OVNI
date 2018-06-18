@@ -15,9 +15,10 @@
 </item>
 
 <item>
-<title>[COLOR lime][B] Niños de las Estrellas[/B][/COLOR]</title>
+<title>[COLOR yellow][B] Volver al Menu Principal...[/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=%20niños%20de%20las%20estrellas%20x&search_type=playlist</jsonrpc>
-<thumbnail>https://i.imgur.com/C5Ztvkb.jpg</thumbnail>
-<fanart>https://i.imgur.com/zZ4oAhw.jpg</fanart>
+<externallink>https://bit.ly/2JP1rjR</externallink>
+<thumbnail>https://i.imgur.com/ORnutJ2.jpg</thumbnail>
+<fanart>https://i.imgur.com/ORnutJ2.jpg</fanart>
 </item>
+
