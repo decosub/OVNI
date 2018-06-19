@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR lime][B] El Universo [/B][/COLOR]</title>
+<title>[COLOR lime][B] Universo: El Universo [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+de+UNIVERSO&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/FIbldZ6.jpg</thumbnail>
@@ -7,7 +7,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][B] El Cosmos Carl Sagan[/B][/COLOR]</title>
+<title>[COLOR lime][B] Universo: El Cosmos Carl Sagan[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+de+El+Cosmos+Carl+Sagan&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/XeIZtyJ.jpg</thumbnail>
@@ -15,7 +15,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][B] El Universo de Stephen Hawking[/B][/COLOR]</title>
+<title>[COLOR lime][B] Universo:El Universo de Stephen Hawking[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=el+universo+de+stephen+hawking&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/CRlP8BZ.jpg</thumbnail>
@@ -24,7 +24,7 @@
 
 
 <item>
-<title>[COLOR lime][B] Grandes Misterios Del Universo con Morgan Freeman[/B][/COLOR]</title>
+<title>[COLOR lime][B] Universo: Grandes Misterios Del Universo con Morgan Freeman[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Grandes+Misterios+Del+Universo+con+Morgan+Freeman&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/y0qWQGh.jpg</thumbnail>
@@ -33,7 +33,7 @@
 
 
 <item>
-<title>[COLOR lime][B] Viajes Espaciales[/B][/COLOR]</title>
+<title>[COLOR lime][B] Universo: Viajes Espaciales[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de+viajes+espaciales&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/gkzO7ev.jpg</thumbnail>
@@ -42,7 +42,7 @@
 
 
 <item>
-<title>[COLOR lime][B] NASA[/B][/COLOR]</title>
+<title>[COLOR lime][B] Universo: NASA[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de+NASA&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/KbIBtOk.jpg</thumbnail>
@@ -52,7 +52,7 @@
 
 
 <item>
-<title>[COLOR lime][B] Universos Paralelos[/B][/COLOR]</title>
+<title>[COLOR lime][B] Universo: Universos Paralelos[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de+Universos+Paralelos&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/eyppmmP.jpg</thumbnail>
@@ -62,7 +62,7 @@
 
 
 <item>
-<title>[COLOR lime][B] Universo Inexplicable [/B][/COLOR]</title>
+<title>[COLOR lime][B] Universo: Universo Inexplicable [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de+Universo+inexplicable+con+Neil+deGrasse+Tyson+Isaac&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/6dUf4bX.jpg</thumbnail>
@@ -71,7 +71,7 @@
 
 
 <item>
-<title>[COLOR lime][B] ISS Estacion Internacional [/B][/COLOR]</title>
+<title>[COLOR lime][B] Universo: ISS Estacion Internacional [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=iss+la+estacion+internacional+castellano&sp=CAISBBABGAJCBAgAEgA%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/JBctCu1.jpg</thumbnail>
