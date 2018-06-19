@@ -1,10 +1,11 @@
 <item>
-<title>[COLOR lime][B] Contenido Extra: Civicilizaciones Alienigenas [/B][/COLOR]</title>
+<title>[COLOR yellow][B] Contenido Extra: Civicilizaciones Alienigenas [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=civilizaciones+extraterrestres&sp=CAISBBgCIAFCBAgBEgA%253D</jsonrpc>
 <thumbnail>https://i.imgur.com/lhIMM9W.jpg</thumbnail>
 <fanart>https://i.imgur.com/zZ4oAhw.jpg</fanart>
-<info>[COLOR][B]Todo lo que sabemos sobre Civilizaciones Alienigenas[/B][/COLOR]</title>
+<info>[COLOR][B]Todo lo que sabemos sobre Civilizaciones Alienigenas[/B][/COLOR]</info></title>
+
 </item>
 
 <item>
@@ -13,7 +14,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=tipos+de+naves+espaciales+extraterrestre&sp=CAJCBAgBEgA%253D</jsonrpc>
 <thumbnail>https://i.imgur.com/evyTVNE.png</thumbnail>
 <fanart>https://i.imgur.com/zZ4oAhw.jpg</fanart>
-<info>[COLOR][B]Todo lo que sabemos sobre Naves Espaciales Alienigenas, planos, fotos y demas contenido disponible...[/B][/COLOR]</title>
+<info>[COLOR][B]Todo lo que sabemos sobre Naves Espaciales Alienigenas, planos, fotos y demas contenido disponible...[/B][/COLOR]</info></title>
 </item>
 
 <item>
@@ -22,7 +23,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=posibles+planetas+alienigena&sp=CAJCBAgBEgA%253D</jsonrpc>
 <thumbnail>https://i.imgur.com/F7CjsgM.jpg</thumbnail>
 <fanart>https://i.imgur.com/zZ4oAhw.jpg</fanart>
-<info>[COLOR][B]Todo lo que sabemos sobre Planetas que alguna vez habian albergado vida y muchos otros que la podian tener...[/B][/COLOR]</title>
+<info>[COLOR][B]Todo lo que sabemos sobre Planetas que alguna vez habian albergado vida y muchos otros que la podian tener...[/B][/COLOR]</info></title>
 </item>
 
 <item>
@@ -40,7 +41,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=el+lenguaje+de+los+extraterrestres&sp=EgQYAiABQgQIABIA</jsonrpc>
 <thumbnail>https://i.imgur.com/331PFZM.jpg</thumbnail>
 <fanart>https://i.imgur.com/zZ4oAhw.jpg</fanart>
-<info>[COLOR][B]Todo lo que sabemos sobre Lenguaje Alienigenas, como se comunican? que sabemos de ellos?...[/B][/COLOR]</title>
+<info>[COLOR][B]Todo lo que sabemos sobre Lenguaje Alienigenas, como se comunican? que sabemos de ellos?...[/B][/COLOR]</info></title>
 </item>
 
 
@@ -50,7 +51,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=proyecto+seti&sp=EgQYAiABQgQIABIA</jsonrpc>
 <thumbnail>https://i.imgur.com/cMYzVG4.jpg</thumbnail>
 <fanart>https://i.imgur.com/zZ4oAhw.jpg</fanart>
-<info>[COLOR][B]SETI es el acrónimo del inglés Search for ExtraTerrestrial Intelligence, o Búsqueda de Inteligencia Extraterrestre. Existen numerosos proyectos SETI, que tratan .[/B][/COLOR]</title>
+<info>[COLOR][B]SETI es el acrónimo del inglés Search for ExtraTerrestrial Intelligence, o Búsqueda de Inteligencia Extraterrestre. Existen numerosos proyectos SETI, que tratan .[/B][/COLOR]</info></title>
 </item>
 
 <item>
@@ -59,7 +60,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+ingenieria+alienigena+o+extraterrestre&sp=CAISAhgCQgQIABIA</jsonrpc>
 <thumbnail>https://i.imgur.com/vC8jyvX.jpg</thumbnail>
 <fanart>https://i.imgur.com/zZ4oAhw.jpg</fanart>
-<info>[COLOR][B]Tecnologia alienigena, naves espaciales, como han contribuido en nuestra evolucion tecnologica...[/B][/COLOR]</title>
+<info>[COLOR][B]Tecnologia alienigena, naves espaciales, como han contribuido en nuestra evolucion tecnologica...[/B][/COLOR]</info></title>
 </item>
 
 <item>
@@ -68,7 +69,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+portales+dimensionales&sp=CAJCBAgBEgA%253D</jsonrpc>
 <thumbnail>https://i.imgur.com/oItiHci.jpg</thumbnail>
 <fanart>https://i.imgur.com/zZ4oAhw.jpg</fanart>
-<info>[COLOR][B]Portales Dimensionales , puertas a otros mundos, agujeros negros, todo lo que sabemos sobre ellos...[/B][/COLOR]</title>
+<info>[COLOR][B]Portales Dimensionales , puertas a otros mundos, agujeros negros, todo lo que sabemos sobre ellos...[/B][/COLOR]</info></title>
 </item>
 
 <item>
@@ -77,7 +78,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=implantes+extraterrestres+en+humanos&sp=EgIYAkIECAESAA%253D%253D</jsonrpc>
 <thumbnail>https://i.imgur.com/SUYuHhA.jpg</thumbnail>
 <fanart>https://i.imgur.com/zZ4oAhw.jpg</fanart>
-<info>[COLOR][B]Nos controlan? nos han estado monitorizando todo este tiempo? todo lo que sabemos sobre implantes alienigenas en abducciones...[/B][/COLOR]</title>
+<info>[COLOR][B]Nos controlan? nos han estado monitorizando todo este tiempo? todo lo que sabemos sobre implantes alienigenas en abducciones...[/B][/COLOR]</info></title>
 </item>
 
 <item>
@@ -86,16 +87,16 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=profecias+predicciones+alienigenas+extraterrestres&sp=EgIYAkIECAESAA%253D%253D</jsonrpc>
 <thumbnail>https://i.imgur.com/NRMirSi.jpg</thumbnail>
 <fanart>https://i.imgur.com/zZ4oAhw.jpg</fanart>
-<info>[COLOR][B]Que nos depara el futuro segun los alienigenas y diferentes canalizadores?...[/B][/COLOR]</title>
+<info>[COLOR][B]Que nos depara el futuro segun los alienigenas y diferentes canalizadores?...[/B][/COLOR]</info></title>
 </item>
 
 
 <item>
-<title>[COLOR yellow][B] Volver al Menu Principal...[/B][/COLOR]</title>
+<title>[COLOR yellow][B] Volver al Menu Principal...[/B][/COLOR]</info></title>
 <link>ignore</link>
 <externallink>https://bit.ly/2JP1rjR</externallink>
 <thumbnail>https://i.imgur.com/ORnutJ2.jpg</thumbnail>
 <fanart>https://i.imgur.com/ORnutJ2.jpg</fanart>
-<info>[COLOR][B]Volver al Menu Principal...[/B][/COLOR]</title>
+<info>[COLOR][B]Volver al Menu Principal...[/B][/COLOR]</info></title>
 </item>
 
