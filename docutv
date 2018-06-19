@@ -91,7 +91,7 @@ class InputWindow(xbmcgui.WindowDialog):
 
 <item>
 
-<title>[COLOR lime][B] Conferencias Ufologia[/B][/COLOR]</title>
+<title>[COLOR lime][B] Documentales: Conferencias Ufologia[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=conferencias++ufologia%2Bextraterrestre%2Bovnis&sp=EgIYAkIECAESAA%253D%253D</jsonrpc>
 <thumbnail>https://i.imgur.com/OKemd9Z.jpg</thumbnail>
@@ -109,7 +109,7 @@ class InputWindow(xbmcgui.WindowDialog):
 
 
 <item>
-<title>[COLOR lime][B] Ovnis y Ufología Documentales [/B][/COLOR]</title>
+<title>[COLOR lime][B] Documentales:  Ovnis y Ufología Documentales [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+de+ovnis&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/4DhqdV7.jpg</thumbnail>
@@ -119,7 +119,7 @@ class InputWindow(xbmcgui.WindowDialog):
 
 
 <item>
-<title>[COLOR lime][B] Alienigenas Ancestrales[/B][/COLOR]</title>
+<title>[COLOR lime][B] Documentales:  Alienigenas Ancestrales[/B][/COLOR]</title>
  <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+de+alienigenas+ancestrales&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/7QeOatM.jpg</thumbnail>
@@ -128,7 +128,7 @@ class InputWindow(xbmcgui.WindowDialog):
 
 <item>
 
-<title>[COLOR lime][B] Alienigenas Caso Abierto [/B][/COLOR]</title>
+<title>[COLOR lime][B] Documentales:  Alienigenas Caso Abierto [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=buscando+Documentales+alienigenas+caso+abierto&list=PLmQ8A_lK0Lz_qqbIyCBpNQTvCa8phE5h6&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/sNcQmev.jpg</thumbnail>
@@ -137,7 +137,7 @@ class InputWindow(xbmcgui.WindowDialog):
 
 
 <item>
-<title>[COLOR lime][B] Creacionismo Alienígena[/B][/COLOR]</title>
+<title>[COLOR lime][B] Documentales:  Creacionismo Alienígena[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Creacionismo%20Alien%c3%adgena&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/LFIzY7S.jpg</thumbnail>
@@ -145,7 +145,7 @@ class InputWindow(xbmcgui.WindowDialog):
 
 
 <item>
-<title>[COLOR lime][B] Misterios Alienigenas[/B][/COLOR]</title>
+<title>[COLOR lime][B] Documentales:  Misterios Alienigenas[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Cazadores+Misterios+Alienigenas+CANAL+HISTORIA&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/KKLDfok.jpg</thumbnail>
@@ -153,7 +153,7 @@ class InputWindow(xbmcgui.WindowDialog):
 </item>
 
 <item>
-<title>[COLOR lime][B] Cuarto Milenio y Milenio 3[/B][/COLOR]</title>
+<title>[COLOR lime][B] Documentales:  Cuarto Milenio y Milenio 3[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=cuarto+milenio+ovni+extraterrestre&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/nRJhriB.jpg</thumbnail>
@@ -161,7 +161,7 @@ class InputWindow(xbmcgui.WindowDialog):
 </item>
 
 <item>
-<title>[COLOR lime][B] Expedientes X[/B][/COLOR]</title>
+<title>[COLOR lime][B] Documentales:  Expedientes X[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Documentales%20Expwediente%20x&search_type=playlist</jsonrpc>
 <thumbnail>https://i0.wp.com/www.dogmacero.org/wp-content/uploads/xfiles3.jpg?fit=500%2C500</thumbnail>
@@ -169,7 +169,7 @@ class InputWindow(xbmcgui.WindowDialog):
 </item>
 
 <item>
-<title>[COLOR lime][B] Expedientes X (Rusos)[/B][/COLOR]</title>
+<title>[COLOR lime][B] Documentales:  Expedientes X (Rusos)[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=expedientes+x+rusos&sp=CAISBhABGAIgAUIECAESAA%253D%253D</jsonrpc>
 <thumbnail>https://i.imgur.com/wIbi9Y1.png</thumbnail>
@@ -177,7 +177,7 @@ class InputWindow(xbmcgui.WindowDialog):
 </item>
 
 <item>
-<title>[COLOR lime][B] Iluminatis [/B][/COLOR]</title>
+<title>[COLOR lime][B] Documentales:  Iluminatis [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=iluminatis+alienigenas&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/rPerFCl.jpg</thumbnail>
@@ -187,7 +187,7 @@ class InputWindow(xbmcgui.WindowDialog):
 
 
 <item>
-    <title>[COLOR lime][B] Conoce el Universo (Documentales Sobre el Universo) [/B][/COLOR]</title>
+    <title>[COLOR lime][B] Documentales:  Conoce el Universo (Documentales Sobre el Universo) [/B][/COLOR]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2HHLdDX</externallink>
 <thumbnail>https://i.imgur.com/LFBUjsJ.jpg</thumbnail>
