@@ -100,7 +100,7 @@ class InputWindow(xbmcgui.WindowDialog):
 
 <item>
  
-<title>[COLOR lime][B] Abducciones[/B][/COLOR]</title>
+<title>[COLOR lime][B] Documentales: Abducciones[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=abducciones+extraterrestres&sp=UUnOAynBmYKA1neozHQNF0mA&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/5JtXDw6.jpg</thumbnail>
