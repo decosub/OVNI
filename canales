@@ -105,7 +105,7 @@
 
 <item>
  
-<title>[COLOR yellow][B] Canal YouTube:[/COLOR][/B][B][COLOR lime] Eric Von Däniken [/B][/COLOR]</title>
+<title>[COLOR yellow][B] Canal YouTube: Eric Von Däniken [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=eric+von+däniken+español</jsonrpc>
 <thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
