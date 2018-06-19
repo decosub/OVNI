@@ -2,7 +2,6 @@
 <item>
 <title>[COLOR yellow][B] Canales en directo necesario tener URLResolver...[/B] [/COLOR]</title>
 <link>Nolink</link>
-
 <thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
 <fanart>https://i.imgur.com/cMYzVG4.jpg</fanart>
 </item>
@@ -14,14 +13,12 @@
 <fanart>https://i.imgur.com/cMYzVG4.jpg</fanart>
 </item>
 
-
 <item>
 <title>[COLOR lime][B] Canal On-line: NASA TV Public-Education (Subtitulado)[/B][/COLOR]</title>
 <urlsolve>https://www.youtube.com/watch?v=wwMDvPCGeE0</urlsolve>
 <thumbnail>https://i.imgur.com/XTmEuwI.jpg</thumbnail>
 <fanart>https://i.imgur.com/cMYzVG4.jpg</fanart>
 </item>
-
 
 <item>
 <title>[COLOR lime][B] Canal On-line: NASA TV Media (Subtitulado)[/B][/COLOR]</title>
@@ -42,14 +39,9 @@
 <link>nolink</link>
 <thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
 <fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
-
 </item>
 
-
-
-
 <item>
-
 <title>[COLOR lime][B] Canal YouTube: Mundo desconocidos [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=mundos+desconocidos&sp=UUnOAynBmYKA1neozHQNF0mA&search_type=playlist</jsonrpc>
@@ -58,7 +50,6 @@
 </item
 
 <item>
-
 <title>[COLOR lime][B] Canal YouTube: Vicente fuentes[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=vicente+fuentes&sp=UUWI70VlhoBiCvhmDMQle9UAmA&search_type=playlist</jsonrpc>
@@ -67,16 +58,14 @@
 </item
 
 <item>
- <title>[COLOR lime][B] Canal YouTube: UFOvnis[/B][/COLOR]</title>
+<title>[COLOR lime][B] Canal YouTube: UFOvnis[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=UFOvnis&sp=UUbWqoBboiayXdrAF07SJB7A&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
 <fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
 </item
 
-
 <item>
-
 <title>[COLOR lime][B] Canal YouTube: Verdad Oculta [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Verdad+oculta&list=UUALE1jdtTAmgzyyH4FMU5pQ</jsonrpc>
@@ -85,7 +74,6 @@
 </item
 
 <item>
-  
 <title>[COLOR lime][B] Canal YouTube: Atraviesa lo Desconocido [/B][/COLOR]</title>
 <link>ignore</link>https://www.youtube.com
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=atraviesa+lo+desconocido&list=UUnpy6aaJeb29DZJ8bsCgRiQ</jsonrpc>
@@ -94,7 +82,6 @@
 </item
 
 <item>
- 
 <title>[COLOR lime][B] Canal YouTube: JJ.Benitez[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=jj.benitez+ovnis+y+extraterrestres&sp=CAISBBgCIAFCBAgBEgA%253D</jsonrpc>
@@ -102,10 +89,8 @@
 <fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
 </item>
 
-
 <item>
- 
-<title>[COLOR yellow][B] Canal YouTube: Eric Von Däniken [/B][/COLOR]</title>
+<title>[COLOR lime][B] Canal YouTube: Eric Von Däniken [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=eric+von+däniken+español</jsonrpc>
 <thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
