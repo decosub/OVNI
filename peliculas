@@ -114,24 +114,6 @@ class InputWindow(xbmcgui.WindowDialog):
 </item>
 
 
-
-<item>
-<title>[COLOR lime][B] Star Wars[/B][/COLOR]</title>
-<link>nolink</link>
-<externallink>https://bit.ly/2yoEuzD</externallink>
-<thumbnail>https://i.imgur.com/H6hsLLT.jpg</thumbnail>
-<fanart>https://i.imgur.com/xFJbHfA.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B] Star Trek[/B][/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=star+trek+español&sp=EgIYAkIECAESAA%253D%253D</jsonrpc>
-<thumbnail>https://i.imgur.com/v8RODoh.jpg</thumbnail>
-<fanart>https://i.imgur.com/EcIkLFQ.jpg</fanart>
-</item>
-
-
 <item>
 <title>[COLOR yellow][B] Volver al Menu Principal...[/B][/COLOR]</title>
 <link>ignore</link>
