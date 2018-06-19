@@ -92,7 +92,7 @@ class InputWindow(xbmcgui.WindowDialog):
 <title>[COLOR lime][B] Peliculas Ciencia Ficcion[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=peliculas+de+ciencia+ficcion+castellano&sp=CAISBBABGAJCBAgAEgA%253D&search_type=playlist</jsonrpc>
-<thumbnail>https://i.imgur.com/14JWqjl.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/I5lX0Kz.jpg</thumbnail>
 <fanart>https://i.imgur.com/14JWqjl.jpg</fanart>
 </item>
 
@@ -117,7 +117,7 @@ class InputWindow(xbmcgui.WindowDialog):
 <title>[COLOR lime][B] Peliculas de Ivasiones Alienigenas [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=EgQQARgCQgQIARIA&sp=invasiones+alienigena+castellano&search_type=playlist</jsonrpc>
-<thumbnail>https://i.imgur.com/fltafvb.png</thumbnail>
+<thumbnail>https://i.imgur.com/oPD2BM9.jpg</thumbnail>
 <fanart>https://i.imgur.com/fltafvb.png</fanart>
 </item>
 
@@ -125,8 +125,8 @@ class InputWindow(xbmcgui.WindowDialog):
 <title>[COLOR lime][B] Peliculas Del Espacio [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=peliculas+del+espacio+castellano&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
-<thumbnail>https://i.imgur.com/pjRqb6y.jpg</thumbnail>
-<fanart>https://i.imgur.com/pjRqb6y.jpg</fanart>
+<thumbnail>https://i.imgur.com/EBRY6Mi.jpg</thumbnail>
+<fanart>https://i.imgur.com/QMB7OQQ.jpg</fanart>
 </item>
 
 <item>
