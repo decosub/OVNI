@@ -5,6 +5,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=anunnakis+nibiru&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/bZtfhfK.jpg</thumbnail>
 <fanart>https://i.imgur.com/IweM51g.jpg</fanart>
+ <info>[COLOR lime][B]Los Anunnaki (antigua transcripción acadia por el sumerio Anunna) son un grupo de deidades sumerias y acadias que son identificados en los textos como los Anunna y con los Igigi, los dioses menores.[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -13,7 +14,9 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=reptilianos+extraterrestres&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/FKQPD1G.jpg</thumbnail>
 <fanart>https://i.imgur.com/IweM51g.jpg</fanart>
+<info>[COLOR lime][B]¿Has escuchado hablar de los reptilianos? Estos seres extraños y espeluznantes son realmente famosos dentro de la cultura popular porque existen muchas personas que señalan que son reales. [/B][/COLOR]</title></info>
 </item>
+
 
 <item>
 <title>[COLOR lime][B] Razas: Grises Altos o Blancos (Orión)[/B][/COLOR]</title>
@@ -21,15 +24,17 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=grises+extraterrestres&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/FQdaQOF.jpg</thumbnail>
 <fanart>https://i.imgur.com/IweM51g.jpg</fanart>
+<info>[COLOR lime][B]¿Quiénes son los seres con cabezas grandes y ojos gigantes que parecen haber estado visitando nuestro planeta durante miles de años? Conocido por los investigadores como los "grises", estos seres misteriosos han sido representados en el arte rupestre ¿Quiénes son, de qué planeta vienen.[/B][/COLOR]</title></info>
+<item>
 </item>
 
 
-<item>
 <title>[COLOR lime][B] Razas: Sirianos (Sirio B)[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Sirianos+extraterrestres&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/QWruxD8.jpg</thumbnail>
 <fanart>https://i.imgur.com/IweM51g.jpg</fanart>
+<info>[COLOR lime][B]Los Sirios juegan el papel de poner a tierra en la Tierra información avanzada, .... La influencia de Lira (otros sistemas estelares en la constelación de Lira...[/B][/COLOR]</title></info>
 </item>
 
 
@@ -39,6 +44,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Pleyadianos&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/UlFBhmQ.jpg</thumbnail>
 <fanart>https://i.imgur.com/IweM51g.jpg</fanart>
+<info>[COLOR lime][B]Los pleyadianos son un colectivo de entidades procedentes de las siete estrellas que nosotros conocemos como Las Pléyades. Ellos dicen que son nuestros ancestros, pues aportaron su ADN para el surgimiento de la raza humana. Por eso se les conoce como nuestro grupo seminal. [/B][/COLOR]</title></info>
 </item>
 
 
@@ -48,6 +54,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Andromedanos&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/UxdZx02.jpg</thumbnail>
 <fanart>https://i.imgur.com/IweM51g.jpg</fanart>
+<info>[COLOR lime][B]Los Andromedanos son seres humanos del sistema de Zenetae en la Galaxia de Andrómeda, su apariencia también corresponde a la nuestra aunque también tienen características tales como: piel azulada, blanquesina y en algunos casos rojisa, su estatura es muy variable y puede variar desde el1.60mts hasta los 2.30mts de estatura, algunos de ellos no tienen cabello.[/B][/COLOR]</title></info>
 </item>
 
 
@@ -58,6 +65,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=veganos+ovnis+extraterrestres&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/Nj8k5tz.jpg</thumbnail>
 <fanart>https://i.imgur.com/IweM51g.jpg</fanart>
+<info>[COLOR lime][B]Los Pleyadianos provienen de las Estrella Pleyades de Taygeta y Maya son seres meramente benévolos con respecto a las demas razas, poseen una gran cantidad de sabiduría espiritual y conocimientos tecnológicos ya que su ascendencia como en el caso de los demas Pleyadiandos corresponde a Lyra[/B][/COLOR]</title></info>
 </item>
 
 
@@ -68,6 +76,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Telosianos&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/Tkiuv7y.jpg</thumbnail>
 <fanart>https://i.imgur.com/IweM51g.jpg</fanart>
+<info>[COLOR lime][B]Descrito como siendo humanoides altos y rubios, los Telosianos se cree por muchos como los últimos sobrevivientes de las civilizaciones ...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -76,6 +85,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=todas+las+razas+de+extraterrestre&sp=CAISBBABGAJCBAgAEgA%253D</jsonrpc>
 <thumbnail>https://i.imgur.com/1OuWaT3.jpg</thumbnail>
 <fanart>https://i.imgur.com/IweM51g.jpg</fanart>
+<info>[COLOR lime][B]Aqui encontraras informacion sobre otras muchas razas que nos visitan que no hemos podido resumir anteriormente...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -84,6 +94,7 @@
 <externallink>https://bit.ly/2JP1rjR</externallink>
 <thumbnail>https://i.imgur.com/ORnutJ2.jpg</thumbnail>
 <fanart>https://i.imgur.com/ORnutJ2.jpg</fanart>
+<info>[COLOR lime][B]Volver al Menu Principal...[/B][/COLOR]</info>
 </item>
 
 
