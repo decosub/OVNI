@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR lime][B] Civicilizaciones Extraterrestre [/B][/COLOR]</title>
+<title>[COLOR lime][B] Contenido Extra: Civicilizaciones Extraterrestre [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=civilizaciones+extraterrestres&sp=CAISBBgCIAFCBAgBEgA%253D</jsonrpc>
 <thumbnail>https://i.imgur.com/lhIMM9W.jpg</thumbnail>
@@ -10,7 +10,7 @@
 
 https://www.youtube.com/results?search_query=civilizaciones+extraterrestres&sp=CAISBBgCIAFCBAgBEgA%253D
 <item>
-<title>[COLOR lime][B] Tipos de Naves Extraterrestres [/B][/COLOR]</title>
+<title>[COLOR lime][B] Contenido Extra: Tipos de Naves Extraterrestres [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=tipos+de+naves+espaciales+extraterrestre&sp=CAJCBAgBEgA%253D</jsonrpc>
 <thumbnail>https://i.imgur.com/evyTVNE.png</thumbnail>
@@ -18,7 +18,7 @@ https://www.youtube.com/results?search_query=civilizaciones+extraterrestres&sp=C
 </item>
 
 <item>
-<title>[COLOR lime][B] Posibles Planetas habitados[/B][/COLOR]</title>
+<title>[COLOR lime][B] Contenido Extra: Posibles Planetas habitados[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=posibles+planetas+alienigena&sp=CAJCBAgBEgA%253D</jsonrpc>
 <thumbnail>https://i.imgur.com/F7CjsgM.jpg</thumbnail>
@@ -26,7 +26,7 @@ https://www.youtube.com/results?search_query=civilizaciones+extraterrestres&sp=C
 </item>
 
 <item>
-<title>[COLOR lime][B] Las Mejoras Zonas de Avistamientos de O.V.N.I.S[/B][/COLOR]</title>
+<title>[COLOR lime][B] Contenido Extra: Las Mejoras Zonas de Avistamientos de O.V.N.I.S[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=las+mejores+zonas+para+avistamiento+de+ovnis&sp=CAJCBAgBEgA%253D</jsonrpc>
 <thumbnail>https://i.imgur.com/JQyXGP2.jpg</thumbnail>
@@ -34,7 +34,7 @@ https://www.youtube.com/results?search_query=civilizaciones+extraterrestres&sp=C
 </item>
 
 <item>
-<title>[COLOR lime][B] El Lenguaje de los Extraterrestres[/B][/COLOR]</title>
+<title>[COLOR lime][B] Contenido Extra: El Lenguaje de los Extraterrestres[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=el+lenguaje+de+los+extraterrestres&sp=EgQYAiABQgQIABIA</jsonrpc>
 <thumbnail>https://i.imgur.com/331PFZM.jpg</thumbnail>
@@ -43,7 +43,7 @@ https://www.youtube.com/results?search_query=civilizaciones+extraterrestres&sp=C
 
 
 <item>
-<title>[COLOR lime][B] Proyecto S.E.T.I[/B][/COLOR]</title>
+<title>[COLOR lime][B] Contenido Extra: Proyecto S.E.T.I[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=proyecto+seti&sp=EgQYAiABQgQIABIA</jsonrpc>
 <thumbnail>https://i.imgur.com/cMYzVG4.jpg</thumbnail>
@@ -51,7 +51,7 @@ https://www.youtube.com/results?search_query=civilizaciones+extraterrestres&sp=C
 </item>
 
 <item>
-<title>[COLOR lime][B] Tecnologia Extraterrestre[/B][/COLOR]</title>
+<title>[COLOR lime][B] Contenido Extra: Tecnologia Extraterrestre[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+ingenieria+alienigena+o+extraterrestre&sp=CAISAhgCQgQIABIA</jsonrpc>
 <thumbnail>https://i.imgur.com/vC8jyvX.jpg</thumbnail>
@@ -59,7 +59,7 @@ https://www.youtube.com/results?search_query=civilizaciones+extraterrestres&sp=C
 </item>
 
 <item>
-<title>[COLOR lime][B] Portales Dimensionales[/B][/COLOR]</title>
+<title>[COLOR lime][B] Contenido Extra: Portales Dimensionales[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+portales+dimensionales&sp=CAJCBAgBEgA%253D</jsonrpc>
 <thumbnail>https://i.imgur.com/oItiHci.jpg</thumbnail>
@@ -67,7 +67,7 @@ https://www.youtube.com/results?search_query=civilizaciones+extraterrestres&sp=C
 </item>
 
 <item>
-<title>[COLOR lime][B] Implantes Alienigenas[/B][/COLOR]</title>
+<title>[COLOR lime][B] Contenido Extra: Implantes Alienigenas[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=implantes+extraterrestres+en+humanos&sp=EgIYAkIECAESAA%253D%253D</jsonrpc>
 <thumbnail>https://i.imgur.com/SUYuHhA.jpg</thumbnail>
@@ -75,7 +75,7 @@ https://www.youtube.com/results?search_query=civilizaciones+extraterrestres&sp=C
 </item>
 
 <item>
-<title>[COLOR lime][B] Profecias Alienigenas[/B][/COLOR]</title>
+<title>[COLOR lime][B] Contenido Extra: Profecias Alienigenas[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=profecias+predicciones+alienigenas+extraterrestres&sp=EgIYAkIECAESAA%253D%253D</jsonrpc>
 <thumbnail>https://i.imgur.com/NRMirSi.jpg</thumbnail>
