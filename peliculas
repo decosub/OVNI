@@ -89,7 +89,7 @@ class InputWindow(xbmcgui.WindowDialog):
 
 
 <item>
-<title>[COLOR lime][B] Peliculas: Ciencia Ficcion[/B][/COLOR]</title>
+<title>[COLOR yellow][B] Peliculas: Ciencia Ficcion[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=peliculas+de+ciencia+ficcion+castellano&sp=CAISBBABGAJCBAgAEgA%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/I5lX0Kz.jpg</thumbnail>
