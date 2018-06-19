@@ -8,7 +8,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][B] Secrets of The Universe Live Stream Spark (Subtitulado) [/B][/COLOR]</title>
+<title>[COLOR lime][B] Canal ON-line: Secrets of The Universe Live Stream Spark (Subtitulado) [/B][/COLOR]</title>
 <urlsolve>https://www.youtube.com/watch?v=jyzIv_uLiXs</urlsolve>
 <thumbnail>https://i.imgur.com/xZKMxH6.jpg</thumbnail>
 <fanart>https://i.imgur.com/cMYzVG4.jpg</fanart>
@@ -16,7 +16,7 @@
 
 
 <item>
-<title>[COLOR lime][B] NASA TV Public-Education (Subtitulado)[/B][/COLOR]</title>
+<title>[COLOR lime][B] Canal On-line: NASA TV Public-Education (Subtitulado)[/B][/COLOR]</title>
 <urlsolve>https://www.youtube.com/watch?v=wwMDvPCGeE0</urlsolve>
 <thumbnail>https://i.imgur.com/XTmEuwI.jpg</thumbnail>
 <fanart>https://i.imgur.com/cMYzVG4.jpg</fanart>
@@ -24,14 +24,14 @@
 
 
 <item>
-<title>[COLOR lime][B] NASA TV Media (Subtitulado)[/B][/COLOR]</title>
+<title>[COLOR lime][B] Canal On-line: NASA TV Media (Subtitulado)[/B][/COLOR]</title>
 <urlsolve>https://www.youtube.com/watch?v=P11y8N22Rq0</urlsolve>
 <thumbnail>https://i.imgur.com/KbIBtOk.jpg</thumbnail>
 <fanart>https://i.imgur.com/cMYzVG4.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B] Earth from space : Time Lapse Collection - Images from astronauts on the ISS[/B][/COLOR]</title>
+<title>[COLOR lime][B] Canal On-line: Earth from space : Time Lapse Collection - Images from astronauts on the ISS[/B][/COLOR]</title>
 <urlsolve>https://www.youtube.com/watch?v=qyEzsAy4qeU</urlsolve>
 <thumbnail>https://i.imgur.com/c9jFzrS.jpg</thumbnail>
 <fanart>https://i.imgur.com/cMYzVG4.jpg</fanart>
@@ -50,7 +50,7 @@
 
 <item>
 
-<title>[COLOR lime][B] Mundo desconocidos [/B][/COLOR]</title>
+<title>[COLOR lime][B] Canal YouTube: Mundo desconocidos [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=mundos+desconocidos&sp=UUnOAynBmYKA1neozHQNF0mA&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
@@ -59,7 +59,7 @@
 
 <item>
 
-<title>[COLOR lime][B] Vicente fuentes[/B][/COLOR]</title>
+<title>[COLOR lime][B] Canal YouTube: Vicente fuentes[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=vicente+fuentes&sp=UUWI70VlhoBiCvhmDMQle9UAmA&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
@@ -67,7 +67,7 @@
 </item
 
 <item>
- <title>[COLOR lime][B] UFOvnis[/B][/COLOR]</title>
+ <title>[COLOR lime][B] Canal YouTube: UFOvnis[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=UFOvnis&sp=UUbWqoBboiayXdrAF07SJB7A&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
@@ -77,7 +77,7 @@
 
 <item>
 
-<title>[COLOR lime][B] Verdad Oculta [/B][/COLOR]</title>
+<title>[COLOR lime][B] Canal YouTube: Verdad Oculta [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Verdad+oculta&list=UUALE1jdtTAmgzyyH4FMU5pQ</jsonrpc>
 <thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
@@ -86,7 +86,7 @@
 
 <item>
   
-<title>[COLOR lime][B] Atraviesa lo Desconocido [/B][/COLOR]</title>
+<title>[COLOR lime][B] Canal YouTube: Atraviesa lo Desconocido [/B][/COLOR]</title>
 <link>ignore</link>https://www.youtube.com
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=atraviesa+lo+desconocido&list=UUnpy6aaJeb29DZJ8bsCgRiQ</jsonrpc>
 <thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
@@ -95,7 +95,7 @@
 
 <item>
  
-<title>[COLOR lime][B] JJ.Benitez[/B][/COLOR]</title>
+<title>[COLOR lime][B] Canal YouTube: JJ.Benitez[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=jj.benitez+ovnis+y+extraterrestres&sp=CAISBBgCIAFCBAgBEgA%253D</jsonrpc>
 <thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
@@ -105,7 +105,7 @@
 
 <item>
  
-<title>[COLOR lime][B] Eric Von Däniken [/B][/COLOR]</title>
+<title>[COLOR yellow][B] Canal YouTube:[/COLOR][/B][B][COLOR lime] Eric Von Däniken [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=eric+von+däniken+español</jsonrpc>
 <thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
