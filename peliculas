@@ -34,7 +34,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 import requests,xbmcgui,xbmc, re,time, xbmcaddon
 def GetLSProData(page_data,Cookie_Jar,m):
  
- text=takeInputFortext('[COLOR lime][B] O.V.N.I [/B][/COLOR] [COLOR white]Buscar Documental[/COLOR]')
+ text=takeInputFortext('[COLOR lime][B] O.V.N.I [/B][/COLOR] [COLOR white]Buscar Pelicula[/COLOR]')
  url = 'https://www.youtube.com/results?search_query=Pelicula' + text.replace(' ', '+')
  req = requests.get(url)
  list1 = re.findall('yt-lockup-c.+?a\shref=".watch.v=([^"]+)".+?\s\stitle="([^"]+)"\s', req.text)
@@ -89,52 +89,44 @@ class InputWindow(xbmcgui.WindowDialog):
 
 
 <item>
-<title>[COLOR lime][B] Peliculas Ciencia Ficcion</title>[/B] [/COLOR]</title>
+<title>[COLOR lime][B] Peliculas Ciencia Ficcion[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=peliculas+de+ciencia+ficcion+castellano&sp=CAISBBABGAJCBAgAEgA%253D&search_type=playlist</jsonrpc>
-<thumbnail>https://t2.kn3.net/taringa/C/F/F/5/C/D/bunnyontopofcake/7A6.jpg</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
-</item>
-
-
-<item>
-<title>[COLOR lime][B] La Guerra de las Galaxias</title>[/B] [/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=la+guerra+de+las+galaxias+castellano&sp=CAISAhgCQgQIABIA&search_type=playlist</jsonrpc>
-<thumbnail>https://t2.kn3.net/taringa/C/F/F/5/C/D/bunnyontopofcake/7A6.jpg</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+<thumbnail>https://i.imgur.com/14JWqjl.jpg</thumbnail>
+<fanart>https://i.imgur.com/14JWqjl.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B] Star Treck</title>[/B] [/COLOR]</title>
+<title>[COLOR lime][B] Star Wars[/B][/COLOR]</title>
+<link>nolink</link>
+<externallink>https://bit.ly/2yoEuzD</externallink>
+<thumbnail>https://i.imgur.com/H6hsLLT.jpg</thumbnail>
+<fanart>https://i.imgur.com/xFJbHfA.jpg</fanart>
+
+</item>
+
+<item>
+<title>[COLOR lime][B] Star Trek[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=star+trek+castellano&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
-<thumbnail>https://t2.kn3.net/taringa/C/F/F/5/C/D/bunnyontopofcake/7A6.jpg</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+<thumbnail>https://i.imgur.com/EcIkLFQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/EcIkLFQ.jpg</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B] Peliculas de Ivasiones Alienigenas</title>[/B] [/COLOR]</title>
+<title>[COLOR lime][B] Peliculas de Ivasiones Alienigenas [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=EgQQARgCQgQIARIA&sp=invasiones+alienigena+castellano&search_type=playlist</jsonrpc>
-<thumbnail>https://t2.kn3.net/taringa/C/F/F/5/C/D/bunnyontopofcake/7A6.jpg</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+<thumbnail>https://i.imgur.com/fltafvb.png</thumbnail>
+<fanart>https://i.imgur.com/fltafvb.png</fanart>
 </item>
 
 <item>
-<title>[COLOR lime][B] Peliculas de Ivasiones Alienigenas</title>[/B] [/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=invasiones+alienigena+castellano&sp=EgQQARgCQgQIARIA&search_type=playlist</jsonrpc>
-<thumbnail>https://t2.kn3.net/taringa/C/F/F/5/C/D/bunnyontopofcake/7A6.jpg</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B] Peliculas Del Espacio</title>[/B] [/COLOR]</title>
+<title>[COLOR lime][B] Peliculas Del Espacio [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=peliculas+del+espacio+castellano&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
-<thumbnail>https://t2.kn3.net/taringa/C/F/F/5/C/D/bunnyontopofcake/7A6.jpg</thumbnail>
-<fanart>http://1.bp.blogspot.com/-Y7IIGOMzpqY/UEEp-SKfs2I/AAAAAAAACkg/1lP8pmMMT2I/s1600/alejandria_biblioteca.jpg</fanart>
+<thumbnail>https://i.imgur.com/pjRqb6y.jpg</thumbnail>
+<fanart>https://i.imgur.com/pjRqb6y.jpg</fanart>
 </item>
 
 <item>
