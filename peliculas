@@ -94,6 +94,7 @@ class InputWindow(xbmcgui.WindowDialog):
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=peliculas+de+ciencia+ficcion+castellano&sp=CAISBBABGAJCBAgAEgA%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/I5lX0Kz.jpg</thumbnail>
 <fanart>https://i.imgur.com/14JWqjl.jpg</fanart>
+ <info>[COLOR lime][B]Peliculas extraidas de YouTube...No han sido subidas ni distribuidas por el Creador del Addon, Simplmente es una recopilacion de busqueda en dicho canal,[/B][/COLOR]</title></info>
 </item>
 
 
@@ -103,6 +104,7 @@ class InputWindow(xbmcgui.WindowDialog):
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=invasiones+alienigena+castellano&sp=EgQQARgCQgQIARIA</jsonrpc>
 <thumbnail>https://i.imgur.com/oPD2BM9.jpg</thumbnail>
 <fanart>https://i.imgur.com/fltafvb.png</fanart>
+ <info>[COLOR lime][B]Peliculas extraidas de YouTube...No han sido subidas ni distribuidas por el Creador del Addon, Simplmente es una recopilacion de busqueda en dicho canal,[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -111,6 +113,7 @@ class InputWindow(xbmcgui.WindowDialog):
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=peliculas+del+espacio+castellano&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/EBRY6Mi.jpg</thumbnail>
 <fanart>https://i.imgur.com/QMB7OQQ.jpg</fanart>
+ <info>[COLOR lime][B]Peliculas extraidas de YouTube...No han sido subidas ni distribuidas por el Creador del Addon, Simplmente es una recopilacion de busqueda en dicho canal,[/B][/COLOR]</title></info>
 </item>
 
 
@@ -120,4 +123,5 @@ class InputWindow(xbmcgui.WindowDialog):
 <externallink>https://bit.ly/2JP1rjR</externallink>
 <thumbnail>https://i.imgur.com/ORnutJ2.jpg</thumbnail>
 <fanart>https://i.imgur.com/ORnutJ2.jpg</fanart>
+<info>[COLOR lime][B]Volver al Menu Principal...[/B][/COLOR]</title></info>
 </item>
