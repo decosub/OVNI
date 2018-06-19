@@ -96,6 +96,23 @@ class InputWindow(xbmcgui.WindowDialog):
 <fanart>https://i.imgur.com/14JWqjl.jpg</fanart>
 </item>
 
+
+<item>
+<title>[COLOR lime][B] Peliculas de Ivasiones Alienigenas [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=invasiones+alienigena+castellano&sp=EgQQARgCQgQIARIA</jsonrpc>
+<thumbnail>https://i.imgur.com/oPD2BM9.jpg</thumbnail>
+<fanart>https://i.imgur.com/fltafvb.png</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B] Peliculas Del Espacio [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=peliculas+del+espacio+castellano&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/EBRY6Mi.jpg</thumbnail>
+<fanart>https://i.imgur.com/QMB7OQQ.jpg</fanart>
+</item>
+
 <item>
 <title>[COLOR lime][B] Star Wars[/B][/COLOR]</title>
 <link>nolink</link>
@@ -113,21 +130,6 @@ class InputWindow(xbmcgui.WindowDialog):
 <fanart>https://i.imgur.com/EcIkLFQ.jpg</fanart>
 </item>
 
-<item>
-<title>[COLOR lime][B] Peliculas de Ivasiones Alienigenas [/B][/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=EgQQARgCQgQIARIA&sp=invasiones+alienigena+castellano&search_type=playlist</jsonrpc>
-<thumbnail>https://i.imgur.com/oPD2BM9.jpg</thumbnail>
-<fanart>https://i.imgur.com/fltafvb.png</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B] Peliculas Del Espacio [/B][/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=peliculas+del+espacio+castellano&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
-<thumbnail>https://i.imgur.com/EBRY6Mi.jpg</thumbnail>
-<fanart>https://i.imgur.com/QMB7OQQ.jpg</fanart>
-</item>
 
 <item>
 <title>[COLOR yellow][B] Volver al Menu Principal...[/B][/COLOR]</title>
