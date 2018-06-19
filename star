@@ -1,6 +1,6 @@
 
 <item>
-<title>[COLOR lime][B] Peliculas Star Wars[/B][/COLOR]</title>
+<title>[COLOR yellow][B] Peliculas Star Wars[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=la+guerra+de+las+galaxias+castellano&sp=CAISAhgCQgQIABIA</jsonrpc>
 <thumbnail>https://i.imgur.com/H6hsLLT.jpg</thumbnail>
