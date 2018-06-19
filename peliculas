@@ -108,7 +108,7 @@ class InputWindow(xbmcgui.WindowDialog):
 <item>
 <title>[COLOR lime][B] Star Trek[/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=star+trek+castellano&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=star+trek+español&sp=EgIYAkIECAESAA%253D%253D</jsonrpc>
 <thumbnail>https://i.imgur.com/v8RODoh.jpg</thumbnail>
 <fanart>https://i.imgur.com/EcIkLFQ.jpg</fanart>
 </item>
