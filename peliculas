@@ -1,5 +1,5 @@
 <item>
-<title>[COLOR yellow][B] Buscador Peliculas[/B][/COLOR]</title>
+<title>[COLOR lime][B] Buscador Peliculas[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <thumbnail>https://i.imgur.com/m7tzbN1.png</thumbnail>
 <fanart>https://i.imgur.com/gylVcAH.jpg</fanart>
