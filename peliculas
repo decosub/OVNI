@@ -13,7 +13,7 @@
 
 <item><title>[COLOR lime][COLOR yellow][B] Peliculas:[/B][/COLOR][B] Invasiones Alienigenas [/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=invasiones+alienigena+castellano&sp=EgQQARgCQgQIARIA</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=peliculas+de+invasiones+a+la+tierra&sp=CAASBBABGAJCBAgBEgA%253D</jsonrpc>
 <thumbnail>https://i.imgur.com/oPD2BM9.jpg</thumbnail>
 <fanart>https://i.imgur.com/fltafvb.png</fanart>
  <info>[COLOR lime][B]Peliculas extraidas de YouTube...No han sido subidas ni distribuidas por el Creador del Addon, solo es una recopilacion de busqueda en dicho canal,[/B][/COLOR]</title></info>
