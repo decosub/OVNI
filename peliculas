@@ -1,4 +1,4 @@
-<item><title>[COLOR lime][COLOR yellow][B] O.V.N.I:[/B][/COLOR][B] Buscador de Peliculas[/B][/COLOR]</title>
+<item><title>[COLOR lime][COLOR yellow][B] Peliculas:[/B][/COLOR][B] Buscador de Peliculas[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <thumbnail>https://i.imgur.com/m7tzbN1.png</thumbnail>
 <fanart>https://i.imgur.com/gylVcAH.jpg</fanart>
@@ -87,8 +87,8 @@ class InputWindow(xbmcgui.WindowDialog):
 
 
 
-<item>
-[COLOR lime][COLOR yellow][B] Peliculas:[/B][/COLOR][B] Ciencia Ficcion [/B][/COLOR]</title>
+
+<item><title>[COLOR lime][COLOR yellow][B] Peliculas:[/B][/COLOR][B] Ciencia Ficcion [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=peliculas+de+ciencia+ficcion+castellano&sp=CAISBBABGAJCBAgAEgA%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/I5lX0Kz.jpg</thumbnail>
