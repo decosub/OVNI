@@ -91,20 +91,12 @@
 </item>
 
 <item>
-<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Quieres Aun Mas...?[/B][/COLOR]</title>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Area 51 [/B][/COLOR]</title>
 <link>ignore</link>
-<externallink>https://bit.ly/2tduyDP</externallink>
-<thumbnail>https://i.imgur.com/C5Ztvkb.jpg</thumbnail>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=area+51&sp=CAISBBgCIAFCBAgBEgA%253D</jsonrpc>
+<thumbnail>https://i.imgur.com/HEyd5MU.jpg</thumbnail>
 <fanart>https://i.imgur.com/zZ4oAhw.jpg</fanart>
-<info>[COLOR lime][B]Niños de las estrellas, con habilidades especiales, considerados fuera de norma y que han sido mal diagnosticados en la sociedad actual....[/B][/COLOR]</title></info>
-</item>
-
-<item>
-<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Area 51[/B][/COLOR]</title>
-<link>ignore</link>
-<thumbnail>https://i.imgur.com/NRMirSi.jpg</thumbnail>
-<fanart>https://i.imgur.com/zZ4oAhw.jpg</fanart>
-<info>[COLOR lime][B]El Área 51, también conocida como Groom Lake o Homey Airport es un destacamento remoto de la Base de la Fuerza Aérea de Nellis...[/B][/COLOR]</title></info>
+<info>[COLOR lime][B]El Área 51, también conocida como Groom Lake o Homey Airport es un destacamento remoto de la Base de la Fuerza Aérea de Nellis.[/B][/COLOR]</title></info>
 </item>
 
 
