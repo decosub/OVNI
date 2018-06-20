@@ -91,6 +91,15 @@
 </item>
 
 <item>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Niños de las Estrellas[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Niños+alienigenas+extraterrestres&sp=EgIYAkIECAESAA%253D%253D</jsonrpc>
+<thumbnail>https://i.imgur.com/C5Ztvkb.jpg</thumbnail>
+<fanart>https://i.imgur.com/zZ4oAhw.jpg</fanart>
+<info>[COLOR lime][B]Que nos depara el futuro? Cuales son las previsiones para los proximos tiempos?...[/B][/COLOR]</title></info>
+</item>
+
+<item>
 <title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Area 51[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=area+51+español&sp=EgIYAkIECAESAA%253D%253D</jsonrpc>
