@@ -1,5 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
 <item>
-<title>[COLOR yellow][B] Buscador[/B][/COLOR]</title>
+<title>[COLOR lime][COLOR yellow][B] Documentales:[/B][/COLOR][B] Conferencias Ufologia[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=conferencias++ufologia%2Bextraterrestre%2Bovnis&sp=EgIYAkIECAESAA%253D%253D</jsonrpc>
+<thumbnail>https://i.imgur.com/OKemd9Z.jpg</thumbnail>
+<fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
+ <info>[COLOR lime][B]Charlas o Conferencias basadas en la ufologia, para mentes inquietas...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+ 
+<title>[COLOR lime][COLOR yellow][B] Documentales:[/B][/COLOR][B] Abducciones[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=abducciones+extraterrestres&sp=UUnOAynBmYKA1neozHQNF0mA&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/5JtXDw6.jpg</thumbnail>
+<fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
+ <info>[COLOR lime][B]En el campo de la ufología y en el de la ciencia ficción se llama abducción al acto en el cual uno o más seres extraterrestres toman a un ser vivo terrestre contra su voluntad, lo secuestran y lo llevan a algún sitio determinado, generalmente a su propia nave espacial....[/B][/COLOR]</title></info>
+</item
+
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Documentales:[/B][/COLOR][B] Ovnis y Ufología Documentales [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+de+ovnis&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/4DhqdV7.jpg</thumbnail>
+<fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
+ <info>[COLOR lime][B]Documentales Ovnis y Ufologia de calidad para mentes inquietas...[/B][/COLOR]</title></info>
+</item>
+
+
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Documentales:[/B][/COLOR][B] Alienigenas Ancestrales[/B][/COLOR]</title>
+ <link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+de+alienigenas+ancestrales&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/7QeOatM.jpg</thumbnail>
+<fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
+ <info>[COLOR lime][B]Los investigadores recorren el mundo en busca de evidencias para determinar si la vida en la Tierra comenzó en el espacio y si los alienígenas influenciaron a la raza humana en tiempos antiguos....[/B][/COLOR]</title></info>
+</item>
+
+<item>
+
+<title>[COLOR lime][COLOR yellow][B] Documentales:[/B][/COLOR][B] Alienigenas Caso Abierto [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=buscando+Documentales+alienigenas+caso+abierto&list=PLmQ8A_lK0Lz_qqbIyCBpNQTvCa8phE5h6&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/sNcQmev.jpg</thumbnail>
+<fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
+ <info>[COLOR lime][B]Alienígenas: caso abierto - La Ley de la Libertad de la Información de Estados Unidos de 2011 ha permitido que salgan a la luz numerosos expedientes sobre ...[/B][/COLOR]</title></info>
+</item
+
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Documentales:[/B][/COLOR][B] Creacionismo Alienígena[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Creacionismo%20Alien%c3%adgena&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/LFIzY7S.jpg</thumbnail>
+<fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
+ <info>[COLOR lime][B]El creacionismo alienígena es la postura pseudohistórica y pseudocientífica que defiende la intervención de una o varias civilizaciones extraterrestres en el ...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Documentales:[/B][/COLOR][B] Misterios Alienigenas[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Cazadores+Misterios+Alienigenas+CANAL+HISTORIA&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/KKLDfok.jpg</thumbnail>
+<fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
+ <info>[COLOR lime][B]Cazadores de misterios: Alienígenas. No estamos solos. Un misterioso correo electrónico nos llevará a la que podría ser una enorme base submarina de ovnis ......[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Documentales:[/B][/COLOR][B] Cuarto Milenio y Milenio 3[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=cuarto+milenio+ovni+extraterrestre&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/nRJhriB.jpg</thumbnail>
+<fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
+ <info>[COLOR lime][B]Descubre con Iker Jiménez todos los misterios de la arqueología, la investigación criminal y la ciencia de la mano de los mejores catedráticos, criminalistas, ......[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Documentales:[/B][/COLOR][B] Expedientes X[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Documentales%20Expwediente%20x&search_type=playlist</jsonrpc>
+<thumbnail>https://i0.wp.com/www.dogmacero.org/wp-content/uploads/xfiles3.jpg?fit=500%2C500</thumbnail>
+<fanart>https://i.imgur.com/zZ4oAhw.jpg</fanart>
+ <info>[COLOR lime][B]La NASA publicó una oferta de empleo: “Planetary Protection Officer” (PPO), una persona encargada de eliminar de la Tierra cualquier tipo de contaminación extraterrestre y de lo contrario, evitar la contaminación terrestre en el resto del universo....[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Documentales:[/B][/COLOR][B] Expedientes X (Rusos)[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=expedientes+x+rusos&sp=CAISBhABGAIgAUIECAESAA%253D%253D</jsonrpc>
+<thumbnail>https://i.imgur.com/wIbi9Y1.png</thumbnail>
+<fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
+ <info>[COLOR lime][B]La vieja Unión Soviética era una tierra llena de secretos. Ahora que ha caído el Telón de Acero podemos investigar esos rumores. Con testimonios e impactantes reconstrucciones dramatizadas daremos vida a estas historias extraordinarias.[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Documentales:[/B][/COLOR][B] Iluminatis [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=iluminatis+alienigenas&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/rPerFCl.jpg</thumbnail>
+<fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
+ <info>[COLOR lime][B]La Orden de los Iluminados (Illuminatenorden en el original alemán, compuesto derivado del latín illuminati, ‘iluminados’, y orden) es el nombre dado a varios grupos. ...[/B][/COLOR]</title></info>
+</item>
+
+
+
+<item>
+   <title>[COLOR lime][COLOR yellow][B] Documentales:[/B][/COLOR][B] Conoce el Universo (Documentales Sobre el Universo) [/B][/COLOR]</title>
+<link>nolink</link>
+<externallink>https://bit.ly/2HHLdDX</externallink>
+<thumbnail>https://i.imgur.com/LFBUjsJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
+ <info>[COLOR lime][B]El universo es la totalidad del espacio y del tiempo, de todas las formas de la materia, la energía, el impulso, las leyes y constantes físicas que las gobierna...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Documentales:[/B][/COLOR][B] Buscador de Documentales [/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <thumbnail>https://i.imgur.com/m7tzbN1.png</thumbnail>
 <fanart>https://i.imgur.com/gylVcAH.jpg</fanart>
@@ -7,7 +125,7 @@
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
-<title>[COLOR lime] O.V.N.I: [/COLOR][COLOR yellow][makelist.param2][/COLOR]</title>
+<title>[COLOR lime] Documentales: [/COLOR][COLOR yellow][makelist.param2][/COLOR]</title>
 <link>$doregex[resolve]</link>
 <thumbnail>https://i.imgur.com/m7tzbN1.png</thumbnail>
 <fanart>https://i.imgur.com/gylVcAH.jpg</fanart>
@@ -34,7 +152,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 import requests,xbmcgui,xbmc, re,time, xbmcaddon
 def GetLSProData(page_data,Cookie_Jar,m):
  
- text=takeInputFortext('[COLOR lime][B] O.V.N.I [/B][/COLOR] [COLOR white]Buscar Documental[/COLOR]')
+ text=takeInputFortext('[COLOR yellow][B] Documentales: [/B][/COLOR] [COLOR lime]Buscar Documental[/COLOR]')
  url = 'https://www.youtube.com/results?search_query=Documental' + text.replace(' ', '+')
  req = requests.get(url)
  list1 = re.findall('yt-lockup-c.+?a\shref=".watch.v=([^"]+)".+?\s\stitle="([^"]+)"\s', req.text)
@@ -87,112 +205,6 @@ class InputWindow(xbmcgui.WindowDialog):
 </item>
 
 
-
-
-<item>
-
-<title>[COLOR lime][B] Documentales: Conferencias Ufologia[/B][/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=conferencias++ufologia%2Bextraterrestre%2Bovnis&sp=EgIYAkIECAESAA%253D%253D</jsonrpc>
-<thumbnail>https://i.imgur.com/OKemd9Z.jpg</thumbnail>
-<fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
-</item>
-
-<item>
- 
-<title>[COLOR lime][B] Documentales: Abducciones[/B][/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=abducciones+extraterrestres&sp=UUnOAynBmYKA1neozHQNF0mA&search_type=playlist</jsonrpc>
-<thumbnail>https://i.imgur.com/5JtXDw6.jpg</thumbnail>
-<fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
-</item
-
-
-<item>
-<title>[COLOR lime][B] Documentales:  Ovnis y Ufología Documentales [/B][/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+de+ovnis&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
-<thumbnail>https://i.imgur.com/4DhqdV7.jpg</thumbnail>
-<fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
-</item>
-
-
-
-<item>
-<title>[COLOR lime][B] Documentales:  Alienigenas Ancestrales[/B][/COLOR]</title>
- <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+de+alienigenas+ancestrales&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
-<thumbnail>https://i.imgur.com/7QeOatM.jpg</thumbnail>
-<fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
-</item>
-
-<item>
-
-<title>[COLOR lime][B] Documentales:  Alienigenas Caso Abierto [/B][/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=buscando+Documentales+alienigenas+caso+abierto&list=PLmQ8A_lK0Lz_qqbIyCBpNQTvCa8phE5h6&search_type=playlist</jsonrpc>
-<thumbnail>https://i.imgur.com/sNcQmev.jpg</thumbnail>
-<fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
-</item
-
-
-<item>
-<title>[COLOR lime][B] Documentales:  Creacionismo Alienígena[/B][/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Creacionismo%20Alien%c3%adgena&search_type=playlist</jsonrpc>
-<thumbnail>https://i.imgur.com/LFIzY7S.jpg</thumbnail>
-<fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
-
-
-<item>
-<title>[COLOR lime][B] Documentales:  Misterios Alienigenas[/B][/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Cazadores+Misterios+Alienigenas+CANAL+HISTORIA&search_type=playlist</jsonrpc>
-<thumbnail>https://i.imgur.com/KKLDfok.jpg</thumbnail>
-<fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B] Documentales:  Cuarto Milenio y Milenio 3[/B][/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=cuarto+milenio+ovni+extraterrestre&search_type=playlist</jsonrpc>
-<thumbnail>https://i.imgur.com/nRJhriB.jpg</thumbnail>
-<fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B] Documentales:  Expedientes X[/B][/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Documentales%20Expwediente%20x&search_type=playlist</jsonrpc>
-<thumbnail>https://i0.wp.com/www.dogmacero.org/wp-content/uploads/xfiles3.jpg?fit=500%2C500</thumbnail>
-<fanart>https://i.imgur.com/zZ4oAhw.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B] Documentales:  Expedientes X (Rusos)[/B][/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=expedientes+x+rusos&sp=CAISBhABGAIgAUIECAESAA%253D%253D</jsonrpc>
-<thumbnail>https://i.imgur.com/wIbi9Y1.png</thumbnail>
-<fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
-</item>
-
-<item>
-<title>[COLOR lime][B] Documentales:  Iluminatis [/B][/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=iluminatis+alienigenas&search_type=playlist</jsonrpc>
-<thumbnail>https://i.imgur.com/rPerFCl.jpg</thumbnail>
-<fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
-</item>
-
-
-
-<item>
-    <title>[COLOR lime][B] Documentales:  Conoce el Universo (Documentales Sobre el Universo) [/B][/COLOR]</title>
-<link>nolink</link>
-<externallink>https://bit.ly/2HHLdDX</externallink>
-<thumbnail>https://i.imgur.com/LFBUjsJ.jpg</thumbnail>
-<fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
-</item>
  
 <item>
 <title>[COLOR yellow][B] Volver al Menu Principal...[/B][/COLOR]</title>
