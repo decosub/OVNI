@@ -22,7 +22,7 @@
 <urlsolve>https://www.youtube.com/watch?v=wwMDvPCGeE0</urlsolve>
 <thumbnail>https://i.imgur.com/XTmEuwI.jpg</thumbnail>
 <fanart>https://i.imgur.com/cMYzVG4.jpg</fanart>
- <info>[COLOR yellow][B]canal de youtube en streaming (Subtitulado)[/B][/COLOR]</title></info>
+ <info>[COLOR lime][B]canal de youtube en streaming (Subtitulado)[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -30,7 +30,7 @@
 <urlsolve>https://www.youtube.com/watch?v=P11y8N22Rq0</urlsolve>
 <thumbnail>https://i.imgur.com/KbIBtOk.jpg</thumbnail>
 <fanart>https://i.imgur.com/cMYzVG4.jpg</fanart>
- <info>[COLOR yellow][B]canal de youtube en streaming (Subtitulado)[/B][/COLOR]</title></info>
+ <info>[COLOR lime][B]canal de youtube en streaming (Subtitulado)[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -38,7 +38,7 @@
 <urlsolve>https://www.youtube.com/watch?v=qyEzsAy4qeU</urlsolve>
 <thumbnail>https://i.imgur.com/c9jFzrS.jpg</thumbnail>
 <fanart>https://i.imgur.com/cMYzVG4.jpg</fanart>
- <info>[COLOR yellow][B]canal de youtube en streaming (Imagenes de los astronautas, Time Lapse Collection...[/B][/COLOR]</title></info>
+ <info>[COLOR lime][B]canal de youtube en streaming (Imagenes de los astronautas, Time Lapse Collection...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -46,7 +46,7 @@
 <link>nolink</link>
 <thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
 <fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
- <info>[COLOR yellow][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+ <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -55,7 +55,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=mundos+desconocidos&sp=UUnOAynBmYKA1neozHQNF0mA&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
 <fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
- <info>[COLOR yellow][B]Canales Especializados de YouTube[/B][/COLOR]</title></info>
+ <info>[COLOR lime][B]Canales Especializados de YouTube[/B][/COLOR]</title></info>
 </item
 
 <item>
@@ -64,7 +64,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=vicente+fuentes&sp=UUWI70VlhoBiCvhmDMQle9UAmA&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
 <fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
- <info>[COLOR yellow][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+ <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item
 
 <item>
@@ -73,7 +73,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=UFOvnis&sp=UUbWqoBboiayXdrAF07SJB7A&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
 <fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
- <info>[COLOR yellow][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+ <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item
 
 <item>
@@ -82,7 +82,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Verdad+oculta&list=UUALE1jdtTAmgzyyH4FMU5pQ</jsonrpc>
 <thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
 <fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
- <info>[COLOR yellow][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+ <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item
 
 <item>
@@ -91,7 +91,7 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=atraviesa+lo+desconocido&list=UUnpy6aaJeb29DZJ8bsCgRiQ</jsonrpc>
 <thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
 <fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
- <info>[COLOR yellow][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+ <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item
 
 <item>
@@ -100,16 +100,16 @@
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=jj.benitez+ovnis+y+extraterrestres&sp=CAISBBgCIAFCBAgBEgA%253D</jsonrpc>
 <thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
 <fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
- <info>[COLOR yellow][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+ <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
 <item>
-<title>[COLOR lime][COLOR yellow][B] Canal YouTube:[/B][/COLOR][B] Eric Von Däniken [/B][/COLOR]</title>
+<title>[COLOR lime][COLOR yellow][B] Canal YouTube:[/B][/COLOR][B] Erick Von Däniken[/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=eric+von+däniken+español</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=eric+von+däniken&sp=EgIYAkIECAESAA%253D%253D</jsonrpc>
 <thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
 <fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
- <info>[COLOR yellow][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+ <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
 
 <item>
