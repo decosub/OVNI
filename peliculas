@@ -28,13 +28,6 @@
 </item>
 
 
-<item><title>[COLOR yellow][B] Volver al Menu Principal...[/B][/COLOR]</title>
-<link>ignore</link>
-<externallink>https://bit.ly/2JP1rjR</externallink>
-<thumbnail>https://i.imgur.com/ORnutJ2.jpg</thumbnail>
-<fanart>https://i.imgur.com/ORnutJ2.jpg</fanart>
-<info>[COLOR lime][B]Volver al Menu Principal...[/B][/COLOR]</title></info>
-</item>
 
 <item><title>[COLOR lime][COLOR yellow][B] Peliculas:[/B][/COLOR][B] Buscador de Peliculas[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
@@ -121,4 +114,13 @@ class InputWindow(xbmcgui.WindowDialog):
 ]]></expres>
 <page></page>
 </regex>
+</item>
+
+
+<item><title>[COLOR yellow][B] Volver al Menu Principal...[/B][/COLOR]</title>
+<link>ignore</link>
+<externallink>https://bit.ly/2JP1rjR</externallink>
+<thumbnail>https://i.imgur.com/ORnutJ2.jpg</thumbnail>
+<fanart>https://i.imgur.com/ORnutJ2.jpg</fanart>
+<info>[COLOR lime][B]Volver al Menu Principal...[/B][/COLOR]</title></info>
 </item>
