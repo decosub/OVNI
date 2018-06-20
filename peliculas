@@ -1,4 +1,4 @@
-<item>[COLOR lime][COLOR yellow][B] O.V.N.I:[/B][/COLOR][B] Buscador de Peliculas[/B][/COLOR]
+<item>[COLOR lime][COLOR yellow][B] O.V.N.I:[/B][/COLOR][B] Buscador de Peliculas[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <thumbnail>https://i.imgur.com/m7tzbN1.png</thumbnail>
 <fanart>https://i.imgur.com/gylVcAH.jpg</fanart>
@@ -88,7 +88,7 @@ class InputWindow(xbmcgui.WindowDialog):
 
 
 <item>
-[COLOR lime][COLOR yellow][B] Peliculas:[/B][/COLOR][B] Ciencia Ficcion [/B][/COLOR]
+[COLOR lime][COLOR yellow][B] Peliculas:[/B][/COLOR][B] Ciencia Ficcion [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=peliculas+de+ciencia+ficcion+castellano&sp=CAISBBABGAJCBAgAEgA%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/I5lX0Kz.jpg</thumbnail>
@@ -98,7 +98,7 @@ class InputWindow(xbmcgui.WindowDialog):
 
 
 <item>
-[COLOR lime][COLOR yellow][B] Peliculas:[/B][/COLOR][B] Invasiones Alienigenas [/B][/COLOR]
+[COLOR lime][COLOR yellow][B] Peliculas:[/B][/COLOR][B] Invasiones Alienigenas [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=invasiones+alienigena+castellano&sp=EgQQARgCQgQIARIA</jsonrpc>
 <thumbnail>https://i.imgur.com/oPD2BM9.jpg</thumbnail>
@@ -107,7 +107,7 @@ class InputWindow(xbmcgui.WindowDialog):
 </item>
 
 <item>
-[COLOR lime][COLOR yellow][B] Peliculas:[/B][/COLOR][B] Tematicas del Espacios [/B][/COLOR]
+[COLOR lime][COLOR yellow][B] Peliculas:[/B][/COLOR][B] Tematicas del Espacios [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=peliculas+del+espacio+castellano&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/EBRY6Mi.jpg</thumbnail>
