@@ -20,7 +20,7 @@ u<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 </item>
 
 <item>
-<title>[COLOR lime][COLOR yellow] O.V.N.I:[/COLOR] Canales En Directo y Off-line [/COLOR]</title>
+<title>[COLOR lime][COLOR yellow][B] O.V.N.I:[/B][/COLOR][B] Canales En Directo y Off-line [/B][/COLOR]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2MmFZAZ</externallink>
   <fanart>https://i.imgur.com/JBctCu1.jpg</fanart> 
@@ -30,7 +30,7 @@ u<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
 
-<title>[COLOR lime][COLOR yellow] O.V.N.I:[/COLOR] Razas Alienigenas [/COLOR]</title>
+<title>[COLOR lime][COLOR yellow][B] O.V.N.I:[/B][/COLOR][B] Razas Alienigenas [/B][/COLOR]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2JP3TH6</externallink>
   <fanart>https://i.imgur.com/GQ8QGGb.jpg</fanart> 
@@ -39,7 +39,7 @@ u<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 </item>
 
 <item>
-<title>[COLOR lime][COLOR yellow] O.V.N.I:[/COLOR] Contenido Extra... [/COLOR]</title>
+<title>[COLOR lime][COLOR yellow][B] O.V.N.I:[/B][/COLOR][B] Contenido Extra... [/B][/COLOR]</title>
 <link>ignore</link>
 <externallink>https://bit.ly/2JRxJKQ</externallink>
   <fanart>https://i.imgur.com/1USBajz.jpg</fanart> 
@@ -48,7 +48,7 @@ u<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 </item>
 
 <item>
-<title>[COLOR lime][COLOR yellow] O.V.N.I:[/COLOR] Ultimas Noticas sobre Alienigenas [/COLOR]</title>
+<title>[COLOR lime][COLOR yellow][B] O.V.N.I:[/B][/COLOR][B] Ultimas Noticas sobre Alienigenas [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ultimas+noticias+sobre+ovnis+y+extraterrestres&sp=CAJCBAgBEgA%253D</jsonrpc>
 <thumbnail>https://i.imgur.com/YkHKWrT.jpg</thumbnail>
