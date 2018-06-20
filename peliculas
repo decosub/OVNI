@@ -1,4 +1,4 @@
-<item>[COLOR lime][COLOR yellow][B] O.V.N.I:[/B][/COLOR][B] Buscador de Peliculas[/B][/COLOR]</title>
+<item><title>[COLOR lime][COLOR yellow][B] O.V.N.I:[/B][/COLOR][B] Buscador de Peliculas[/B][/COLOR]</title>
 <link>$doregex[makelist]</link>
 <thumbnail>https://i.imgur.com/m7tzbN1.png</thumbnail>
 <fanart>https://i.imgur.com/gylVcAH.jpg</fanart>
@@ -97,8 +97,7 @@ class InputWindow(xbmcgui.WindowDialog):
 </item>
 
 
-<item>
-[COLOR lime][COLOR yellow][B] Peliculas:[/B][/COLOR][B] Invasiones Alienigenas [/B][/COLOR]</title>
+<item><title>[COLOR lime][COLOR yellow][B] Peliculas:[/B][/COLOR][B] Invasiones Alienigenas [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=invasiones+alienigena+castellano&sp=EgQQARgCQgQIARIA</jsonrpc>
 <thumbnail>https://i.imgur.com/oPD2BM9.jpg</thumbnail>
@@ -106,8 +105,7 @@ class InputWindow(xbmcgui.WindowDialog):
  <info>[COLOR lime][B]Peliculas extraidas de YouTube...No han sido subidas ni distribuidas por el Creador del Addon, solo es una recopilacion de busqueda en dicho canal,[/B][/COLOR]</title></info>
 </item>
 
-<item>
-[COLOR lime][COLOR yellow][B] Peliculas:[/B][/COLOR][B] Tematicas del Espacios [/B][/COLOR]</title>
+<item><title>[COLOR lime][COLOR yellow][B] Peliculas:[/B][/COLOR][B] Tematicas del Espacios [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=peliculas+del+espacio+castellano&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/EBRY6Mi.jpg</thumbnail>
@@ -116,8 +114,7 @@ class InputWindow(xbmcgui.WindowDialog):
 </item>
 
 
-<item>
-<title>[COLOR yellow][B] Volver al Menu Principal...[/B][/COLOR]</title>
+<item><title>[COLOR yellow][B] Volver al Menu Principal...[/B][/COLOR]</title>
 <link>ignore</link>
 <externallink>https://bit.ly/2JP1rjR</externallink>
 <thumbnail>https://i.imgur.com/ORnutJ2.jpg</thumbnail>
