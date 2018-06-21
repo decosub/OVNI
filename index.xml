@@ -112,5 +112,13 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 
+<item>
+<title>[COLOR yellow][B] Instalar Imput Stream Helper (Complemento necesario)  [/B][/COLOR]</title>
+<link>action="RunPlugin(plugin://plugin.video.youtube/maintain/inputstreamhelper/install/)"</link>
+<jsonrpc>plugin://plugin.video.youtube/maintain/inputstreamhelper/install/</jsonrpc>
+<thumbnail>https://i.imgur.com/bKWN6Vc.jpg</thumbnail>
+   <fanart>https://i.imgur.com/crjtqJr.jpg</fanart> 
+  <info>[COLOR lime][B]Complemento necesario para poder abrir ventanas emergentes con los dialogos y leer las direfentes secciones...[/B][/COLOR]</title></info>
+</item>
 
 
