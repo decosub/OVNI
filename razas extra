@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <item>
-<title>[COLOR white][COLOR yellow][B] (*)[/B][/COLOR][B]: Indican Nuevo Contenido Disponible [/B][/COLOR]</title>
+<title>[COLOR yellou][COLOR white][B] (*)[/B][/COLOR][B]: Indican Nuevo Contenido Disponible [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=civilizaciones+extraterrestres&sp=CAISBBgCIAFCBAgBEgA%253D</jsonrpc>
 <thumbnail>https://i.imgur.com/lhIMM9W.jpg</thumbnail>
