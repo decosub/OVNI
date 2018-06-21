@@ -25,3 +25,11 @@
    <fanart>https://i.imgur.com/crjtqJr.jpg</fanart> 
   <info>[COLOR white][B]Ultimas Noticias: Que esta pasando? En este preciso instante en algun lugar de nuestro planeta seguro hay alguna noticia nueva de nuestro interes. A que esperas para estar al dia.[/B][/COLOR]</title></info>
 </item>
+
+<item>
+<title>[COLOR yellow][B] Instalador Imput Stream Helper (Complemento necesario)  [/B][/COLOR]</title>
+<link>action="RunPlugin(plugin://plugin.video.youtube/maintain/inputstreamhelper/install/)"</link>
+<thumbnail>https://i.imgur.com/H6hsLLT.jpg</thumbnail>
+   <fanart>https://i.imgur.com/IweM51g.jpg</fanart> 
+  <info>[COLOR lime][B]Intalador de Imput Stream Helper necesario para poder abrir las ventanas emergentes con dialogos..[/B][/COLOR]</title></info>
+</item>
