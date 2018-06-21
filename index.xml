@@ -122,7 +122,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
-<title>[COLOR yellow][COLOR white][B] (*)[/B][/COLOR][B]: Indican Nuevo Contenido Disponible [/B][/COLOR]</title>
+<title>[COLOR white][COLOR yellow][B] Indican Nuevo Contenido Disponible [/B][/COLOR][B](*)[/B][/COLOR]</title>
 <link>ignore</link>
 <thumbnail>https://i.imgur.com/IweM51g.jpg</thumbnail>
 <fanart>https://i.imgur.com/IweM51g.jpg</fanart>
