@@ -1,13 +1,13 @@
 
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
 <item>
-
-<title>[COLOR yellow][B] Canales en directo necesario tener URLResolver...[/B] [/COLOR]</title>
-<link>Nolink</link>
-<thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
-<fanart>https://i.imgur.com/cMYzVG4.jpg</fanart>
+<title>[COLOR white][COLOR yellow][B] Indican Nuevo Contenido Disponible [/B][/COLOR][B](*)[/B][/COLOR]</title>
+<link>ignore</link>
+<thumbnail>https://i.imgur.com/IweM51g.jpg</thumbnail>
+<fanart>https://i.imgur.com/IweM51g.jpg</fanart>
+<info>[COLOR lime][B] Los (*) Blancos, indican nuevo contenido disponible o actualizacion de la seccion. [/B][/COLOR]</title></info>
 </item>
+
 
 <item>
 <title>[COLOR lime][COLOR yellow][B] Canal On-line:[/B][/COLOR][B] Secrets of The Universe Live Stream Spark (Subtitulado) [/B][/COLOR]</title>
