@@ -1,4 +1,12 @@
 <item>
+<title>[COLOR white][COLOR yellow][B] Indican Nuevo Contenido Disponible [/B][/COLOR][B](*)[/B][/COLOR]</title>
+<link>ignore</link>
+<thumbnail>https://i.imgur.com/IweM51g.jpg</thumbnail>
+<fanart>https://i.imgur.com/IweM51g.jpg</fanart>
+<info>[COLOR lime][B] Los (*) Blancos, indican nuevo contenido disponible o actualizacion de la seccion. [/B][/COLOR]</title></info>
+</item>
+
+<item>
 <title>[COLOR lime][B] Universo: El Universo [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+de+UNIVERSO&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
