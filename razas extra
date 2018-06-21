@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
+
 <item>
 <title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Civicilizaciones Alienigenas [/B][/COLOR]</title>
 <link>ignore</link>
@@ -100,7 +101,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Ovnis en el Mar [/B][/COLOR]</title>
+<title>[COLOR lime][COLOR yellow][COLOR white][B] Contenido Extra:[/B][/COLOR][B] Ovnis en el Mar[/B][/COLOR][B]  *[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=osnis+objetos+submarinos+no+identificados&sp=EgIYAkIECAESAA%253D%253D</jsonrpc>
 <thumbnail>https://i.imgur.com/HEyd5MU.jpg</thumbnail>
