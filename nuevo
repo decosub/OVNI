@@ -1,9 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
 <item>
-<title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Teorias [/B][/COLOR]</title>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Civicilizaciones Alienigenas [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=civilizaciones+extraterrestres&sp=CAISBBgCIAFCBAgBEgA%253D</jsonrpc>
+<thumbnail>https://i.imgur.com/lhIMM9W.jpg</thumbnail>
+<fanart>https://i.imgur.com/IweM51g.jpg</fanart>
+<info>[COLOR lime][B]Habitaron antes nuestro Planeta?...Las civilizaciones pasadas fueron influenciadas por Alienigenas?[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Civicilizaciones Alienigenas [/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
-   <fanart>https://i.imgur.com/crjtqJr.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/VgIfHJk.jpg</thumbnail>
+   <fanart>https://i.imgur.com/IweM51g.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/lhIMM9W.jpg<</thumbnail>
  <info>[COLOR white][B]Canales On-line y Canales Youtuber de difusion y actualizados a diario...[/B][/COLOR]</title></info>
 </item>
 
@@ -27,9 +38,10 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B] Instalador Imput Stream Helper (Complemento necesario)  [/B][/COLOR]</title>
+<title>[COLOR blue][COLOR white][B] Tesla:[/B][/COLOR][B] Instalar Imput Stream Helper (Complemento necesario)  [/B][/COLOR]</title>
 <link>action="RunPlugin(plugin://plugin.video.youtube/maintain/inputstreamhelper/install/)"</link>
-<thumbnail>https://i.imgur.com/H6hsLLT.jpg</thumbnail>
-   <fanart>https://i.imgur.com/IweM51g.jpg</fanart> 
-  <info>[COLOR lime][B]Intalador de Imput Stream Helper necesario para poder abrir las ventanas emergentes con dialogos..[/B][/COLOR]</title></info>
+<jsonrpc>plugin://plugin.video.youtube/maintain/inputstreamhelper/install/</jsonrpc>
+<thumbnail>https://i.imgur.com/bKWN6Vc.jpg</thumbnail>
+   <fanart>https://i.imgur.com/crjtqJr.jpg</fanart> 
+  <info>[COLOR white][B][/B][/COLOR]</title></info>
 </item>
