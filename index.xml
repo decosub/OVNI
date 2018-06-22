@@ -59,7 +59,7 @@
 
 
 <item>
-<title>[COLOR yellow][B] Si Tienes Problema Leeme... [/B][/COLOR]</title>
+<title>[COLOR yellow][B] Si Tienes Problemas Leeme... [/B][/COLOR]</title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
