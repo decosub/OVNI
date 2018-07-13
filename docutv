@@ -53,9 +53,9 @@
 <title>[COLOR lime][COLOR yellow][B] Documentales:[/B][/COLOR][B] Conspiraciones Alienigenas[/B][/COLOR][B](*)[/B][/COLOR]</title>
  <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=conspiraciones+alienigenas+español&search_type=playlist</jsonrpc>
-<thumbnail>https://i.imgur.com/7QeOatM.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/T4cZSZ4.jpg</thumbnail>
 <fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
- <info>[COLOR lime][B]Los investigadores recorren el mundo en busca de evidencias para determinar si la vida en la Tierra comenzó en el espacio y si los alienígenas influenciaron a la raza humana en tiempos antiguos....[/B][/COLOR]</title></info>
+ <info>[COLOR lime][B]Que nos estan ocultando?....[/B][/COLOR]</title></info>
 </item>
 
 <item>
@@ -76,6 +76,15 @@
 <thumbnail>https://i.imgur.com/LFIzY7S.jpg</thumbnail>
 <fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
  <info>[COLOR lime][B]El creacionismo alienígena es la postura pseudohistórica y pseudocientífica que defiende la intervención de una o varias civilizaciones extraterrestres en el ...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Documentales:[/B][/COLOR][B] Llamaradas solares [/B][/COLOR][B](*)[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=llamarada+solares+documental&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/Vmv40qx.jpg</thumbnail>
+<fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
+ <info>[COLOR lime][B]Llamaradas Solares, los mejores documentales del genero. ...[/B][/COLOR]</title></info>
 </item>
 
 <item>
