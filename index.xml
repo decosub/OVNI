@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR yellow][B] Novedades de Addon.. [/B][/COLOR]</title>
+<title>[COLOR lime][B] Novedades de Addon...**** [/B][/COLOR]</title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
