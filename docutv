@@ -18,6 +18,21 @@
  <info>[COLOR lime][B]Charlas o Conferencias basadas en la ufologia, para mentes inquietas...[/B][/COLOR]</title></info>
 </item>
 
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Documentales:[/B][/COLOR][B] Conspiraciones Alienigenas[/B][/COLOR][COLOR][B]*[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=consipraciones+alienigenas+español+documental&sp=EgIYAkIECAESAA%253D%253D</jsonrpc>
+<thumbnail>https://i.imgur.com/1GPA49Q.jpg</thumbnail>
+<fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
+<info>[COLOR lime][B]Que nos estan Ocultando ???...[/B][/COLOR]</title></info>
+</item>
+
+
+
+
+
+
 <item>
  
 <title>[COLOR lime][COLOR yellow][B] Documentales:[/B][/COLOR][B] Abducciones[/B][/COLOR]</title>
@@ -49,17 +64,9 @@
  <info>[COLOR lime][B]Los investigadores recorren el mundo en busca de evidencias para determinar si la vida en la Tierra comenzó en el espacio y si los alienígenas influenciaron a la raza humana en tiempos antiguos....[/B][/COLOR]</title></info>
 </item>
 
-<item>
-<title>[COLOR lime][COLOR yellow][B] Documentales:[/B][/COLOR][B] Conspiraciones Alienigenas [/B][/COLOR][COLOR][B](*)[/B][/COLOR]</title>
- <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=conspiraciones+alienigenas+español&search_type=playlist</jsonrpc>
-<thumbnail>https://i.imgur.com/1GPA49Q.jpg</thumbnail>
-<fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
- <info>[COLOR lime][B]Que nos estan ocultando?....[/B][/COLOR]</title></info>
-</item>
+
 
 <item>
-
 <title>[COLOR lime][COLOR yellow][B] Documentales:[/B][/COLOR][B] Alienigenas Caso Abierto [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=buscando+Documentales+alienigenas+caso+abierto&list=PLmQ8A_lK0Lz_qqbIyCBpNQTvCa8phE5h6&search_type=playlist</jsonrpc>
