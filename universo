@@ -1,5 +1,13 @@
 <item>
-<title>[COLOR lime][COLOR yellow][B] Documentales:[/B][/COLOR][B] Llamaradas solares  [/B][/COLOR][COLOR][B](*)[/B][/COLOR]</title>
+<title>[COLOR white][COLOR yellow][B] Indican Nuevo Contenido Disponible [/B][/COLOR][B](*)[/B][/COLOR]</title>
+<link>ignore</link>
+<thumbnail>https://i.imgur.com/IweM51g.jpg</thumbnail>
+<fanart>https://i.imgur.com/IweM51g.jpg</fanart>
+<info>[COLOR lime][B] Los (*) Blancos, indican nuevo contenido disponible o actualizacion de la seccion. [/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][B] Universo: Llamaradas solares  [/B][/COLOR][COLOR][B](*)[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=llamarada+solares+documental&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/Vmv40qx.jpg</thumbnail>
@@ -7,13 +15,6 @@
  <info>[COLOR lime][B]Llamaradas Solares, los mejores documentales del genero. ...[/B][/COLOR]</title></info>
 </item>
 
-<item>
-<title>[COLOR white][COLOR yellow][B] Indican Nuevo Contenido Disponible [/B][/COLOR][B](*)[/B][/COLOR]</title>
-<link>ignore</link>
-<thumbnail>https://i.imgur.com/IweM51g.jpg</thumbnail>
-<fanart>https://i.imgur.com/IweM51g.jpg</fanart>
-<info>[COLOR lime][B] Los (*) Blancos, indican nuevo contenido disponible o actualizacion de la seccion. [/B][/COLOR]</title></info>
-</item>
 
 <item>
 <title>[COLOR lime][B] Universo: El Universo [/B][/COLOR]</title>
