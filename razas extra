@@ -26,6 +26,16 @@
 <info>[COLOR lime][B]Tecnologia Alienigena, sus naves, sus inventos...[/B][/COLOR]</title></info>
 </item>
 
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Conspiraciones Alienigenas [/B][/COLOR][COLOR][B](*)[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=conspiraciones+alienigenas+español&sp=CAJCBAgBEgA%253D</jsonrpc>
+<thumbnail>https://i.imgur.com/evyTVNE.png</thumbnail>
+<fanart>https://i.imgur.com/zZ4oAhw.jpg</fanart>
+<info>[COLOR lime][B]Tecnologia Alienigena, sus naves, sus inventos...[/B][/COLOR]</title></info>
+</item>
+
 <item>
 <title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Posibles Planetas habitados[/B][/COLOR]</title>
 <link>ignore</link>
