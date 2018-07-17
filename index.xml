@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR lime][B] Novedades de Addon...**** [/B][/COLOR]</title>
+<title>[COLOR lime][B] Novedades de Addon... 17/07 [/B][/COLOR]</title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
@@ -15,7 +15,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
     line2 = "Añadido en contenido:(Universo: Llamaradas solares)"
 
-    line3 = "....proximamente mas contenido"
+    line3 = "Añadido en canales: Planeta Snakedos"
     xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
     return "https://bit.ly/2JP1rjR"
 ]]></expres>
