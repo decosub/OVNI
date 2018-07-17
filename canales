@@ -1,14 +1,3 @@
-
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<item>
-<title>[COLOR white][COLOR yellow][B] Indican Nuevo Contenido Disponible [/B][/COLOR][B](*)[/B][/COLOR]</title>
-<link>ignore</link>
-<thumbnail>https://i.imgur.com/IweM51g.jpg</thumbnail>
-<fanart>https://i.imgur.com/IweM51g.jpg</fanart>
-<info>[COLOR lime][B] Los (*) Blancos, indican nuevo contenido disponible o actualizacion de la seccion. [/B][/COLOR]</title></info>
-</item>
-
-
 <item>
 <title>[COLOR lime][COLOR yellow][B] Canal On-line:[/B][/COLOR][B] Secrets of The Universe Live Stream Spark (Subtitulado) [/B][/COLOR]</title>
 <urlsolve>https://www.youtube.com/watch?v=jyzIv_uLiXs</urlsolve>
@@ -47,6 +36,25 @@
 <thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
 <fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
  <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item>
+
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Canal YouTube:[/B][/COLOR][B] Planeta Snakedos (RECOMENDADBLE) [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/aUNIWH-5pGc/playlist/PLVKGvkI_Wh3CZRwADI-1LQBIbQrbjDUNi/</jsonrpc>
+<thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
+<fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
+ <info>[COLOR lime][B]Canales Especializados de YouTube[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Canal YouTube:[/B][/COLOR][B] Mundo desconocidos [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=mundos+desconocidos&sp=UUnOAynBmYKA1neozHQNF0mA&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
+<fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
+ <info>[COLOR lime][B]Canales Especializados de YouTube[/B][/COLOR]</title></info>
 </item>
 
 <item>
