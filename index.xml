@@ -125,13 +125,6 @@ def GetLSProData(page_data,Cookie_Jar,m):
   <info>[COLOR lime][B]Complemento necesario para poder abrir ventanas emergentes con los dialogos y leer las direfentes secciones...[/B][/COLOR]</title></info>
 </item>
 
-<item>
-<title>[COLOR white][COLOR yellow][B] Indican Nuevo Contenido Disponible [/B][/COLOR][B](*)[/B][/COLOR]</title>
-<link>ignore</link>
-<thumbnail>https://i.imgur.com/IweM51g.jpg</thumbnail>
-<fanart>https://i.imgur.com/IweM51g.jpg</fanart>
-<info>[COLOR lime][B] Los (*) Blancos, indican nuevo contenido disponible o actualizacion de la seccion. [/B][/COLOR]</title></info>
-</item>
 
 <item>
 <title>[COLOR yellow][B] Agradecimientos [/B][/COLOR]</title>
