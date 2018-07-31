@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR lime][B] Novedades de Addon... 31/07 [/B][/COLOR]</title>
+<title>[COLOR lime][B] Novedades de Addon...Actualizacion: 31/07/2018 [/B][/COLOR]</title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
@@ -15,7 +15,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
     line2 = "Añadido: Contenido Extra ( Circulos de cosechas )"
 
-    line3 = "Añadido: Contenido Extra ( Orbis )"
+    line3 = "Añadido: Contenido Extra ( Orbs )"
     xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
     return "https://bit.ly/2JP1rjR"
 ]]></expres>
