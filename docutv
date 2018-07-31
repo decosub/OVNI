@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR white][COLOR yellow][B] Indican Nuevo Contenido Disponible [/B][/COLOR][B](*)[/B][/COLOR]</title>
+<title>[COLOR lime][B] Conferencias:[/B][/COLOR]</title>
 <link>ignore</link>
-<thumbnail>https://i.imgur.com/IweM51g.jpg</thumbnail>
-<fanart>https://i.imgur.com/IweM51g.jpg</fanart>
-<info>[COLOR lime][B] Los (*) Blancos, indican nuevo contenido disponible o actualizacion de la seccion. [/B][/COLOR]</title></info>
+<externallink></externallink>
+<thumbnail>https://i.imgur.com/OKemd9Z.jpg</thumbnail>
+<fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
+ <info>[COLOR lime][B]Charlas o Conferencias basadas en la ufologia, para mentes inquietas...[/B][/COLOR]</title></info>
 </item>
 
+<item>
+<title>[COLOR lime][COLOR yellow][B] Conferencias:[/B][/COLOR][B] Audiencia Ciudadana de Divulgacion Ovni[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=audiencia+ciudadana+de+divulgacion+ovni&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/OKemd9Z.jpg</thumbnail>
+<fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
+ <info>[COLOR lime][B]Charlas o Conferencias basadas en la ufologia, para mentes inquietas...[/B][/COLOR]</title></info>
+</item>
 
 <item>
-<title>[COLOR lime][COLOR yellow][B] Documentales:[/B][/COLOR][B] Conferencias Ufologia[/B][/COLOR]</title>
+<title>[COLOR lime][COLOR yellow][B] Conferencias:[/B][/COLOR][B] Conferencias Ufologia[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=conferencias++ufologia%2Bextraterrestre%2Bovnis&sp=EgIYAkIECAESAA%253D%253D</jsonrpc>
 <thumbnail>https://i.imgur.com/OKemd9Z.jpg</thumbnail>
@@ -18,6 +27,15 @@
  <info>[COLOR lime][B]Charlas o Conferencias basadas en la ufologia, para mentes inquietas...[/B][/COLOR]</title></info>
 </item>
 
+
+<item>
+<title>[COLOR lime][B] Documentales:[/B][/COLOR]</title>
+<link>ignore</link>
+<externallink></externallink>
+<thumbnail>https://i.imgur.com/OKemd9Z.jpg</thumbnail>
+<fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
+ <info>[COLOR lime][B]Charlas o Conferencias basadas en la ufologia, para mentes inquietas...[/B][/COLOR]</title></info>
+</item>
 
 <item>
 <title>[COLOR lime][COLOR yellow][B] Documentales:[/B][/COLOR][B] Conspiraciones Alienigenas[/B][/COLOR][COLOR][B]*[/B][/COLOR]</title>
