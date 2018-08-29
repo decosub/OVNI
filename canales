@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
 <item>
 <title>[COLOR lime][COLOR yellow][B] Canal On-line:[/B][/COLOR][B] Secrets of The Universe Live Stream Spark (Subtitulado) [/B][/COLOR]</title>
 <urlsolve>https://www.youtube.com/watch?v=jyzIv_uLiXs</urlsolve>
@@ -65,7 +67,7 @@
 <thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
 <fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
  <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
-</item
+</item>
 
 <item>
 <title>[COLOR lime][COLOR yellow][B] Canal YouTube:[/B][/COLOR][B] UFOvnis[/B][/COLOR]</title>
@@ -74,7 +76,7 @@
 <thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
 <fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
  <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
-</item
+</item>
 
 <item>
 <title>[COLOR lime][COLOR yellow][B] Canal YouTube:[/B][/COLOR][B] Verdad Oculta [/B][/COLOR]</title>
@@ -83,7 +85,7 @@
 <thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
 <fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
  <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
-</item
+</item>
 
 <item>
 <title>[COLOR lime][COLOR yellow][B] Canal YouTube:[/B][/COLOR][B] Atraviesa lo Desconocido [/B][/COLOR]</title>
@@ -92,7 +94,44 @@
 <thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
 <fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
  <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
-</item
+</item>
+
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Canal YouTube:[/B][/COLOR][B] La granja Humana [/B][/COLOR]</title>
+<link>ignore</link>https://www.youtube.com
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=la+granja+humana&list=UUnpy6aaJeb29DZJ8bsCgRiQ</jsonrpc>
+<thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
+<fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
+ <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item>
+<item>
+<title>[COLOR lime][COLOR yellow][B] Canal YouTube:[/B][/COLOR][B] VM Gran Misterio [/B][/COLOR]</title>
+<link>ignore</link>https://www.youtube.com
+<jsonrpc>plugin://plugin.video.youtube/channel/J6ysldgQCfQ/playlist/UUcbUuPjp7J32YSIESrUe76A/</jsonrpc>
+<thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
+<fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
+ <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Canal YouTube:[/B][/COLOR][B] Jaconor 73 [/B][/COLOR]</title>
+<link>ignore</link>https://www.youtube.com
+<jsonrpc>plugin://plugin.video.youtube/channel/3hAU3OlZn8A/playlist/UUM0AdqMFG8_TSL7MJy--RCA/</jsonrpc>
+<thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
+<fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
+ <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Canal YouTube:[/B][/COLOR][B] La caja de Pandora [/B][/COLOR]</title>
+<link>ignore</link>https://www.youtube.com
+<jsonrpc>plugin://plugin.video.youtube/channel/d8jBEYeluoY/playlist/UUXV8HmDQt2akopxAQQt3oeg/</jsonrpc>
+<thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
+<fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
+ <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item>
+
 
 <item>
 <title>[COLOR lime][COLOR yellow][B] Canal YouTube:[/B][/COLOR][B] JJ.Benitez[/B][/COLOR]</title>
@@ -106,7 +145,7 @@
 <item>
 <title>[COLOR lime][COLOR yellow][B] Canal YouTube:[/B][/COLOR][B] Erick Von Däniken[/B][/COLOR]</title>
 <link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=eric+von+däniken&sp=EgIYAkIECAESAA%253D%253D</jsonrpc>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=eric+von+daniken&sp=EgIYAkIECAESAA%253D%253D</jsonrpc>
 <thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
 <fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
  <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
