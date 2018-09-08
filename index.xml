@@ -85,6 +85,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
   <info>[COLOR lime][B]Ultimas Noticias: Que esta pasando? En este preciso instante en algun lugar de nuestro planeta seguro hay alguna noticia nueva de nuestro interes. A que esperas para estar al dia.[/B][/COLOR]</title></info>
 </item>
 
+<item>
+<title>[COLOR lime][COLOR yellow][B] O.V.N.I:[/B][/COLOR][B] Audio Libros [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=audiolibro+ovnis+alienigenas+ectraterrestres&sp=CAJCBAgBEgA%253D</jsonrpc>
+<thumbnail>https://i.imgur.com/YkHKWrT.jpg</thumbnail>
+  <fanart>https://i.imgur.com/CGA9dL7.jpg</fanart> 
+  <info>[COLOR lime][B]Ultimas Noticias: Que esta pasando? En este preciso instante en algun lugar de nuestro planeta seguro hay alguna noticia nueva de nuestro interes. A que esperas para estar al dia.[/B][/COLOR]</title></info>
+</item>
 
 
 <item>
