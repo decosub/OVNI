@@ -11,7 +11,7 @@ import xbmcgui
 def GetLSProData(page_data,Cookie_Jar,m):
     __addon__ = xbmcaddon.Addon()
     __addonname__ = __addon__.getAddonInfo('name')     
-    line1 = "Añadido: Seccion addons del mismo creador en el menu principal.. "
+    line1 = "Añadido: Addons del mismo creador en el menu principal.. "
 
     line2 = "Añadido: Añadida nueva pagina en Contenido Extra"
 
