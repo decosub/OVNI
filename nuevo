@@ -27,6 +27,17 @@
   <thumbnail>https://i.imgur.com/oSt2iRH.jpg</thumbnail>
  <info>[COLOR white][B]Canales On-line y Canales Youtuber de difusion y actualizados a diario...[/B][/COLOR]</title></info>
 </item>
+
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Los Archivos Secretos del Vaticano[/B][/COLOR]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+los+archivos+secretos+del+vaticano&search_type=playlist</jsonrpc>
+  <fanart>https://i.imgur.com/zZ4oAhw.jpg</fanart>
+  <thumbnail>https://i.imgur.com/pH1NPvS.jpg</thumbnail>
+ <info>[COLOR white][B]Canales On-line y Canales Youtuber de difusion y actualizados a diario...[/B][/COLOR]</title></info>
+</item>
+
 <item>
 <title>[COLOR yellow][B] Volver al Menu Principal...[/B][/COLOR]</title>
 <link>ignore</link>
