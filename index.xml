@@ -77,6 +77,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
 </item>
 
 <item>
+<title>[COLOR white][COLOR lime][COLOR yellow][B] O.V.N.I:[/B][/COLOR][B] Todavia mas Contenido Extra...!!![/B][/COLOR][B]  [/B][/COLOR]</title>
+<link>ignore</link>
+<externallink>https://bit.ly/2C67c9Y</externallink>
+<thumbnail>https://i.imgur.com/KKLDfok.jpg</thumbnail>
+<fanart>https://i.imgur.com/zZ4oAhw.jpg</fanart>
+<info>[COLOR lime][B]Volver al Menu Principal...[/B][/COLOR]</title></info>
+</item>
+<item>
 <title>[COLOR lime][COLOR yellow][B] O.V.N.I:[/B][/COLOR][B] Ultimas Noticias..!!! [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ultimas+noticias+sobre+ovnis+y+extraterrestres&sp=CAJCBAgBEgA%253D</jsonrpc>
