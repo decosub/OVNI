@@ -102,6 +102,14 @@ def GetLSProData(page_data,Cookie_Jar,m):
   <info>[COLOR lime][B]Seccion de Audiolibros sobre la misma Tematica.. recomendable, ideal escucharlos con cascos auriculares para una mejor experiencia[/B][/COLOR]</title></info>
 </item>
 
+<item>
+<title>[COLOR lime][B] Otros Addons del mismo creador[/B][/COLOR][B][COLOR yellow][B]...[/B][/COLOR]</title>
+<link>nolink</link>
+<externallink>https://bit.ly/2MEVc4a</externallink>
+  <fanart>https://i.imgur.com/JBctCu1.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/x3DhbGo.jpg</thumbnail>
+ <info>[COLOR lime][B]Otros Addons de Contenido Tematico del Mismo Creador.[/B][/COLOR]</title></info>
+</item>
 
 <item>
 <title>[COLOR yellow][B] Si Tienes Problemas Leeme... [/B][/COLOR]</title>
@@ -197,11 +205,4 @@ def GetLSProData(page_data,Cookie_Jar,m):
 <info>[COLOR lime][B]Contacto con el Creador del addon.[/B][/COLOR]</info>
 </item>
 
-<item>
-<title>[COLOR lime][B] Otros Addons del mismo creador[/B][/COLOR][B][COLOR yellow][B]...[/B][/COLOR]</title>
-<link>nolink</link>
-<externallink>https://bit.ly/2MEVc4a</externallink>
-  <fanart>https://i.imgur.com/JBctCu1.jpg</fanart> 
-  <thumbnail>https://i.imgur.com/x3DhbGo.jpg</thumbnail>
- <info>[COLOR lime][B]Otros Addons de Contenido Tematico del Mismo Creador.[/B][/COLOR]</title></info>
-</item>
+
