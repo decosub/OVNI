@@ -1,7 +1,7 @@
 0?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
-<title>[COLOR lime][B] Novedades de Addon...Actualizacion:[/B][/COLOR][B][COLOR white][B] 10/09/2018 [/B][/COLOR]</title>
+<title>[COLOR lime][B] Novedades de Addon...Actualizacion:[/B][/COLOR][B][COLOR white][B] 16/09/2018 [/B][/COLOR]</title>
 <link>$doregex[openDialog]</link>
 <regex>
 <name>openDialog</name>
@@ -15,7 +15,7 @@ def GetLSProData(page_data,Cookie_Jar,m):
 
     line2 = "Añadido: todavia mas Contenido / Los Secretos del Vaticano"
 
-    line3 = "Añadido: todavia mas Contenido / Objetos Fuera de Tiempo"
+    line3 = "Añadido: todavia mas Contenido / Reliquias Alienigenas"
     xbmcgui.Dialog().ok(__addonname__, line1, line2, line3)
     return "https://bit.ly/2JP1rjR"
 ]]></expres>
