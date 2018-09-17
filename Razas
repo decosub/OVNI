@@ -1,14 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <item>
-<title>[COLOR yellow][COLOR white][B] (*)[/B][/COLOR][B]: Indican Nuevo Contenido Disponible [/B][/COLOR]</title>
-<link>ignore</link>
-<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=civilizaciones+extraterrestres&sp=CAISBBgCIAFCBAgBEgA%253D</jsonrpc>
-<thumbnail>https://i.imgur.com/lhIMM9W.jpg</thumbnail>
-<fanart>https://i.imgur.com/zZ4oAhw.jpg</fanart>
-<info>[COLOR lime][B] Los (*) Blancos, indican nuevo contenido disponible o actualizacion de la seccion. [/B][/COLOR]</title></info>
-</item>
-
-<item>
 <title>[COLOR lime][B] Razas: Anunnaki (Nibiru) [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=anunnakis+nibiru&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
