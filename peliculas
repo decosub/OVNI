@@ -1,5 +1,14 @@
 
 <item>
+<title>[COLOR lime][B] Peliculas: [/B][/COLOR]</title>
+<link>ignore</link>
+<externallink></externallink>
+ <thumbnail>https://i.imgur.com/xFJbHfA.jpg</thumbnail>
+<fanart>https://i.imgur.com/14JWqjl.jpg</fanart>
+ <info>[COLOR lime][B]Peliculas extraidas de YouTube...No han sido subidas ni distribuidas por el Creador del Addon, solo es una recopilacion de busqueda en dicho canal,[/B][/COLOR]</title></info>
+</item>
+
+<item>
 <title>[COLOR lime][COLOR yellow][B] Peliculas:[/B][/COLOR][B] Ciencia Ficcion [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=peliculas+de+ciencia+ficcion+castellano&sp=CAISBBABGAJCBAgAEgA%253D&search_type=playlist</jsonrpc>
