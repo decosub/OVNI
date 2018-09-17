@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <item>
-<title>[COLOR lime][B] Razas: Anunnaki (Nibiru) [/B][/COLOR]</title>
+
+
+<title>[COLOR lime][B] Razas [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=anunnakis+nibiru&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/bZtfhfK.jpg</thumbnail>
+<fanart>https://i.imgur.com/IweM51g.jpg</fanart>
+ <info>[COLOR lime][B]Los Anunnaki (antigua transcripción acadia por el sumerio Anunna) son un grupo de deidades sumerias y acadias que son identificados en los textos como los Anunna y con los Igigi, los dioses menores.[/B][/COLOR]</title></info>
+</item>
+
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Razas: Anunnaki (Nibiru) [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=anunnakis+nibiru&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/bZtfhfK.jpg</thumbnail>
@@ -9,7 +21,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][B] Razas: Reptilianos[/B][/COLOR]</title>
+<title>[COLOR lime][COLOR yellow][B] Razas:[/B][/COLOR][B] Reptilianos[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=reptilianos+extraterrestres&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/FKQPD1G.jpg</thumbnail>
@@ -19,17 +31,16 @@
 
 
 <item>
-<title>[COLOR lime][B] Razas: Grises Altos o Blancos (Orión)[/B][/COLOR]</title>
+<title>[COLOR lime][COLOR yellow][B] Razas:[/B][/COLOR][B] Grises Altos o Blancos (Orión)[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=grises+extraterrestres&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/FQdaQOF.jpg</thumbnail>
 <fanart>https://i.imgur.com/IweM51g.jpg</fanart>
 <info>[COLOR lime][B]¿Quiénes son los seres con cabezas grandes y ojos gigantes que parecen haber estado visitando nuestro planeta durante miles de años? Conocido por los investigadores como los "grises", estos seres misteriosos han sido representados en el arte rupestre ¿Quiénes son, de qué planeta vienen.[/B][/COLOR]</title></info>
-<item>
 </item>
 
-
-<title>[COLOR lime][B] Razas: Sirianos (Sirio B)[/B][/COLOR]</title>
+<item>
+<title>[COLOR lime][COLOR yellow][B] Razas:[/B][/COLOR][B] Sirianos (Sirio B)[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Sirianos+extraterrestres&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/QWruxD8.jpg</thumbnail>
@@ -39,7 +50,7 @@
 
 
 <item>
-<title>[COLOR lime][B] Razas: Pleyadianos (Las Pléyades)[/B][/COLOR]</title>
+<title>[COLOR lime][COLOR yellow][B] Razas:[/B][/COLOR][B] Pleyadianos (Las Pléyades)[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Pleyadianos&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/UlFBhmQ.jpg</thumbnail>
@@ -49,7 +60,7 @@
 
 
 <item>
-<title>[COLOR lime][B] Razas: Andromedanos[/B][/COLOR]</title>
+<title>[COLOR lime][COLOR yellow][B] Razas:[/B][/COLOR][B] Andromedanos[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Andromedanos&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/UxdZx02.jpg</thumbnail>
@@ -60,7 +71,7 @@
 
 
 <item>
-<title>[COLOR lime][B] Razas: Veganos (Lyra)[/B][/COLOR]</title>
+<title>[COLOR lime][COLOR yellow][B] Razas:[/B][/COLOR][B] Veganos (Lyra)[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=veganos+ovnis+extraterrestres&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/Nj8k5tz.jpg</thumbnail>
@@ -71,7 +82,7 @@
 
 
 <item>
-<title>[COLOR lime][B] Razas: Telosianos [/B][/COLOR]</title>
+<title>[COLOR lime][COLOR yellow][B] Razas:[/B][/COLOR][B] Telosianos [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Telosianos&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/Tkiuv7y.jpg</thumbnail>
@@ -80,7 +91,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][B] Razas: Todas las Razas [/B][/COLOR]</title>
+<title>[COLOR lime][COLOR yellow][B] Razas:[/B][/COLOR][B] Todas las Razas [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=todas+las+razas+de+extraterrestre&sp=CAISBBABGAJCBAgAEgA%253D</jsonrpc>
 <thumbnail>https://i.imgur.com/1OuWaT3.jpg</thumbnail>
@@ -92,7 +103,7 @@
 <title>[COLOR yellow][B] Volver al Menu Principal...[/B][/COLOR]</title>
 <link>ignore</link>
 <externallink>https://bit.ly/2JP1rjR</externallink>
-<thumbnail>https://i.imgur.com/ORnutJ2.jpg</thumbnail>
+<thumbnail>https://i.imgur.com/l9JLN8E.jpg</thumbnail>
 <fanart>https://i.imgur.com/ORnutJ2.jpg</fanart>
 <info>[COLOR lime][B]Volver al Menu Principal...[/B][/COLOR]</info>
 </item>
