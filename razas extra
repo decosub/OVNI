@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>[COLOR lime][B] Contenido Extra...[/B][/COLOR][B]  [/B][/COLOR]</title>
+<link>ignore</link>
+<externallink>https://bit.ly/2JRxJKQ</externallink>
+  <fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/vC8jyvX.jpg</thumbnail> 
+ <info>[COLOR lime][B]Seccion con mucho mas contenido perfectamente ordenado que seguro encuentras interesante...[/B][/COLOR]</title></info>
+</item>
+
+<item>
 <title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Civicilizaciones Alienigenas [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=civilizaciones+extraterrestres&sp=CAISBBgCIAFCBAgBEgA%253D</jsonrpc>
@@ -157,9 +166,9 @@
 <item>
 <title>[COLOR yellow][B] Volver al Menu Principal...[/B][/COLOR]</title></info>
 <link>ignore</link>
-<externallink>https://bit.ly/2JP1rjR</externallink>
-<thumbnail>https://i.imgur.com/ORnutJ2.jpg</thumbnail>
-<fanart>https://i.imgur.com/ORnutJ2.jpg</fanart>
+<externallink>https://bit.ly/2NUoXy4</externallink>
+<thumbnail>https://i.imgur.com/l9JLN8E.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart>
 <info>[COLOR lime][B]Volver al Menu Principal...[/B][/COLOR]</title></info>
 </item>
 
