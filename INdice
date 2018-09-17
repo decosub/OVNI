@@ -1,0 +1,856 @@
+<item>
+<title>[COLOR lime][B] Indice de Contenidos:[/B][/COLOR][B] Actualizado 17/09/2018[/B][/COLOR]</title>
+<link>nolink</link>
+<externallink>https://bit.ly/2LHZAuA</externallink>
+  <fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/l9JLN8E.jpg</thumbnail>
+ <info>[COLOR lime][B]Importante Entrar para estas al dia de los nuevos contenidos y cambios del Addon...[/B][/COLOR]</title></info>
+</item>
+
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] O.V.N.I:[/B][/COLOR][B] Peliculas[/B][/COLOR]</title>
+<link>nolink</link>
+<externallink>https://bit.ly/2HJQomJ</externallink>
+  <fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/xFJbHfA.jpg</thumbnail>
+ <info>[COLOR lime][B]Peliculas extraidas de YouTube...No han sido subidas ni distribuidas por el Creador del Addon, solo es una recopilacion de busqueda en dicho canal,[/B][/COLOR]</title></info>
+</item>
+<item>
+<title>[COLOR lime][COLOR yellow][B] Peliculas:[/B][/COLOR][B] Ciencia Ficcion [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=peliculas+de+ciencia+ficcion+castellano&sp=CAISBBABGAJCBAgAEgA%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/I5lX0Kz.jpg</thumbnail>
+  <fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+ <info>[COLOR lime][B]Peliculas extraidas de YouTube...No han sido subidas ni distribuidas por el Creador del Addon, solo es una recopilacion de busqueda en dicho canal,[/B][/COLOR]</title></info>
+</item>
+
+
+<item><title>[COLOR lime][COLOR yellow][B] Peliculas:[/B][/COLOR][B] Invasiones Alienigenas [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=peliculas+de+invasiones+a+la+tierra&sp=CAASBBABGAJCBAgBEgA%253D</jsonrpc>
+<thumbnail>https://i.imgur.com/oPD2BM9.jpg</thumbnail>
+  <fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+ <info>[COLOR lime][B]Peliculas extraidas de YouTube...No han sido subidas ni distribuidas por el Creador del Addon, solo es una recopilacion de busqueda en dicho canal,[/B][/COLOR]</title></info>
+</item>
+
+<item><title>[COLOR lime][COLOR yellow][B] Peliculas:[/B][/COLOR][B] Tematicas del Espacios [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=peliculas+del+espacio+castellano&sp=EgIYAkIECAESAA%253D%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/EBRY6Mi.jpg</thumbnail>
+  <fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+ <info>[COLOR lime][B]Peliculas extraidas de YouTube...No han sido subidas ni distribuidas por el Creador del Addon, solo es una recopilacion de busqueda en dicho canal,[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] O.V.N.I:[/B][/COLOR][B] Documentales y Conferencias [/B][/COLOR]</title>
+<link>nolink</link>
+<externallink>https://bit.ly/2LHZAuA</externallink>
+  <fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/l69DnyO.jpg</thumbnail>
+ <info>[COLOR lime][B]Documentales de calidad ordenados por contenido para mentes inquietas...[/B][/COLOR]</title></info>
+</item>
+
+  
+
+<item>
+<title>[COLOR lime][B] Conferencias:[/B][/COLOR]</title>
+<link>ignore</link>
+<externallink></externallink>
+<thumbnail>https://i.imgur.com/OKemd9Z.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+ <info>[COLOR lime][B]Charlas o Conferencias basadas en la ufologia, para mentes inquietas...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Conferencias:[/B][/COLOR][B] Audiencia Ciudadana de Divulgacion Ovni[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=audiencia+ciudadana+de+divulgacion+ovni&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/OKemd9Z.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+ <info>[COLOR lime][B]Charlas o Conferencias basadas en la ufologia, para mentes inquietas...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Conferencias:[/B][/COLOR][B] Conferencias Ufologia[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=conferencias++ufologia%2Bextraterrestre%2Bovnis&sp=EgIYAkIECAESAA%253D%253D</jsonrpc>
+<thumbnail>https://i.imgur.com/OKemd9Z.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+ <info>[COLOR lime][B]Charlas o Conferencias basadas en la ufologia, para mentes inquietas...[/B][/COLOR]</title></info>
+</item>
+
+
+<item>
+<title>[COLOR lime][B] Documentales:[/B][/COLOR]</title>
+<link>ignore</link>
+<externallink></externallink>
+<thumbnail>https://i.imgur.com/OKemd9Z.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+ <info>[COLOR lime][B]Charlas o Conferencias basadas en la ufologia, para mentes inquietas...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Documentales:[/B][/COLOR][B] Conspiraciones Alienigenas[/B][/COLOR][COLOR][B]*[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=consipraciones+alienigenas+español+documental&sp=EgIYAkIECAESAA%253D%253D</jsonrpc>
+<thumbnail>https://i.imgur.com/1GPA49Q.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+<info>[COLOR lime][B]Que nos estan Ocultando ???...[/B][/COLOR]</title></info>
+</item>
+
+
+
+
+
+
+<item>
+ 
+<title>[COLOR lime][COLOR yellow][B] Documentales:[/B][/COLOR][B] Abducciones[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=abducciones+extraterrestres&sp=UUnOAynBmYKA1neozHQNF0mA&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/5JtXDw6.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+ <info>[COLOR lime][B]En el campo de la ufología y en el de la ciencia ficción se llama abducción al acto en el cual uno o más seres extraterrestres toman a un ser vivo terrestre contra su voluntad, lo secuestran y lo llevan a algún sitio determinado, generalmente a su propia nave espacial....[/B][/COLOR]</title></info>
+</item
+
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Documentales:[/B][/COLOR][B] Ovnis y Ufología Documentales [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+de+ovnis&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/4DhqdV7.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+ <info>[COLOR lime][B]Documentales Ovnis y Ufologia de calidad para mentes inquietas...[/B][/COLOR]</title></info>
+</item>
+
+
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Documentales:[/B][/COLOR][B] Alienigenas Ancestrales[/B][/COLOR]</title>
+ <link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+de+alienigenas+ancestrales&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/7QeOatM.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+ <info>[COLOR lime][B]Los investigadores recorren el mundo en busca de evidencias para determinar si la vida en la Tierra comenzó en el espacio y si los alienígenas influenciaron a la raza humana en tiempos antiguos....[/B][/COLOR]</title></info>
+</item>
+
+
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Documentales:[/B][/COLOR][B] Alienigenas Caso Abierto [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=buscando+Documentales+alienigenas+caso+abierto&list=PLmQ8A_lK0Lz_qqbIyCBpNQTvCa8phE5h6&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/sNcQmev.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+ <info>[COLOR lime][B]Alienígenas: caso abierto - La Ley de la Libertad de la Información de Estados Unidos de 2011 ha permitido que salgan a la luz numerosos expedientes sobre ...[/B][/COLOR]</title></info>
+</item
+
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Documentales:[/B][/COLOR][B] Creacionismo Alienígena[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Creacionismo%20Alien%c3%adgena&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/LFIzY7S.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+ <info>[COLOR lime][B]El creacionismo alienígena es la postura pseudohistórica y pseudocientífica que defiende la intervención de una o varias civilizaciones extraterrestres en el ...[/B][/COLOR]</title></info>
+</item>
+
+
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Documentales:[/B][/COLOR][B] Misterios Alienigenas[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Cazadores+Misterios+Alienigenas+CANAL+HISTORIA&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/KKLDfok.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+ <info>[COLOR lime][B]Cazadores de misterios: Alienígenas. No estamos solos. Un misterioso correo electrónico nos llevará a la que podría ser una enorme base submarina de ovnis ......[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Documentales:[/B][/COLOR][B] Cuarto Milenio y Milenio 3[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=cuarto+milenio+ovni+extraterrestre&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/nRJhriB.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+ <info>[COLOR lime][B]Descubre con Iker Jiménez todos los misterios de la arqueología, la investigación criminal y la ciencia de la mano de los mejores catedráticos, criminalistas, ......[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Documentales:[/B][/COLOR][B] Expedientes X[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Documentales%20Expwediente%20x&search_type=playlist</jsonrpc>
+<thumbnail>https://i0.wp.com/www.dogmacero.org/wp-content/uploads/xfiles3.jpg?fit=500%2C500</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+ <info>[COLOR lime][B]La NASA publicó una oferta de empleo: “Planetary Protection Officer” (PPO), una persona encargada de eliminar de la Tierra cualquier tipo de contaminación extraterrestre y de lo contrario, evitar la contaminación terrestre en el resto del universo....[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Documentales:[/B][/COLOR][B] Expedientes X (Rusos)[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=expedientes+x+rusos&sp=CAISBhABGAIgAUIECAESAA%253D%253D</jsonrpc>
+<thumbnail>https://i.imgur.com/wIbi9Y1.png</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+ <info>[COLOR lime][B]La vieja Unión Soviética era una tierra llena de secretos. Ahora que ha caído el Telón de Acero podemos investigar esos rumores. Con testimonios e impactantes reconstrucciones dramatizadas daremos vida a estas historias extraordinarias.[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Documentales:[/B][/COLOR][B] Iluminatis [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=iluminatis+alienigenas&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/rPerFCl.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+ <info>[COLOR lime][B]La Orden de los Iluminados (Illuminatenorden en el original alemán, compuesto derivado del latín illuminati, ‘iluminados’, y orden) es el nombre dado a varios grupos. ...[/B][/COLOR]</title></info>
+</item>
+
+
+
+<item>
+   <title>[COLOR lime][COLOR yellow][B] Documentales:[/B][/COLOR][B] Conoce el Universo (Documentales Sobre el Universo) [/B][/COLOR]</title>
+<link>nolink</link>
+<externallink>https://bit.ly/2HHLdDX</externallink>
+<thumbnail>https://i.imgur.com/LFBUjsJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+ <info>[COLOR lime][B]El universo es la totalidad del espacio y del tiempo, de todas las formas de la materia, la energía, el impulso, las leyes y constantes físicas que las gobierna...[/B][/COLOR]</title></info>
+</item>
+<item>
+<title>[COLOR lime][B] UNIVERSO: [/B][/COLOR]</title>
+<externallink>https://bit.ly/2HHLdDX</externallink>
+<thumbnail>https://i.imgur.com/IweM51g.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+<info>[COLOR lime][B] Los (*) Blancos, indican nuevo contenido disponible o actualizacion de la seccion. [/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][B] Universo: Llamaradas solares  [/B][/COLOR][COLOR][B](*)[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=llamarada+solares+documental&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/Vmv40qx.jpg</thumbnail>
+<fanart>https://i.imgur.com/l69DnyO.jpg</fanart>
+ <info>[COLOR lime][B]Llamaradas Solares, los mejores documentales del genero. ...[/B][/COLOR]</title></info>
+</item>
+
+
+<item>
+<title>[COLOR lime][B] Universo: El Universo [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+de+UNIVERSO&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/FIbldZ6.jpg</thumbnail>
+<fanart>https://i.imgur.com/xZKMxH6.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B] Universo: El Cosmos Carl Sagan[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+de+El+Cosmos+Carl+Sagan&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/XeIZtyJ.jpg</thumbnail>
+<fanart>https://i.imgur.com/xZKMxH6.jpg</fanart>
+</item>
+
+<item>
+<title>[COLOR lime][B] Universo:El Universo de Stephen Hawking[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=el+universo+de+stephen+hawking&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/CRlP8BZ.jpg</thumbnail>
+<fanart>https://i.imgur.com/xZKMxH6.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR lime][B] Universo: Grandes Misterios Del Universo con Morgan Freeman[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Grandes+Misterios+Del+Universo+con+Morgan+Freeman&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/y0qWQGh.jpg</thumbnail>
+<fanart>https://i.imgur.com/xZKMxH6.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR lime][B] Universo: Viajes Espaciales[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de+viajes+espaciales&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/gkzO7ev.jpg</thumbnail>
+<fanart>https://i.imgur.com/xZKMxH6.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR lime][B] Universo: NASA[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de+NASA&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/KbIBtOk.jpg</thumbnail>
+<fanart>https://i.imgur.com/xZKMxH6.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR lime][B] Universo: Universos Paralelos[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de+Universos+Paralelos&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/eyppmmP.jpg</thumbnail>
+<fanart>https://i.imgur.com/xZKMxH6.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR lime][B] Universo: Universo Inexplicable [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+de+Universo+inexplicable+con+Neil+deGrasse+Tyson+Isaac&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/6dUf4bX.jpg</thumbnail>
+<fanart>https://i.imgur.com/xZKMxH6.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR lime][B] Universo: ISS Estacion Internacional [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=iss+la+estacion+internacional+castellano&sp=CAISBBABGAJCBAgAEgA%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/JBctCu1.jpg</thumbnail>
+<fanart>https://i.imgur.com/xZKMxH6.jpg</fanart>
+</item>
+
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] O.V.N.I:[/B][/COLOR][B] Canales En Directo y Off-line [/B][/COLOR]</title>
+<link>nolink</link>
+<externallink>https://bit.ly/2MmFZAZ</externallink>
+  <fanart>https://i.imgur.com/JBctCu1.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/WlhZJBg.jpg</thumbnail>
+ <info>[COLOR lime][B]Canales On-line y Canales Youtuber de difusion y actualizados a diario...[/B][/COLOR]</title></info>
+</item>
+
+
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Canal On-line:[/B][/COLOR][B] Secrets of The Universe Live Stream Spark (Subtitulado) [/B][/COLOR]</title>
+<urlsolve>https://www.youtube.com/watch?v=jyzIv_uLiXs</urlsolve>
+<thumbnail>https://i.imgur.com/xZKMxH6.jpg</thumbnail>
+<fanart>https://i.imgur.com/cMYzVG4.jpg</fanart>
+ <info>[COLOR lime][B]canal de youtube en streaming (Subtitulado)[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Canal On-line:[/B][/COLOR][B] NASA TV Public-Education (Subtitulado)[/B][/COLOR]</title>
+<urlsolve>https://www.youtube.com/watch?v=wwMDvPCGeE0</urlsolve>
+<thumbnail>https://i.imgur.com/XTmEuwI.jpg</thumbnail>
+<fanart>https://i.imgur.com/cMYzVG4.jpg</fanart>
+ <info>[COLOR lime][B]canal de youtube en streaming (Subtitulado)[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Canal On-line:[/B][/COLOR][B] NASA TV Media (Subtitulado)[/B][/COLOR]</title>
+<urlsolve>https://www.youtube.com/watch?v=P11y8N22Rq0</urlsolve>
+<thumbnail>https://i.imgur.com/KbIBtOk.jpg</thumbnail>
+<fanart>https://i.imgur.com/cMYzVG4.jpg</fanart>
+ <info>[COLOR lime][B]canal de youtube en streaming (Subtitulado)[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Canal On-line:[/B][/COLOR][B] Earth from space : Time Lapse Collection - Images from astronauts on the ISS[/B][/COLOR]</title>
+<urlsolve>https://www.youtube.com/watch?v=qyEzsAy4qeU</urlsolve>
+<thumbnail>https://i.imgur.com/c9jFzrS.jpg</thumbnail>
+<fanart>https://i.imgur.com/cMYzVG4.jpg</fanart>
+ <info>[COLOR lime][B]canal de youtube en streaming (Imagenes de los astronautas, Time Lapse Collection...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Canales Especializados de YouTube[/B] [/COLOR]</title>
+<link>nolink</link>
+<thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
+<fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
+ <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item>
+
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Canal YouTube:[/B][/COLOR][B] Planeta Snakedos (RECOMENDABLE) [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/aUNIWH-5pGc/playlist/PLVKGvkI_Wh3CZRwADI-1LQBIbQrbjDUNi/</jsonrpc>
+<thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
+<fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
+ <info>[COLOR lime][B]Canales Especializados de YouTube[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Canal YouTube:[/B][/COLOR][B] Mundo desconocidos [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=mundos+desconocidos&sp=UUnOAynBmYKA1neozHQNF0mA&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
+<fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
+ <info>[COLOR lime][B]Canales Especializados de YouTube[/B][/COLOR]</title></info>
+</item>
+
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Canal YouTube:[/B][/COLOR][B] Vicente fuentes[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=vicente+fuentes&sp=UUWI70VlhoBiCvhmDMQle9UAmA&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
+<fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
+ <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Canal YouTube:[/B][/COLOR][B] UFOvnis[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=UFOvnis&sp=UUbWqoBboiayXdrAF07SJB7A&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
+<fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
+ <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Canal YouTube:[/B][/COLOR][B] Verdad Oculta [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Verdad+oculta&list=UUALE1jdtTAmgzyyH4FMU5pQ</jsonrpc>
+<thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
+<fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
+ <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Canal YouTube:[/B][/COLOR][B] Atraviesa lo Desconocido [/B][/COLOR]</title>
+<link>ignore</link>https://www.youtube.com
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=atraviesa+lo+desconocido&list=UUnpy6aaJeb29DZJ8bsCgRiQ</jsonrpc>
+<thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
+<fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
+ <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item>
+
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Canal YouTube:[/B][/COLOR][B] La granja Humana [/B][/COLOR]</title>
+<link>ignore</link>https://www.youtube.com
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=la+granja+humana&list=UUnpy6aaJeb29DZJ8bsCgRiQ</jsonrpc>
+<thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
+<fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
+ <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item>
+<item>
+<title>[COLOR lime][COLOR yellow][B] Canal YouTube:[/B][/COLOR][B] VM Gran Misterio [/B][/COLOR]</title>
+<link>ignore</link>https://www.youtube.com
+<jsonrpc>plugin://plugin.video.youtube/channel/J6ysldgQCfQ/playlist/UUcbUuPjp7J32YSIESrUe76A/</jsonrpc>
+<thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
+<fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
+ <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Canal YouTube:[/B][/COLOR][B] Jaconor 73 [/B][/COLOR]</title>
+<link>ignore</link>https://www.youtube.com
+<jsonrpc>plugin://plugin.video.youtube/channel/3hAU3OlZn8A/playlist/UUM0AdqMFG8_TSL7MJy--RCA/</jsonrpc>
+<thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
+<fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
+ <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Canal YouTube:[/B][/COLOR][B] La caja de Pandora [/B][/COLOR]</title>
+<link>ignore</link>https://www.youtube.com
+<jsonrpc>plugin://plugin.video.youtube/channel/d8jBEYeluoY/playlist/UUXV8HmDQt2akopxAQQt3oeg/</jsonrpc>
+<thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
+<fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
+ <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item>
+
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Canal YouTube:[/B][/COLOR][B] JJ.Benitez[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=jj.benitez+ovnis+y+extraterrestres&sp=CAISBBgCIAFCBAgBEgA%253D</jsonrpc>
+<thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
+<fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
+ <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Canal YouTube:[/B][/COLOR][B] Erick Von Däniken[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=eric+von+daniken&sp=EgIYAkIECAESAA%253D%253D</jsonrpc>
+<thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
+<fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
+ <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
+</item>
+
+<title>[COLOR lime][COLOR yellow][B] O.V.N.I:[/B][/COLOR][B] Razas Alienigenas [/B][/COLOR]</title>
+<link>nolink</link>
+<externallink>https://bit.ly/2JP3TH6</externallink>
+<fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
+  <thumbnail>https://i.imgur.com/OxN5RyN.jpg</thumbnail>
+ <info>[COLOR lime][B]Que Sabemos de las distintas razas de alienigenas que nos visitan..? Salgamos de dudas...[/B][/COLOR]</title></info>
+</item>
+
+
+
+<item>
+<title>[COLOR lime][B] Razas: Anunnaki (Nibiru) [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=anunnakis+nibiru&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/bZtfhfK.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+ <info>[COLOR lime][B]Los Anunnaki (antigua transcripción acadia por el sumerio Anunna) son un grupo de deidades sumerias y acadias que son identificados en los textos como los Anunna y con los Igigi, los dioses menores.[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][B] Razas: Reptilianos[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=reptilianos+extraterrestres&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/FKQPD1G.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+<info>[COLOR lime][B]¿Has escuchado hablar de los reptilianos? Estos seres extraños y espeluznantes son realmente famosos dentro de la cultura popular porque existen muchas personas que señalan que son reales. [/B][/COLOR]</title></info>
+</item>
+
+
+<item>
+<title>[COLOR lime][B] Razas: Grises Altos o Blancos (Orión)[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=grises+extraterrestres&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/FQdaQOF.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+<info>[COLOR lime][B]¿Quiénes son los seres con cabezas grandes y ojos gigantes que parecen haber estado visitando nuestro planeta durante miles de años? Conocido por los investigadores como los "grises", estos seres misteriosos han sido representados en el arte rupestre ¿Quiénes son, de qué planeta vienen.[/B][/COLOR]</title></info>
+<item>
+</item>
+
+
+<title>[COLOR lime][B] Razas: Sirianos (Sirio B)[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Sirianos+extraterrestres&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/QWruxD8.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+<info>[COLOR lime][B]Los Sirios juegan el papel de poner a tierra en la Tierra información avanzada, .... La influencia de Lira (otros sistemas estelares en la constelación de Lira...[/B][/COLOR]</title></info>
+</item>
+
+
+<item>
+<title>[COLOR lime][B] Razas: Pleyadianos (Las Pléyades)[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Pleyadianos&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/UlFBhmQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+<info>[COLOR lime][B]Los pleyadianos son un colectivo de entidades procedentes de las siete estrellas que nosotros conocemos como Las Pléyades. Ellos dicen que son nuestros ancestros, pues aportaron su ADN para el surgimiento de la raza humana. Por eso se les conoce como nuestro grupo seminal. [/B][/COLOR]</title></info>
+</item>
+
+
+<item>
+<title>[COLOR lime][B] Razas: Andromedanos[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Andromedanos&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/UxdZx02.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+<info>[COLOR lime][B]Los Andromedanos son seres humanos del sistema de Zenetae en la Galaxia de Andrómeda, su apariencia también corresponde a la nuestra aunque también tienen características tales como: piel azulada, blanquesina y en algunos casos rojisa, su estatura es muy variable y puede variar desde el1.60mts hasta los 2.30mts de estatura, algunos de ellos no tienen cabello.[/B][/COLOR]</title></info>
+</item>
+
+
+
+<item>
+<title>[COLOR lime][B] Razas: Veganos (Lyra)[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=veganos+ovnis+extraterrestres&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/Nj8k5tz.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+<info>[COLOR lime][B]Diseminando la verdadera historia de la raza de piel oscura/azul en la Galxia, y asistiendo a la humanidad en la comprensión de su potencial y motivación.[/B][/COLOR]</title></info>
+</item>
+
+
+
+<item>
+<title>[COLOR lime][B] Razas: Telosianos [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=Telosianos&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/Tkiuv7y.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+<info>[COLOR lime][B]Descrito como siendo humanoides altos y rubios, los Telosianos se cree por muchos como los últimos sobrevivientes de las civilizaciones ...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][B] Razas: Todas las Razas [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=todas+las+razas+de+extraterrestre&sp=CAISBBABGAJCBAgAEgA%253D</jsonrpc>
+<thumbnail>https://i.imgur.com/1OuWaT3.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+<info>[COLOR lime][B]Aqui encontraras informacion sobre otras muchas razas que nos visitan que no hemos podido resumir anteriormente...[/B][/COLOR]</title></info>
+</item>
+
+
+<item>
+<title>[COLOR white][COLOR lime][COLOR yellow][B] O.V.N.I:[/B][/COLOR][B] Contenido Extra...[/B][/COLOR][B]  [/B][/COLOR]</title>
+<link>ignore</link>
+<externallink>https://bit.ly/2JRxJKQ</externallink>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/vC8jyvX.jpg</thumbnail> 
+ <info>[COLOR lime][B]Seccion con mucho mas contenido perfectamente ordenado que seguro encuentras interesante...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Civicilizaciones Alienigenas [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=civilizaciones+extraterrestres&sp=CAISBBgCIAFCBAgBEgA%253D</jsonrpc>
+<thumbnail>https://i.imgur.com/lhIMM9W.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+<info>[COLOR lime][B]Habitaron antes nuestro Planeta?...Las civilizaciones pasadas fueron influenciadas por Alienigenas?[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Posibles Planetas habitados[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=posibles+planetas+alienigena&sp=CAJCBAgBEgA%253D</jsonrpc>
+<thumbnail>https://i.imgur.com/F7CjsgM.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+<info>[COLOR lime][B]Existe vida en otros Planetas?...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Las Mejoras Zonas de Avistamientos de O.V.N.I.S[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=las+mejores+zonas+para+avistamiento+de+ovnis&sp=CAJCBAgBEgA%253D</jsonrpc>
+<thumbnail>https://i.imgur.com/JQyXGP2.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+<info>[COLOR lime][B]Donde se ven mas Ovnis? desde que lugar sera mas facil poder avistarlos?...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] El Lenguaje de los Extraterrestres[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=el+lenguaje+de+los+extraterrestres&sp=EgQYAiABQgQIABIA</jsonrpc>
+<thumbnail>https://i.imgur.com/331PFZM.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+<info>[COLOR lime][B]Como se comunican los Alienigenas? Que sabemos de su lenguaje?...[/B][/COLOR]</title></info>
+
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Proyecto S.E.T.I[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=proyecto+seti&sp=EgQYAiABQgQIABIA</jsonrpc>
+<thumbnail>https://i.imgur.com/cMYzVG4.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+<info>[COLOR lime][B]Durante años hemos estado escuchando el cosmos en busca de una señal de vida en otros planetas...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Tecnologia Extraterrestre[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+ingenieria+alienigena+o+extraterrestre&sp=CAISAhgCQgQIABIA</jsonrpc>
+<thumbnail>https://i.imgur.com/vC8jyvX.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+<info>[COLOR lime][B]Que avances tecnologicos de nuestra era han sido facilitados por alienigenas? Tecnologia inversa y mucho mas...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Portales Dimensionales[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documentales+portales+dimensionales&sp=CAJCBAgBEgA%253D</jsonrpc>
+<thumbnail>https://i.imgur.com/oItiHci.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+<info>[COLOR lime][B]Puertas a otra dimension, Viajes en el tiempo, descubre como podrian estar llegando a nuestro Planeta...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Implantes Alienigenas[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=implantes+extraterrestres+en+humanos&sp=EgIYAkIECAESAA%253D%253D</jsonrpc>
+<thumbnail>https://i.imgur.com/SUYuHhA.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+<info>[COLOR lime][B]Nos monitorizan? Saben en todo momento lo que hacemos? nos tienen controlados?...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Profecias Alienigenas[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=profecias+predicciones+alienigenas+extraterrestres&sp=EgIYAkIECAESAA%253D%253D</jsonrpc>
+<thumbnail>https://i.imgur.com/NRMirSi.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+<info>[COLOR lime][B]Que nos depara el futuro? Cuales son las previsiones para los proximos tiempos?...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Area 51 [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=area+51&sp=CAISBBgCIAFCBAgBEgA%253D</jsonrpc>
+<thumbnail>https://i.imgur.com/HEyd5MU.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+<info>[COLOR lime][B]El Área 51, también conocida como Groom Lake o Homey Airport es un destacamento remoto de la Base de la Fuerza Aérea de Nellis.[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Ovnis en el Mar [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ovnis+en+el+mar&sp=CAISBBgCIAFCBAgBEgA%253D</jsonrpc>
+<thumbnail>https://i.imgur.com/rBTjkIl.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+<info>[COLOR lime][B]Avistamientos de Ovnis en el mar.[/B][/COLOR]</title></info>
+</item>
+<item>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Conspiraciones Alienigenas [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=conspiracines+alienigenas&sp=CAISBBgCIAFCBAgBEgA%253D</jsonrpc>
+<thumbnail>https://i.imgur.com/1OuWaT3.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+<info>[COLOR lime][B]Avistamientos de Ovnis en el mar.[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR white][COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Circulo en las cosechas [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=circulos+en+las+cosechas&sp=CAJCBAgBEgA%253D</jsonrpc>
+<thumbnail>https://i.imgur.com/e2R6JWQ.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+<info>[COLOR lime][B]Tecnologia Alienigena, sus naves, sus inventos...[/B][/COLOR]</title></info>
+</item>
+<item>
+<title>[COLOR white][COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Orbis [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=orbs+documentales&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/YawrAqf.png</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+<info>[COLOR lime][B]El MIsterio de las Bolas de Luz...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR white][COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Vortice Viles[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=vortices+energeticos+en+la+tierra&sp=EgIYAg%253D%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/tpCB33m.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+<info>[COLOR lime][B]El MIsterio de las Bolas de Luz...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR white][COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] MK Ultra [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+mk+ultra&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/qj6HMlk.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+<info>[COLOR lime][B]El MIsterio de las Bolas de Luz...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR white][COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Calaveras de Cristal[/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=calaveras+de+cristal&sp=EgIYAg%253D%253D&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/2OwuaNp.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+<info>[COLOR lime][B]El MIsterio de las Bolas de Luz...[/B][/COLOR]</title></info>
+</item>
+
+
+<item>
+<title>[COLOR white][COLOR lime][COLOR yellow][B] O.V.N.I:[/B][/COLOR][B] Todavia mas Contenido Extra...!!![/B][/COLOR][B]  [/B][/COLOR]</title>
+<link>ignore</link>
+<externallink>https://bit.ly/2C67c9Y</externallink>
+<thumbnail>https://i.imgur.com/KKLDfok.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+<info>[COLOR lime][B]Volver al Menu Principal...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Accidentes aereos Ovni [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=accidentes+ovni&search_type=playlist</jsonrpc>
+<thumbnail>https://i.imgur.com/94z8pCC.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+<info>[COLOR lime][B]Accidentes de Ovnis registrados...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Esfera de Daison[/B][/COLOR]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=esfera+de+daisoni&search_type=playlist</jsonrpc>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/eISwcfD.jpg</thumbnail>
+ <info>[COLOR white][B]Canales On-line y Canales Youtuber de difusion y actualizados a diario...[/B][/COLOR]</title></info>
+</item>
+
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Alienigenas Bajo Tierra[/B][/COLOR]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=alienigenas+bajo+tierra&search_type=playlist</jsonrpc>
+  <fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/oSt2iRH.jpg</thumbnail>
+ <info>[COLOR white][B]Canales On-line y Canales Youtuber de difusion y actualizados a diario...[/B][/COLOR]</title></info>
+</item>
+
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Los Archivos Secretos del Vaticano[/B][/COLOR]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+los+archivos+secretos+del+vaticano&search_type=playlist</jsonrpc>
+  <fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/pH1NPvS.jpg</thumbnail>
+ <info>[COLOR white][B]Canales On-line y Canales Youtuber de difusion y actualizados a diario...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Objetos Fuera de Tiempo (Oopart)[/B][/COLOR]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+objetos+fuera+de+tiempo&search_type=playlist</jsonrpc>
+  <fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/PYsC3Qd.jpg</thumbnail>
+ <info>[COLOR white][B]Canales On-line y Canales Youtuber de difusion y actualizados a diario...[/B][/COLOR]</title></info>
+</item>
+
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Planeta Nemesis[/B][/COLOR]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+planeta+nemesis&search_type=playlist</jsonrpc>
+  <fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/Ls8azoN.jpg</thumbnail>
+ <info>[COLOR white][B]Canales On-line y Canales Youtuber de difusion y actualizados a diario...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Reliquias Alienigenas[/B][/COLOR]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=reliquias+alienigenas&search_type=playlist</jsonrpc>
+  <fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/ojIxzlq.jpg</thumbnail>
+ <info>[COLOR white][B]Canales On-line y Canales Youtuber de difusion y actualizados a diario...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] O.V.N.I:[/B][/COLOR][B] Ultimas Noticias..!!! [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ultimas+noticias+sobre+ovnis+y+extraterrestres&sp=CAJCBAgBEgA%253D</jsonrpc>
+<thumbnail>https://i.imgur.com/YkHKWrT.jpg</thumbnail>
+  <fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+  <info>[COLOR lime][B]Ultimas Noticias: Que esta pasando? En este preciso instante en algun lugar de nuestro planeta seguro hay alguna noticia nueva de nuestro interes. A que esperas para estar al dia.[/B][/COLOR]</title></info>
+</item>
+
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] O.V.N.I:[/B][/COLOR][B] Audio Libros [/B][/COLOR]</title>
+<link>ignore</link>
+<jsonrpc>plugin://plugin.video.youtube/channel/t3q7TIr2REM/playlist/PLQZnrUFVQlmkk7KrrRlfNfRrF0zQqCu54/</jsonrpc>
+<thumbnail>https://i.imgur.com/uZ97Kv6.jpg</thumbnail>
+<fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+  <info>[COLOR lime][B]Seccion de Audiolibros sobre la misma Tematica.. recomendable, ideal escucharlos con cascos auriculares para una mejor experiencia[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][B] Otros Addons del mismo creador[/B][/COLOR][B][COLOR yellow][B]...[/B][/COLOR]</title>
+<link>nolink</link>
+<externallink>https://bit.ly/2MEVc4a</externallink>
+ <fanart>https://i.imgur.com/CGA9dL7.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/x3DhbGo.jpg</thumbnail>
+ <info>[COLOR lime][B]Otros Addons de Contenido Tematico del Mismo Creador.[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][B] ...[/B][/COLOR]</title>
+<link>nolink</link>
+<externallink></externallink>
+  <fanart>https://i.imgur.com/JBctCu1.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/x3DhbGo.jpg</thumbnail>
+ <info>[COLOR lime][B]Otros Addons de Contenido Tematico del Mismo Creador.[/B][/COLOR]</title></info>
+</item>
+
+<item><title>[COLOR yellow][B] Volver al Menu Principal...[/B][/COLOR]</title>
+<link>ignore</link>
+<externallink>https://bit.ly/2JP1rjR</externallink>
+ <fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/l9JLN8E.jpg</thumbnail>
+<info>[COLOR lime][B]Volver al Menu Principal...[/B][/COLOR]</title></info>
+</item>
