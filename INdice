@@ -9,7 +9,7 @@
 
 
 <item>
-<title>[COLOR lime] Peliculas[/B][/COLOR]</title>
+<title>[COLOR lime][B] Peliculas[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2HJQomJ</externallink>
   <fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
@@ -309,7 +309,7 @@
 <thumbnail>https://i.imgur.com/JBctCu1.jpg</thumbnail>
  <fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
 <item>
-<title>[COLOR lime] Canales En Directo y Off-line [/B][/COLOR]</title>
+<title>[COLOR lime][B] Canales En Directo y Off-line [/B][/COLOR]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2MmFZAZ</externallink>
  <fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
@@ -352,7 +352,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][COLOR yellow][B] Canales Especializados de YouTube[/B] [/COLOR]</title>
+<title>[COLOR lime][B] Canales Especializados de YouTube[/B] [/COLOR]</title>
 <link>nolink</link>
 <thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
  <fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
@@ -469,8 +469,8 @@
  <fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
  <info>[COLOR lime][B]Canales Especializados de YouTube donde encontraras las ultimas noticias y contenido exclusivo...[/B][/COLOR]</title></info>
 </item>
-
-<title>[COLOR lime] Razas Alienigenas [/B][/COLOR]</title>
+<item>
+<title>[COLOR lime][B] Razas Alienigenas [/B][/COLOR]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2JP3TH6</externallink>
  <fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
@@ -478,8 +478,9 @@
  <info>[COLOR lime][B]Que Sabemos de las distintas razas de alienigenas que nos visitan..? Salgamos de dudas...[/B][/COLOR]</title></info>
 </item>
 
+
 <item>
-<title>[COLOR lime][COLOR yellow][B] Razas: Anunnaki (Nibiru) [/B][/COLOR]</title>
+<title>[COLOR lime][COLOR yellow][B] Razas:[/B][/COLOR][B] Anunnaki (Nibiru) [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=anunnakis+nibiru&sp=EgIQAw%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/bZtfhfK.jpg</thumbnail>
@@ -569,7 +570,7 @@
 
 
 <item>
-<title>[COLOR lime] Contenido Extra...[/B][/COLOR][B]  [/B][/COLOR]</title>
+<title>[COLOR lime][B] Contenido Extra...[/B][/COLOR][B]  [/B][/COLOR]</title>
 <link>ignore</link>
 <externallink>https://bit.ly/2JRxJKQ</externallink>
 <fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
@@ -685,7 +686,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B]] Circulo en las cosechas [/B][/COLOR]</title>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Circulo en las cosechas [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=circulos+en+las+cosechas&sp=CAJCBAgBEgA%253D</jsonrpc>
 <thumbnail>https://i.imgur.com/e2R6JWQ.jpg</thumbnail>
@@ -693,7 +694,7 @@
 <info>[COLOR lime][B]Tecnologia Alienigena, sus naves, sus inventos...[/B][/COLOR]</title></info>
 </item>
 <item>
-<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B][/B][/COLOR][B] Orbis [/B][/COLOR]</title>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Orbis [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=orbs+documentales&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/YawrAqf.png</thumbnail>
@@ -702,7 +703,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B][/B][/COLOR][B] Vortice Viles[/B][/COLOR]</title>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Vortice Viles[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=vortices+energeticos+en+la+tierra&sp=EgIYAg%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/tpCB33m.jpg</thumbnail>
@@ -711,7 +712,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B][/B][/COLOR][B] MK Ultra [/B][/COLOR]</title>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] MK Ultra [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+mk+ultra&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/qj6HMlk.jpg</thumbnail>
@@ -720,7 +721,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B][/B][/COLOR][B] Calaveras de Cristal[/B][/COLOR]</title>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B][/B] Calaveras de Cristal[/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=calaveras+de+cristal&sp=EgIYAg%253D%253D&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/2OwuaNp.jpg</thumbnail>
@@ -730,7 +731,7 @@
 
 
 <item>
-<title>[COLOR lime] Todavia mas Contenido Extra...!!![/B][/COLOR][B]  [/B][/COLOR]</title>
+<title>[COLOR lime][B] Todavia mas Contenido Extra...!!!  [/B][/COLOR]</title>
 <link>ignore</link>
 <externallink>https://bit.ly/2C67c9Y</externallink>
 <thumbnail>https://i.imgur.com/KKLDfok.jpg</thumbnail>
@@ -739,7 +740,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B][/B][/COLOR][B] Accidentes aereos Ovni [/B][/COLOR]</title>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Accidentes aereos Ovni [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=accidentes+ovni&search_type=playlist</jsonrpc>
 <thumbnail>https://i.imgur.com/94z8pCC.jpg</thumbnail>
@@ -748,7 +749,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B][/B][/COLOR][B] Esfera de Daison[/B][/COLOR]</title>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Esfera de Daison[/B][/COLOR]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=esfera+de+daisoni&search_type=playlist</jsonrpc>
 <fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
@@ -758,7 +759,7 @@
 
 
 <item>
-<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B][/B][/COLOR][B] Alienigenas Bajo Tierra[/B][/COLOR]</title>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Alienigenas Bajo Tierra[/B][/COLOR]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=alienigenas+bajo+tierra&search_type=playlist</jsonrpc>
   <fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
@@ -768,7 +769,7 @@
 
 
 <item>
-<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B][/B][/COLOR][B] Los Archivos Secretos del Vaticano[/B][/COLOR]</title>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Los Archivos Secretos del Vaticano[/B][/COLOR]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+los+archivos+secretos+del+vaticano&search_type=playlist</jsonrpc>
   <fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
@@ -777,7 +778,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B][/B][/COLOR][B] Objetos Fuera de Tiempo (Oopart)[/B][/COLOR]</title>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Objetos Fuera de Tiempo (Oopart)[/B][/COLOR]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+objetos+fuera+de+tiempo&search_type=playlist</jsonrpc>
   <fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
@@ -787,7 +788,7 @@
 
 
 <item>
-<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B][/B][/COLOR][B] Planeta Nemesis[/B][/COLOR]</title>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Planeta Nemesis[/B][/COLOR]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+planeta+nemesis&search_type=playlist</jsonrpc>
   <fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
@@ -796,7 +797,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B][/B][/COLOR][B] Reliquias Alienigenas[/B][/COLOR]</title>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Reliquias Alienigenas[/B][/COLOR]</title>
 <link>nolink</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=reliquias+alienigenas&search_type=playlist</jsonrpc>
   <fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
@@ -805,7 +806,7 @@
 </item>
 
 <item>
-<title>[COLOR lime] Ultimas Noticias..!!! [/B][/COLOR]</title>
+<title>[COLOR lime][B] Ultimas Noticias..!!! [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=ultimas+noticias+sobre+ovnis+y+extraterrestres&sp=CAJCBAgBEgA%253D</jsonrpc>
 <thumbnail>https://i.imgur.com/YkHKWrT.jpg</thumbnail>
@@ -815,7 +816,7 @@
 
 
 <item>
-<title>[COLOR lime] Audio Libros [/B][/COLOR]</title>
+<title>[COLOR lime][B] Audio Libros [/B][/COLOR]</title>
 <link>ignore</link>
 <jsonrpc>plugin://plugin.video.youtube/channel/t3q7TIr2REM/playlist/PLQZnrUFVQlmkk7KrrRlfNfRrF0zQqCu54/</jsonrpc>
 <thumbnail>https://i.imgur.com/uZ97Kv6.jpg</thumbnail>
@@ -824,7 +825,7 @@
 </item>
 
 <item>
-<title>[COLOR yellow][B] Otros Addons del mismo creador.[/B][/COLOR]</title>
+<title>[COLOR lime][B] Otros Addons del mismo creador.[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink>https://bit.ly/2MEVc4a</externallink>
  <fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
@@ -843,7 +844,7 @@
 
 <item><title>[COLOR yellow][B] Volver al Menu Principal...[/B][/COLOR]</title>
 <link>ignore</link>
-<externallink>https://bit.ly/2JP1rjR</externallink>
+<externallink>https://bit.ly/2NUoXy4</externallink>
  <fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
   <thumbnail>https://i.imgur.com/l9JLN8E.jpg</thumbnail>
 <info>[COLOR lime][B]Volver al Menu Principal...[/B][/COLOR]</title></info>
