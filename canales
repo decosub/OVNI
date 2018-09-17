@@ -1,6 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <item>
+<title>[COLOR lime]Canal On-line:[/B][/COLOR]</title>
+<externallink></externallink>
+  <thumbnail>https://i.imgur.com/WlhZJBg.jpg</thumbnail>
+<fanart>https://i.imgur.com/cMYzVG4.jpg</fanart>
+ <info>[COLOR lime][B]canal de youtube en streaming (Subtitulado)[/B][/COLOR]</title></info>
+</item>
+
+
+<item>
 <title>[COLOR lime][COLOR yellow][B] Canal On-line:[/B][/COLOR][B] Secrets of The Universe Live Stream Spark (Subtitulado) [/B][/COLOR]</title>
 <urlsolve>https://www.youtube.com/watch?v=jyzIv_uLiXs</urlsolve>
 <thumbnail>https://i.imgur.com/xZKMxH6.jpg</thumbnail>
@@ -33,7 +42,7 @@
 </item>
 
 <item>
-<title>[COLOR lime][COLOR yellow][B] Canales Especializados de YouTube[/B] [/COLOR]</title>
+<title>[COLOR lime][B] Canales Especializados de YouTube[/B] [/COLOR]</title>
 <link>nolink</link>
 <thumbnail>https://i.imgur.com/tG8cbhc.jpg</thumbnail>
 <fanart>https://i.imgur.com/WEcRqsp.jpg</fanart>
