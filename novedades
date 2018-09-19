@@ -1,4 +1,58 @@
 <item>
+<title>[COLOR white][COLOR lime][B] Novedades del Addon:[/B][/COLOR][B] Actualizado 19/09/2018[/B][/COLOR]</title>
+<link>nolink</link>
+<externallink></externallink>
+  <fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/l9JLN8E.jpg</thumbnail>
+ <info>[COLOR lime][B]Importante Entrar para estas al dia de los nuevos contenidos y cambios del Addon...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Viajeros del Tiempo[/B][/COLOR]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+viajeros+en+el+tiempo&search_type=playlist</jsonrpc>
+  <fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/l9JLN8E.jpg</thumbnail>
+ <info>[COLOR white][B]Gente que afirma haber viajo desde otras eopcas a las nuestras y nos avisan del futuro que nos espera o como fue la historia..[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] La Granja Humana[/B][/COLOR]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=La+Granja+Humana&search_type=playlist</jsonrpc>
+  <fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/l9JLN8E.jpg</thumbnail>
+ <info>[COLOR white][B]Podria ser que fueramos un granja de carne para alimentar a seres de otros planetas ¿?...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Las Razas Segun el Genesis Extraterrestre[/B][/COLOR]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=genesis+extraterrestre&search_type=playlist</jsonrpc>
+  <fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/l9JLN8E.jpg</thumbnail>
+ <info>[COLOR white][B]Las Razas Segun el Genesis...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Vimanas[/B][/COLOR]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documen+tal+vimanas+en+la+india&search_type=playlist</jsonrpc>
+   <fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/l9JLN8E.jpg</thumbnail>
+ <info>[COLOR white][B]Vimanas, naves extraterrestres ancestrales documentadas por nuestros antepasados una evidencia de la existencia de alienigenas...[/B][/COLOR]</title></info>
+</item>
+
+<item>
+<title>[COLOR lime][COLOR yellow][B] Contenido Extra:[/B][/COLOR][B] Gigantes[/B][/COLOR]</title>
+<link>nolink</link>
+<jsonrpc>plugin://plugin.video.youtube/kodion/search/query/?q=documental+gigantes&search_type=playlist</jsonrpc>
+  <fanart>https://i.imgur.com/l9JLN8E.jpg</fanart> 
+  <thumbnail>https://i.imgur.com/l9JLN8E.jpg</thumbnail>
+ <info>[COLOR white][B]Existieron los Gigantes ¿? Tenemos pruebas de su existencia ¿?... descubramos que sabemos de ellos[/B][/COLOR]</title></info>
+</item>
+
+<item>
 <title>[COLOR white][COLOR lime][B] Novedades del Addon:[/B][/COLOR][B] Actualizado 17/09/2018[/B][/COLOR]</title>
 <link>nolink</link>
 <externallink></externallink>
